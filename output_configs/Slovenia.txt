@@ -1,8 +1,1 @@
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.53.188.254:8880?encryption=none&security=tls&sni=yg.bantony199.top&type=ws&host=yg.bantony199.top&path=%2F#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.53.189.254:8880?encryption=none&security=tls&sni=yg.bantony199.top&type=ws&host=yg.bantony199.top&path=%2F#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
-ss://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.53.191.254:8880?encryption=none&security=tls&sni=yg.bantony199.top&type=ws&host=yg.bantony199.top&path=%2F#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-4975
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.244.150:989#premium-si%20(1)
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.53.188.254:8880?encryption=none&security=tls&sni=yg.bantony199.top&type=ws&host=yg.bantony199.top&path=%2F#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.53.189.254:8880?encryption=none&security=tls&sni=yg.bantony199.top&type=ws&host=yg.bantony199.top&path=%2F#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@92.53.191.254:8880?encryption=none&security=tls&sni=yg.bantony199.top&type=ws&host=yg.bantony199.top&path=%2F#%F0%9F%87%B8%F0%9F%87%AE_%E6%96%AF%E6%B4%9B%E6%96%87%E5%B0%BC%E4%BA%9A

@@ -1,4 +1,2 @@
-ss://78f71fb4-3425-4eb8-a734-8b5401634fa8@195.133.11.229:443?security=tls&sni=lessless.duckdns.org&type=ws&host=lessless.duckdns.org&path=%2Fgetupdates&allowInsecure=1#🇦🇷_hamedp71_vless-AR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7%20AR-38.54.45.129%3A990
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7AR-38.54.45.129-5074
-vless://78f71fb4-3425-4eb8-a734-8b5401634fa8@195.133.11.229:443?security=tls&sni=lessless.duckdns.org&type=ws&host=lessless.duckdns.org&path=%2Fgetupdates&allowInsecure=1#🇦🇷_hamedp71_vless-AR
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@38.54.45.129:990#%F0%9F%87%A6%F0%9F%87%B7AR-38.54.45.129-5041
