@@ -1,5 +1,1 @@
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.132.188.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.132.188.29-8880+%7C+1.78ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.132.188.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.132.188.29-8880+%7C+2.32ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.177.176.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.177.176.29-8880+%7C+2.06ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.177.176.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.177.176.29-8880+%7C+2.7ms
 trojan://your_password@13.244.104.87:443?security=tls&sni=aws-za-capetown-1.f1rocketnode.com&allowInsecure=1&fp=chrome&type=tcp#%F0%9F%87%BF%F0%9F%87%A6%20South%20Africa%20-%20Cape%20Town%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
