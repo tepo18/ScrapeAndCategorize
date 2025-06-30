@@ -1,1 +1,2 @@
-trojan://85f133142f04dbf6547da33895cfabb3@113.99.140.184:39001?security=tls&sni=www.yrtok.com&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+ss://0daa320d-db18-4dc7-8a08-41d0f1385753@cbcc97ee-db64-468b-b6ac-9c9db2928da1.xn--04s765d.xyz:33491?encryption=none&flow=xtls-rprx-vision&security=none&sni=gateway.icloud.com&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+vless://0daa320d-db18-4dc7-8a08-41d0f1385753@cbcc97ee-db64-468b-b6ac-9c9db2928da1.xn--04s765d.xyz:33491?encryption=none&flow=xtls-rprx-vision&security=none&sni=gateway.icloud.com&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy

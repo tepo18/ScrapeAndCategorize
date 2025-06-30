@@ -1,4 +1,8 @@
+ss://3a559234-bb5f-4db7-95da-f65c43f8ad88@irancellserver18.gamelip.com:22482?security=none&encryption=none&host=amirzaplus.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇱🇻%20LV%20207ms
 ss://9966e820-772c-46b6-be0a-8fde377feedc@213.21.245.83:443?security=reality&sni=tgju.org&allowInsecure=1&fp=chrome&pbk=TXHciLv9Ctu7k7sdIcadLJIEa1WTCIseYctDMa6NW0c&sid=7e39db0c&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20NA%20%F0%9F%8C%8D%20VL-TCP-RLT%204%E2%83%A3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4=@195.123.213.12:31348#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+195.123.213.12-31348+%7C+112.3ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4=@195.123.213.12:31348#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+195.123.213.12-31348+%7C+108.55ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2OTloT05jcDRMbVd1OENrNmhFUE0zNHR0ODlFcUFKNTBrN0ZiUkJkckJieGpYMW4=@195.123.213.12:31348#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+195.123.213.12-31348+%7C+177.82ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@216.173.70.187:57456#LV%F0%9F%87%B1%F0%9F%87%BB+%7C+216.173.70.187-57456+%7C+171.8ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@89.46.238.35:989#%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A+-+%E9%87%8C%E5%8A%A0+-+EDIS+GmbH+-+1
+vless://3a559234-bb5f-4db7-95da-f65c43f8ad88@irancellserver18.gamelip.com:22482?security=none&encryption=none&host=amirzaplus.com&headerType=http&type=tcp#🆔speeds_vpn1%20🔓%20VL-TCP-N/A%20🇱🇻%20LV%20207ms
 vless://9966e820-772c-46b6-be0a-8fde377feedc@213.21.245.83:443?security=reality&sni=tgju.org&allowInsecure=1&fp=chrome&pbk=TXHciLv9Ctu7k7sdIcadLJIEa1WTCIseYctDMa6NW0c&sid=7e39db0c&type=tcp&packetEncoding=xudp&encryption=none#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20-%20NA%20%F0%9F%8C%8D%20VL-TCP-RLT%204%E2%83%A3
