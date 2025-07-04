@@ -1,2 +1,0 @@
-ss://7e296434-2d17-48d3-928d-19eaa34aecb1@al.accesspoints.cloakify.app:28495?type=tcp&security=reality&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&fp=random&sni=dl.google.com&sid=0ecc2c1392&spx=%2F#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇱%20AL%20167ms
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@al.accesspoints.cloakify.app:28495?type=tcp&security=reality&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&fp=random&sni=dl.google.com&sid=0ecc2c1392&spx=%2F#🆔ar14n24b%20🔒%20VL-TCP-%20🇦🇱%20AL%20167ms
