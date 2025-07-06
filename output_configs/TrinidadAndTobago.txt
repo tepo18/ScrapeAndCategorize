@@ -1,1 +1,1 @@
-trojan://Aimer@67.226.221.12:80?security=tls&sni=epml.ambercc.filegear-sg.me&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy
+trojan://Aimer@31.43.179.27:443?security=tls&sni=epml.ambercc.filegear-sg.me&type=tcp&headerType=none#%E5%85%8D%E8%B4%B9VPN%EF%BC%9Ahttps%3A%2F%2Ftt.vg%2FgwaAy

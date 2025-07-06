@@ -3,8 +3,8 @@ ss://348addbc-8717-56ef-a687-f5159a9f38f8@www.speedtest.net:443?security=tls&sni
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#%F0%9F%87%B2%F0%9F%87%BE%20MY-103.243.215.17%3A990
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.243.215.17:989#%F0%9F%87%B2%F0%9F%87%BE%20MY%201
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@103.243.215.17:989#premium-my
-ss://c4587bda09fc4b3b82214450fccc33d1Og==@malaysia.com:443#RELAY%F0%9F%9A%A9+%7C+malaysia.com-443+%7C+112.03ms
-ss://c4587bda09fc4b3b82214450fccc33d1Og==@malaysia.com:443#RELAY%F0%9F%9A%A9+%7C+malaysia.com-443+%7C+43.7ms
+ss://c4587bda09fc4b3b82214450fccc33d1Og==@malaysia.com:443#RELAY%F0%9F%9A%A9+%7C+malaysia.com-443+%7C+37.28ms
+ss://c4587bda09fc4b3b82214450fccc33d1Og==@malaysia.com:443#RELAY%F0%9F%9A%A9+%7C+malaysia.com-443+%7C+86.94ms
 vless://348addbc-8717-56ef-a687-f5159a9f38f8@45.89.107.60:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.89.107.60&encryption=none#Rayan%20-%20SSM%20-%20WSDR%20-%20MY%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 vless://348addbc-8717-56ef-a687-f5159a9f38f8@www.speedtest.net:443?security=tls&sni=my-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=my-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20WSCT%20-%20MY%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMjh88J+Ps++4j+KAjfCfjIjlupTmgKXoioLngrktIOe9keermTpteS4zMzU1NzAueHl6IiwgImFkZCI6ICJjZi5pZXBsMS5tZSIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAidGxzIiwgImlkIjogIjM5NjBmMTI4LTExNjMtNDBhMy04ZGQ3LTdjOTExNzZlMTRhNSIsICJzbmkiOiAiMDEuYXBwbGVpZC5iZiIsICJob3N0IjogIjAxLmFwcGxlaWQuYmYiLCAicGF0aCI6ICIvd3M/ZWQ9MjA0OCJ9
