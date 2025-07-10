@@ -1,4 +1,0 @@
-ss://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?type=tcp&headerType=http&host=speedtest.net&path=/#Config%25F0%259F%2587%25BA%25F0%259F%2587%25B8@Do_itforyou
-ss://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?type=grpc&mode=gun&serviceName=&authority=#Config%25F0%259F%2587%25BA%25F0%259F%2587%25B8@Do_itforyou
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@185.243.49.205:8444?type=tcp&headerType=http&host=speedtest.net&path=/#Config%25F0%259F%2587%25BA%25F0%259F%2587%25B8@Do_itforyou
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.146:8880?type=grpc&mode=gun&serviceName=&authority=#Config%25F0%259F%2587%25BA%25F0%259F%2587%25B8@Do_itforyou

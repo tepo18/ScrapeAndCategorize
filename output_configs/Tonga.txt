@@ -1,4 +1,2 @@
-ss://98ad4415-95da-4f89-bf41-409b6a9e47b7@193.164.155.188:6565?security=reality&encryption=none&pbk=rNRdBK8OH1KwN1ObGsMyVAM7YjYme8BYwZB-kqYLRj4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=a5#Join%20-to%E2%96%B6%EF%B8%8F%20%40DarkHub_VPN.18
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://98ad4415-95da-4f89-bf41-409b6a9e47b7@193.164.155.188:6565?security=reality&encryption=none&pbk=rNRdBK8OH1KwN1ObGsMyVAM7YjYme8BYwZB-kqYLRj4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=tgju.org&sid=a5#Join%20-to%E2%96%B6%EF%B8%8F%20%40DarkHub_VPN.18
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
