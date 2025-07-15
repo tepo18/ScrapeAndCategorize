@@ -1,2 +1,4 @@
 ss://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#REALITY|AL🇦🇱
+ss://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&fp=random&sni=pingless.com&sid=b6&spx=%2F&flow=xtls-rprx-vision#REALITY|AL🇦🇱
 vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#REALITY|AL🇦🇱
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&fp=random&sni=pingless.com&sid=b6&spx=%2F&flow=xtls-rprx-vision#REALITY|AL🇦🇱
