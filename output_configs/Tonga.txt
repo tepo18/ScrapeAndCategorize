@@ -1,4 +1,2 @@
-ss://6d38c5fa-a240-458c-a4e3-fa440c5f71b7@91.198.77.59:442?security=reality&encryption=none&pbk=TboeQVKuOKk7y5dpDtjvBF58HyUjJ9PODF6tXlsqWHY&host=tamin.ir&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=rond.ir#Join%20-to%E2%96%B6%EF%B8%8F%20%40DarkHub_VPN.19
 ss://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!
-vless://6d38c5fa-a240-458c-a4e3-fa440c5f71b7@91.198.77.59:442?security=reality&encryption=none&pbk=TboeQVKuOKk7y5dpDtjvBF58HyUjJ9PODF6tXlsqWHY&host=tamin.ir&headerType=http&fp=chrome&spx=%2F&type=tcp&sni=rond.ir#Join%20-to%E2%96%B6%EF%B8%8F%20%40DarkHub_VPN.19
 vless://aaacbbc-cbaa-aabc-dacb-acbacbbcaacb@127.0.0.1:1080?security=tls&type=tcp#⚠️%20FREE%20TO%20USE!

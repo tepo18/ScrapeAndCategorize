@@ -1,2 +1,1 @@
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0DK-192.36.27.94-0334
-trojan://8a104bc2-a8d1-4f38-8c29-17176a68b7d5@csgo.com:8443?sni=cdn-node-oss-99.paofu.de#%F0%9F%87%A9%F0%9F%87%B0DK%E4%B8%B9%E9%BA%A6

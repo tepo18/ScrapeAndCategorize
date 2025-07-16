@@ -1,9 +1,1 @@
-ss://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880?encryption=none&security=tls&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=%2Ftelegram%40wangcai2%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
-ss://583ceab3-4022-4553-9158-9bedc625ad4e@45.67.215.177:8880?encryption=none&security=tls&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=%2Ftelegram%40wangcai2%2F%3Fed#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
-ss://84583e1e-a992-5344-a7f9-7645515c378b@185.250.150.220:8880?security=none&type=grpc&serviceName=vless-grpc#🆔configshubplus%20🔓%20VL-GRPC-N/A%20🇺🇦%20UA%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+147.78.3.93-990+%7C+177.29ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+147.78.3.93-990+%7C+181.97ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%F0%9F%87%BA%F0%9F%87%A6%20UA-176.103.53.105%3A990
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@62.72.166.251:8880?encryption=none&security=tls&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=%2Ftelegram%40wangcai2%2F%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.67.215.177:8880?encryption=none&security=tls&sni=ip.langmanshanxi.top&type=ws&host=ip.langmanshanxi.top&path=%2Ftelegram%40wangcai2%2F%3Fed#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0
-vless://84583e1e-a992-5344-a7f9-7645515c378b@185.250.150.220:8880?security=none&type=grpc&serviceName=vless-grpc#🆔configshubplus%20🔓%20VL-GRPC-N/A%20🇺🇦%20UA%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+147.78.3.93-990+%7C+120.17ms
