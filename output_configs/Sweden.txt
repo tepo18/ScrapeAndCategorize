@@ -1,4 +1,6 @@
-ss://Parsashonam-284@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔configshubplus%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%202ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5LU45RG5IWFFGSWNMb0R3M21YTUt3@homa.cybsecguru.com:62005#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+homa.cybsecguru.com-62005+%7C+200.01ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0288
-vless://Parsashonam-284@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔configshubplus%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%202ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5LU45RG5IWFFGSWNMb0R3M21YTUt3@homa.cybsecguru.com:62005#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+homa.cybsecguru.com-62005+%7C+175.29ms
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@37.19.222.211:443#%F0%9F%87%B8%F0%9F%87%AASE-37.19.222.211-8080
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0213
+ss://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@70.34.199.91:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#REALITY|SE🇸🇪
+vless://e8f25e87-f17f-4b38-9ba8-3d3ffd345186@70.34.199.91:443?encryption=none&security=reality&type=tcp&flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&sni=dog.21972f59-14b7-3eb3-be11-bf5691d6bf1d.googleapis.com#REALITY|SE🇸🇪
+vmess://eyJhZGQiOiIxNjkuMTUwLjIwOC44MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJTRVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSB8IDE2OS4xNTAuMjA4LjgzLTE4MDAwIHwgMTAxLjc4bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
