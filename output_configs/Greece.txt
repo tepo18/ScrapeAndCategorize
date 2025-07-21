@@ -1,4 +1,4 @@
-ss://299a47be-b51b-4d41-aecb-b789b4cf9bbf@gr.marzban-locations.com:3047?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|GR🇬🇷
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-0334
-vless://299a47be-b51b-4d41-aecb-b789b4cf9bbf@gr.marzban-locations.com:3047?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|GR🇬🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇬🇷%20GR%20142ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.166.102:990#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇬🇷%20GR%20down
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-0366
 wireguard://qIBJq%2FccmmlGXIvcCNmDFD7Ki9%2BG1ewEcDAge6yxoFM%3D@194.150.167.106:51820?address=100.64.15.224%2F32&publickey=KgTUh3KLijVluDvNpzDCJJfrJ7EyLzYLmdHCksG4sRg%3D#🇬🇷Greece🇬🇷.conf

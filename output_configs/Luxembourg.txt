@@ -1,3 +1,4 @@
 ss://63fbc23e-4a02-5baf-89ba-0fe5dd6e98fd@45.12.144.8:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.144.8&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiODh0QUxyZG1OMmlvTmtHSmViN2ky@85.234.87.234:8443#LU%F0%9F%87%B1%F0%9F%87%BA+%7C+85.234.87.234-8443+%7C+96.71ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SFN4WTVoUTV3aDRucXFnMzFmS0tB@85.234.87.121:8443#LU%F0%9F%87%B1%F0%9F%87%BA+%7C+85.234.87.121-8443+%7C+92.85ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1SFN4WTVoUTV3aDRucXFnMzFmS0tB@85.234.87.121:8443#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇱🇺%20LU%20108ms
 vless://63fbc23e-4a02-5baf-89ba-0fe5dd6e98fd@45.12.144.8:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.12.144.8&encryption=none#Rayan%20-%20SSM%20-%20LU%20-%20II%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config

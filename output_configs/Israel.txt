@@ -1,4 +1,8 @@
-ss://09656713-564d-45d0-9eec-74add7a4c021@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
-ss://99bc2566-abd9-49c5-9c6b-887e610d431b@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
-vless://09656713-564d-45d0-9eec-74add7a4c021@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
-vless://99bc2566-abd9-49c5-9c6b-887e610d431b@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
+ss://09656713-564d-45d0-9eec-74add7a4c021@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+ss://0b196038-62c8-497d-81f0-65b67745fdcc@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
+ss://99bc2566-abd9-49c5-9c6b-887e610d431b@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+ss://ec805342-cc09-4572-b9af-80e88665e1c8@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+vless://09656713-564d-45d0-9eec-74add7a4c021@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+vless://0b196038-62c8-497d-81f0-65b67745fdcc@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
+vless://99bc2566-abd9-49c5-9c6b-887e610d431b@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+vless://ec805342-cc09-4572-b9af-80e88665e1c8@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel

@@ -1,6 +1,2 @@
-ss://25fff2dd-728f-45f7-9741-8fec20de619f@flower.mahi-yar.com:7893?security=reality&encryption=none&pbk=4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#REALITY|UA🇺🇦
-ss://25fff2dd-728f-45f7-9741-8fec20de619f@flower.mahi-yar.com:7893?security=reality&encryption=none&pbk=4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🆔ar14n24b%20🔒%20VL-TCP-%20🇺🇦%20UA%20188ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHF0Q2JIMGE1YkU=@88.151.192.57:443#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+88.151.192.57-443+%7C+115.6ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+147.78.3.93-990+%7C+187.29ms
-vless://25fff2dd-728f-45f7-9741-8fec20de619f@flower.mahi-yar.com:7893?security=reality&encryption=none&pbk=4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#REALITY|UA🇺🇦
-vless://25fff2dd-728f-45f7-9741-8fec20de619f@flower.mahi-yar.com:7893?security=reality&encryption=none&pbk=4wQM_RBIjAR27D6Vou1QZfa1mF2gw8SDEDiwoEd3Cxo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com#🆔ar14n24b%20🔒%20VL-TCP-%20🇺🇦%20UA%20188ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0SHF0Q2JIMGE1YkU=@88.151.192.57:443#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+88.151.192.57-443+%7C+118.35ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+176.103.53.105-990+%7C+114.41ms

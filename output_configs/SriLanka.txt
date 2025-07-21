@@ -1,0 +1,2 @@
+ss://d8359f3c-d28f-4fc5-a94f-da4fc11850f5@87.120.92.135:8080?encryption=none&security=none&type=tcp&headerType=http&host=ponisha.ir#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇱🇰%20LK%20109ms
+vless://d8359f3c-d28f-4fc5-a94f-da4fc11850f5@87.120.92.135:8080?encryption=none&security=none&type=tcp&headerType=http&host=ponisha.ir#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇱🇰%20LK%20109ms
