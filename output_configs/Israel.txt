@@ -1,4 +1,6 @@
-ss://000cd09d-3f67-4c1f-9126-1a046d6a3120@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
-ss://6ba85c0d-89f7-4d11-85cd-653e03caf71c@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
-vless://000cd09d-3f67-4c1f-9126-1a046d6a3120@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
-vless://6ba85c0d-89f7-4d11-85cd-653e03caf71c@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+ss://3663d729-9092-4c55-b6be-4e0bc51356fc@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+ss://382c5758-4961-4d05-bfb3-bf1acd4174d6@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
+ss://fc1eb733-0a88-494e-9497-4426b8039907@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+vless://3663d729-9092-4c55-b6be-4e0bc51356fc@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
+vless://382c5758-4961-4d05-bfb3-bf1acd4174d6@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#IL🇮🇱
+vless://fc1eb733-0a88-494e-9497-4426b8039907@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel

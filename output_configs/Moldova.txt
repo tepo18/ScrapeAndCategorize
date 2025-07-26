@@ -1,6 +1,4 @@
-ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2052?path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG&security=none&encryption=none&type=ws#MD🇲🇩
-ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?encryption=none&security=tls&allowInsecure=1&type=grpc#MD🇲🇩
+ss://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2082?path=%2F&security=&encryption=none&type=ws#MD🇲🇩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVN252ZUFITGhPYWhGZ3dKbFRiRTlu@194.87.45.189:443#%F0%9F%87%AA%F0%9F%87%B8%20Madrid%2C%20MD%2C%20Spain🤯
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0282
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2052?path=%2F%3F---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG&security=none&encryption=none&type=ws#MD🇲🇩
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2053?encryption=none&security=tls&allowInsecure=1&type=grpc#MD🇲🇩
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0262
+vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@94.131.122.76:2082?path=%2F&security=&encryption=none&type=ws#MD🇲🇩

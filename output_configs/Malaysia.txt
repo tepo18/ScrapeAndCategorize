@@ -1,4 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#MY%F0%9F%87%B2%F0%9F%87%BE+%7C+103.243.215.17-990+%7C+244.53ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.243.215.17:990#MY%F0%9F%87%B2%F0%9F%87%BE+%7C+103.243.215.17-990+%7C+210.7ms
 ss://d50bf212-c3bc-5e96-b0f2-6d5b642ed552@45.89.107.60:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.89.107.60&encryption=none#Rayan%20-%20SSM%20-%20MY%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
 ss://d50bf212-c3bc-5e96-b0f2-6d5b642ed552@www.speedtest.net:443?security=tls&sni=my-1-ssm.medicaldream.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=my-1-ssm.medicaldream.ir&encryption=none#Rayan%20-%20SSM%20-%20MY%20-%20I%20-%20%F0%9F%A5%8E%20t.me/Rayan_Config
 vless://d50bf212-c3bc-5e96-b0f2-6d5b642ed552@45.89.107.60:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.89.107.60&encryption=none#Rayan%20-%20SSM%20-%20MY%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
