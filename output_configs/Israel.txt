@@ -1,4 +1,0 @@
-ss://382c5758-4961-4d05-bfb3-bf1acd4174d6@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
-ss://4faeb64c-b32a-4628-99e8-3634993eced2@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
-vless://382c5758-4961-4d05-bfb3-bf1acd4174d6@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel
-vless://4faeb64c-b32a-4628-99e8-3634993eced2@free-il.vpnkey.dev:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision#VPNKEY-Israel

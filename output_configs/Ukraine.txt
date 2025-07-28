@@ -1,3 +1,8 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+176.103.53.105-990+%7C+115.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+147.78.3.93-990+%7C+130.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+176.103.53.105-990+%7C+130.22ms
+ss://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=&encryption=none&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20150ms
 ss://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
+ss://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20149ms
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=&encryption=none&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20150ms
 vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&headerType=none&type=tcp#UA🇺🇦
+vless://afdb6e6e-3145-4284-c15a-0a38030a8129@193.238.153.85:13305?security=none&encryption=none&host=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&headerType=none&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20149ms

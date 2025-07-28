@@ -1,3 +1,6 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.3:2377#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+60.249.35.3-2377+%7C+194.2ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0335
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@223.165.4.173:989#premium-tw%20%281%29🤯
+ss://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&type=tcp&headerType=none#REALITY|TW🇹🇼
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.28.137:2377#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+60.249.28.137-2377+%7C+176.72ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.37:2377#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+60.249.35.37-2377+%7C+174ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.38:2377#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+60.249.35.38-2377+%7C+173.61ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@60.249.35.3:2377#TW%F0%9F%87%B9%F0%9F%87%BC+%7C+60.249.35.3-2377+%7C+171.72ms
+vless://510b4f04-18a6-4a31-bb89-76d2931701c4@103.236.227.21:25558?encryption=none&security=reality&sni=tesla.com&fp=chrome&pbk=ZvSggY7I0Rd9KrverThNzrHZftq7Kkt9YBix9SPDnG0&sid=b4&type=tcp&headerType=none#REALITY|TW🇹🇼
