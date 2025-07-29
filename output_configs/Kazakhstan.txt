@@ -1,10 +1,8 @@
-ss://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none#REALITY|KZ🇰🇿
 ss://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&headerType=none#REALITY|KZ🇰🇿
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.38-57456+%7C+199.62ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.0:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.0-80+%7C+3.47ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.10:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.10-80+%7C+3.2ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.40:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.40-80+%7C+3.05ms
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.50:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.50-80+%7C+2.84ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@38.107.234.38:57456#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+38.107.234.38-57456+%7C+212.26ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.0:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.0-80+%7C+14.89ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.10:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.10-80+%7C+14.24ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.40:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.40-80+%7C+14.4ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.50:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.50-80+%7C+14.31ms
 trojan://NISHIKUITAN111@185.176.26.131:443#KZ🇰🇿
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa&type=tcp&headerType=none#REALITY|KZ🇰🇿
 vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&headerType=none#REALITY|KZ🇰🇿
