@@ -1,2 +1,2 @@
-ss://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
-vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=%2F&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#🆔mrsoulb%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
+ss://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=%2F&security=&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🆔ahwazigamingshop%20🔓%20VL-XHTTP-N/A%20🇨🇷%20CR%20472ms
+vless://5b0e1347-1e9b-4b83-a27b-468e3dafb69b@2sudo.winapp3.ir:80?mode=auto&path=%2F&security=&encryption=none&host=fn5.global.ssl.fastly.net&type=xhttp#🆔ahwazigamingshop%20🔓%20VL-XHTTP-N/A%20🇨🇷%20CR%20472ms

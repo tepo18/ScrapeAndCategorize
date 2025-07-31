@@ -1,0 +1,2 @@
+ss://0132166f-e702-48ed-a9e7-b07af768faf8@92.243.75.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560#🆔soskeynet%20🔓%20VL-WS-N/A%20🇰🇭%20KH%2014ms
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@92.243.75.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560#🆔soskeynet%20🔓%20VL-WS-N/A%20🇰🇭%20KH%2014ms

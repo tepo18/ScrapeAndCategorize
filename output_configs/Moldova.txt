@@ -1,4 +1,9 @@
 ss://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=%2Fwflhdtws&security=tls&encryption=none&type=ws#MD🇲🇩
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0226
 ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&type=ws#MD🇲🇩
+ss://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=%2Fjzmdpvws&packetEncoding=xudp&encryption=none#MD🇲🇩
+ss://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?path=%2Fzqpahpws&security=tls&encryption=none&type=ws#MD🇲🇩
 vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=%2Fwflhdtws&security=tls&encryption=none&type=ws#MD🇲🇩
 vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?path=%2Fjzmdpvws&security=tls&encryption=none&type=ws#MD🇲🇩
+vless://b5e8bfe7-6cdb-402d-b243-1e0f53ebb582@185.234.66.82:443?security=tls&allowInsecure=1&fp=chrome&type=ws&path=%2Fjzmdpvws&packetEncoding=xudp&encryption=none#MD🇲🇩
+vless://e7d08833-b87f-4e9f-9f48-38485e58155e@185.234.66.93:443?path=%2Fzqpahpws&security=tls&encryption=none&type=ws#MD🇲🇩

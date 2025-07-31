@@ -1,3 +1,1 @@
-ss://46832f38-6b2f-4022-abba-73e21262435e@gr.marzban-locations.com:3047?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|GR🇬🇷
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+185.39.207.60-443+%7C+122.5ms
-vless://46832f38-6b2f-4022-abba-73e21262435e@gr.marzban-locations.com:3047?security=reality&encryption=none&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|GR🇬🇷
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaMFV1ckdrRzZpSmE=@185.39.207.60:443#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+185.39.207.60-443+%7C+134.45ms
