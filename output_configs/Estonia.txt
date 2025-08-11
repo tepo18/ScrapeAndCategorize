@@ -1,8 +1,6 @@
-ss://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇪🇪%20EE%202ms
+ss://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇪🇪%20EE%203ms
 ss://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|EE🇪🇪
 ss://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-trojan://NISHIKUITAN111@45.80.110.224:443?allowInsecure=1#EE🇪🇪
-trojan://tunnel-astrovpn_official-ee@ee-1.stunnel.cc:8441?security=tls&host=ee-1.stunnel.cc&headerType=&type=tcp&sni=ee-1.stunnel.cc#EE🇪🇪
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇪🇪%20EE%202ms
+vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.159.247.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇪🇪%20EE%203ms
 vless://2a02cb25-0f58-4b19-a7a6-8c205fdb9042@185.215.186.65:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#REALITY|EE🇪🇪
 vless://fb5065d1-0e03-550d-8379-c040eaf8cf89@185.255.178.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.255.178.188&encryption=none#Rayan%20-%20SSM%20-%20EE%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config

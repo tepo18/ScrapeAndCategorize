@@ -1,7 +1,4 @@
-ss://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇿%20CZ%202ms
-ss://6dcfa5c4-fc09-48fd-90d7-115f0bcb27bb@194.182.79.231:48785?security=reality&encryption=none&pbk=rTUkj6jwNqJ4nE3ZxEOMIjRfkfj7agzEgIo2v6H4n3Q&fp=chrome&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=e965cb63a452#🆔capoit%20🔒%20VL-GRPC-%20🇨🇿%20CZ%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0271
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@195.85.23.20:8880#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.85.23.20-8880+%7C+8.72ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@ytreserved.opengate.wiki:2222#%F0%9F%87%A8%F0%9F%87%BFCZ-212.193.27.52-4898
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#%F0%9F%87%A8%F0%9F%87%BFCZ-195.181.160.6-0231
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@195.85.23.20:8880#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.85.23.20-8880+%7C+1.74ms
 trojan://NISHIKUITAN111@195.85.23.232:443?allowInsecure=1#CZ🇨🇿
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@195.85.23.251:8880?type=ws&encryption=none&flow=&host=cf.d3z.net&path=%2FTelegram%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇨🇿%20CZ%202ms
-vless://6dcfa5c4-fc09-48fd-90d7-115f0bcb27bb@194.182.79.231:48785?security=reality&encryption=none&pbk=rTUkj6jwNqJ4nE3ZxEOMIjRfkfj7agzEgIo2v6H4n3Q&fp=chrome&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=e965cb63a452#🆔capoit%20🔒%20VL-GRPC-%20🇨🇿%20CZ%20down
