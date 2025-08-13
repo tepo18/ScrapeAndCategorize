@@ -1,4 +1,2 @@
-ss://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#REALITY|AL🇦🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+103.167.234.75-8443+%7C+118.9ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSkxVTHNxaXM0MjJVNERoNnRRcFEy@93.123.46.84:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+93.123.46.84-8443+%7C+107.98ms
-vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?security=reality&encryption=none&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=pingless.com&sid=b6#REALITY|AL🇦🇱
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+103.167.234.75-8443+%7C+128.77ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppSkxVTHNxaXM0MjJVNERoNnRRcFEy@93.123.46.84:8443#AL%F0%9F%87%A6%F0%9F%87%B1+%7C+93.123.46.84-8443+%7C+121.98ms
