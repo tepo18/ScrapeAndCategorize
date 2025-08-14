@@ -1,2 +1,0 @@
-ss://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@45.131.209.137:8443?type=ws&encryption=none&host=w325.pages.dev&path=%2FTELEGRAM-%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&sni=w325.pAges.Dev&fp=chrome#🆔freeconfigsplus%20🔒%20VL-WS-N/A%20🇧🇿%20BZ%2015ms
-vless://88d05a33-ff36-415d-9d2c-7e1e8468e7e8@45.131.209.137:8443?type=ws&encryption=none&host=w325.pages.dev&path=%2FTELEGRAM-%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&sni=w325.pAges.Dev&fp=chrome#🆔freeconfigsplus%20🔒%20VL-WS-N/A%20🇧🇿%20BZ%2015ms
