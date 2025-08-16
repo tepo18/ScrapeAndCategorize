@@ -1,3 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@147.78.1.27:989#%F0%9F%87%B2%F0%9F%87%BD%20MX-147.78.1.27%3A989🤯
-ss://c0a3bdc1-78f4-5f54-b439-f239c4edf5b6@45.134.9.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.134.9.188&encryption=none#Rayan%20-%20SSM%20-%20MX%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
-vless://c0a3bdc1-78f4-5f54-b439-f239c4edf5b6@45.134.9.188:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=45.134.9.188&encryption=none#Rayan%20-%20SSM%20-%20MX%20-%20I%20-%20%F0%9F%9F%A1%20t.me/Rayan_Config
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@147.78.1.27:989#MX%F0%9F%87%B2%F0%9F%87%BD+%7C+147.78.1.27-989+%7C+88.8ms
