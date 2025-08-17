@@ -1,5 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇸🇮%20SI%20126ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-0318
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@91.132.94.200:989#SI%F0%9F%87%B8%F0%9F%87%AE+%7C+91.132.94.200-989+%7C+192.76ms
-ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=%2F&security=tls&encryption=none&type=ws#SI🇸🇮
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@45.83.129.58:8443?path=%2F&security=tls&encryption=none&type=ws#SI🇸🇮
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇸🇮%20SI%20down
