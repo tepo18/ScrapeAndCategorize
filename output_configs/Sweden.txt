@@ -1,8 +1,7 @@
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🆔configfa%20🔒%20VL-TCP-%20🇸🇪%20SE%20down
-ss://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20240ms
-ss://Parsashonam-296@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%202ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+91.186.217.246-31764+%7C+161.97ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0266
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-17.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#🆔configfa%20🔒%20VL-TCP-%20🇸🇪%20SE%20down
-vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20240ms
-vless://Parsashonam-296@185.146.173.39:8880?path=%2FParsashonam-Parsashonam-Parsashonam%2F%3Fed%3D2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🆔madshopx%20🔓%20VL-HTTPUPGRADE-N/A%20🇸🇪%20SE%202ms
+ss://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20306ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+91.186.217.246-31764+%7C+119.88ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0277
+ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%2098ms
+vless://7c64f248-eeea-4d74-8851-39aee486e287@ssl1.komanserver.ir:443?security=tls&encryption=none&headerType=none&type=tcp&sni=am.komanserver.ir.#🆔ar14n24b%20🔒%20VL-TCP-N/A%20🇸🇪%20SE%20306ms
+vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇸🇪%20SE%2098ms
+vmess://eyJhZGQiOiI2Mi42MC4xNTIuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImRiZDliZWVjLTQ1MTktNGE3Yy1iNTliLTFlYTkyNTJlM2Y0ZSIsIm5ldCI6IndzIiwicGF0aCI6IlwvIiwicG9ydCI6IjIwMDg2IiwicHMiOiJTRVx1ZDgzY1x1ZGRmOFx1ZDgzY1x1ZGRlYSB8IDYyLjYwLjE1Mi4xNzAtMjAwODYgfCAxMDIuODdtcyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=

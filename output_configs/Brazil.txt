@@ -1,2 +1,2 @@
-ss://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=%2FTelegram%D9%8B%DA%BA%E2%80%A1%C2%A8%D9%8B%DA%BA%E2%80%A1%C2%B3&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇷%20BR%202ms
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.133.35.251:8880?path=%2FTelegram%D9%8B%DA%BA%E2%80%A1%C2%A8%D9%8B%DA%BA%E2%80%A1%C2%B3&security=none&encryption=none&host=cf.d3z.net&type=ws&sni=Telegram-channel-WangCai2#🆔ar14n24b%20🔓%20VL-WS-N/A%20🇧🇷%20BR%202ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989#%F0%9F%87%A7%F0%9F%87%B7BR-38.54.57.90-0353
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.192.124.188:989#%F0%9F%87%A7%F0%9F%87%B7%20BR%20%7C%20%F0%9F%94%92%20SS%20%7C%20%40v2ray_free_conf%20%5B7%5D🤯
