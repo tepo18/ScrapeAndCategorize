@@ -1,9 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+91.186.217.246-31764+%7C+132.13ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0236
+ss://1e64f443-4a69-4ff5-9780-d5882d6a051e@70.34.221.109:443?mode=gun&security=reality&encryption=none&pbk=h9mMgMxjAqOgB3uaU5poJsCMuKRktorOwEll_Gr8wjk&fp=chrome&spx=%2F%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC&type=grpc&serviceName=&sni=www.speedtest.net&sid=89fb34a0#REALITY|SE🇸🇪
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0226
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0253🤯
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#SE🇸🇪
 ss://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#SE🇸🇪
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@46.226.160.215:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|SE🇸🇪
-trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0522
+trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0341
+vless://1e64f443-4a69-4ff5-9780-d5882d6a051e@70.34.221.109:443?mode=gun&security=reality&encryption=none&pbk=h9mMgMxjAqOgB3uaU5poJsCMuKRktorOwEll_Gr8wjk&fp=chrome&spx=%2F%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC%40SINA_TEC&type=grpc&serviceName=&sni=www.speedtest.net&sid=89fb34a0#REALITY|SE🇸🇪
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?encryption=none&security=none&type=tcp&headerType=none#SE🇸🇪
 vless://d8d05386-e381-40a4-bb63-715c208b3ed3@109.120.132.142:40617?security=none&encryption=none&headerType=none&type=tcp#SE🇸🇪
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@46.226.160.215:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|SE🇸🇪

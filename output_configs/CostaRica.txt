@@ -1,0 +1,2 @@
+ss://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
