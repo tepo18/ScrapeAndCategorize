@@ -1,9 +1,5 @@
-ss://2b7c9332-eacc-47fd-89a1-49b9d94d4d6e@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#SK🇸🇰
-ss://49cd67dc-0c9d-41c5-896d-47e1149aed42@5.35.103.218:2083?type=tcp&security=none#SK🇸🇰
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0244
+ss://0ee418c5-1ced-44ca-9f8e-58f5aa5e3e10@5.35.103.218:2083?type=tcp&security=none#SK🇸🇰
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0SK-156.146.40.194-0198
 ss://cb0f0cbf-7e94-48d5-bbbd-c1f83a037b6d@5.35.103.218:2083?type=tcp&security=none#SK🇸🇰
-ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.129.141.130:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇰%20SK%20165ms
-vless://2b7c9332-eacc-47fd-89a1-49b9d94d4d6e@5.35.103.218:2083?security=&encryption=none&headerType=&type=tcp#SK🇸🇰
-vless://49cd67dc-0c9d-41c5-896d-47e1149aed42@5.35.103.218:2083?type=tcp&security=none#SK🇸🇰
+vless://0ee418c5-1ced-44ca-9f8e-58f5aa5e3e10@5.35.103.218:2083?type=tcp&security=none#SK🇸🇰
 vless://cb0f0cbf-7e94-48d5-bbbd-c1f83a037b6d@5.35.103.218:2083?type=tcp&security=none#SK🇸🇰
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.129.141.130:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇰%20SK%20165ms
