@@ -1,5 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0265
-ss://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.67.206:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#REALITY|MD🇲🇩
-ss://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.67.206:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#🆔vpnserverrr%20🔒%20VL-TCP-%20🇲🇩%20MD%20135ms
-vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.67.206:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=cdnjs.com&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&sid=ac31827454d7f693#REALITY|MD🇲🇩
-vless://c8d98220-eee5-47ab-b311-b5a52c24d808@194.156.67.206:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#🆔vpnserverrr%20🔒%20VL-TCP-%20🇲🇩%20MD%20135ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.153.197.5:989#%F0%9F%87%B2%F0%9F%87%A9MD-185.153.197.5-0218

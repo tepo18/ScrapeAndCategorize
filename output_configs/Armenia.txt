@@ -1,2 +1,0 @@
-ss://1410192f-f496-495a-929d-ff0df30fa1f2@92.223.2.31:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20166ms
-vless://1410192f-f496-495a-929d-ff0df30fa1f2@92.223.2.31:80?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20166ms
