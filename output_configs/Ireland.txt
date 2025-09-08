@@ -1,2 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U3@23.94.67.166:8080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+23.94.67.166-8080+%7C+148.6ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ie01.giamping.com:8080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+ie01.giamping.com-8080+%7C+226.86ms
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.74.214.108:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=%2F#🆔ar14n24b%20🔒%20VL-TCP-%20🇮🇪%20IE%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U3@23.94.67.166:8080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+23.94.67.166-8080+%7C+121.98ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@ie01.giamping.com:8080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+ie01.giamping.com-8080+%7C+179.09ms
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.74.214.108:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=%2F#🆔ar14n24b%20🔒%20VL-TCP-%20🇮🇪%20IE%20down

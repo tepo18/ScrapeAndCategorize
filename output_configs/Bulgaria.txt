@@ -1,6 +1,10 @@
 ss://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#BG🇧🇬
 ss://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&security=tls&encryption=none&type=ws#BG🇧🇬
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.19.203.147:989#%F0%9F%87%A7%F0%9F%87%ACBG-37.19.203.147-0219
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+1.63ms
+ss://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO&alpn=h3h2&allowInsecure=1&type=ws&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&path=%2F#🆔surfboardv2ray%20🔒%20VL-WS-N/A%20🇧🇬%20BG%20173ms
+ss://2e422a85-e400-4627-a503-22c24e982d5a@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fxzomcnws&security=tls&encryption=none&host=638901504444921362.esfahan-prx-dnraabg.info&type=ws&sni=638901504444921362.esfahan-prx-dnraabg.info#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇬%20BG%20169ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.19.203.147:989#%F0%9F%87%A7%F0%9F%87%ACBG-37.19.203.147-0287
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+13.99ms
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&security=tls&encryption=none&fp=chrome&type=ws#BG🇧🇬
 vless://03852aa6-db01-4137-972d-14ebfb202f09@95.164.6.214:443?path=%2Fkcknkyws&security=tls&encryption=none&type=ws#BG🇧🇬
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?encryption=none&security=tls&sni=0XmVfUlK85.vPbEtHoRvP002.iNfO&alpn=h3h2&allowInsecure=1&type=ws&host=0XmVfUlK85.vPbEtHoRvP002.iNfO&path=%2F#🆔surfboardv2ray%20🔒%20VL-WS-N/A%20🇧🇬%20BG%20173ms
+vless://2e422a85-e400-4627-a503-22c24e982d5a@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=%2Fxzomcnws&security=tls&encryption=none&host=638901504444921362.esfahan-prx-dnraabg.info&type=ws&sni=638901504444921362.esfahan-prx-dnraabg.info#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇬%20BG%20169ms
