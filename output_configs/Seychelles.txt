@@ -1,4 +1,4 @@
-ss://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|SC🇸🇨
-ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+13.98ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.197.108.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.108.29-8880+%7C+14.48ms
-vless://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|SC🇸🇨
+ss://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?type=tcp&channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#REALITY|SC🇸🇨
+ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+2.79ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.197.108.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.108.29-8880+%7C+2.74ms
+vless://33bdc1f3-a2ce-6a15-c286-d602b373063d@146.19.90.2:443?type=tcp&channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-channel%40_networld_vpn-encryption=none&flow=xtls-rprx-vision&sni=speed.cloudflare.com&security=reality&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&sid=#REALITY|SC🇸🇨
