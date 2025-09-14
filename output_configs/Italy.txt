@@ -1,6 +1,10 @@
-ss://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20142ms
-ss://6c0732a0-593a-4a84-91cc-439bdc808529@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20down
-ss://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20144ms
-vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20142ms
-vless://6c0732a0-593a-4a84-91cc-439bdc808529@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20down
-vless://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20144ms
+ss://58f062b6-0bcb-4cd4-9b4a-0769fa468f84@it.marzban-locations.com:2027?security=reality&encryption=none&pbk=FCTw1Jobo6_Da8-NRPN0H4JSNbt7GRww2VFjTyJQshY&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|IT🇮🇹
+ss://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2092ms
+ss://6c0732a0-593a-4a84-91cc-439bdc808529@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20331ms
+ss://7738423e-132e-4e2a-bd2c-034b4740ad4d@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20344ms
+ss://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20103ms
+vless://58f062b6-0bcb-4cd4-9b4a-0769fa468f84@it.marzban-locations.com:2027?security=reality&encryption=none&pbk=FCTw1Jobo6_Da8-NRPN0H4JSNbt7GRww2VFjTyJQshY&headerType=none&fp=firefox&type=tcp&sni=refersion.com#REALITY|IT🇮🇹
+vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2092ms
+vless://6c0732a0-593a-4a84-91cc-439bdc808529@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20331ms
+vless://7738423e-132e-4e2a-bd2c-034b4740ad4d@sv1.tsteamu1.top:40001?security=none&encryption=none&headerType=http&type=tcp#🆔vless_config%20🔓%20VL-TCP-N/A%20🇮🇹%20IT%20344ms
+vless://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20103ms
