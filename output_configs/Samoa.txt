@@ -11,9 +11,7 @@ ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.79:2096/?type=ws&encryption=n
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.80:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws%2Btls%20%28b16%29
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.86:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws%2Btls%20%28b16%29
 ss://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.88:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws%2Btls%20%28b16%29
-ss://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20114ms
-ss://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20152ms
-ss://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20138ms
+ss://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20102ms
 trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#tr-ws-tls-e70f44vs
 vless://1625ad92-8b3a-44b5-a719-08a5a73fd3af@svnteam.aeza.nisvn.ir:80?path=%2F%40SvnProBot%3Fed%3D2560&security=&encryption=none&host=Aeza.net&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20❔%20XX%20down
 vless://2aacf869-d0e3-4b3e-9b63-396bd9d79c51@185.209.21.36:41569?type=ws&path=%2F&host=tgju.org&security=none#%40vmessprotocol%20(WS)-%40vmessprotocol%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D9%BE%D8%B1%D8%B3%D8%B1%D8%B9%D8%AA4برای
@@ -28,6 +26,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.79:2096/?type=ws&encryptio
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.80:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws%2Btls%20%28b16%29
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.86:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws%2Btls%20%28b16%29
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@5.180.30.88:2096/?type=ws&encryption=none&flow=&path=%2F&security=tls&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20ws%2Btls%20%28b16%29
-vless://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20114ms
-vless://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#🆔v2ray1_ng%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20152ms
-vless://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20138ms
+vless://f622987c-b7ee-407d-acfe-07f45978012f@161.35.175.165:55769?path=%2F&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇬🇧%20GB%20102ms

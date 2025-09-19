@@ -1,8 +1,5 @@
 ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcHNhbkZrWVd4MU1UTXVMZzo=@18.162.146.85:8319#🆔freeconfigsplus%20🔒%20SS-TCP-TLS%20🇭🇰%20HK%20down
-ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcHZRemxqTVd0UWExbGlhMmMlM0Q6@83.217.9.210:443#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇹🇷%20TR%20166ms
-ss://WVdWekxUSTFOaTFqWm1JNlpqaG1OMkZEZW1OUVMySnpSamh3TXc6@154.223.20.79:989#🆔freeconfigsplus%20🔒%20SS-TCP-TLS%20🇹🇼%20TW%20200ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇸🇪%20SE%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20126ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔ahwazigamingshop%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20110ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20103ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20104ms
+ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcHZRemxqTVd0UWExbGlhMmMlM0Q6@83.217.9.210:443#🆔ar14n24b%20🔒%20SS-TCP-TLS%20🇹🇷%20TR%20156ms
+ss://WVdWekxUSTFOaTFqWm1JNlpqaG1OMkZEZW1OUVMySnpSamh3TXc6@154.223.20.79:989#🆔freeconfigsplus%20🔒%20SS-TCP-TLS%20🇹🇼%20TW%20182ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20118ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔ahwazigamingshop%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20102ms
