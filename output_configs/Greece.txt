@@ -1,2 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.100-0341
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-0321
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.100-0306
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.102-0336
+ss://e531901b-e12f-4094-9775-589daf185c5a@64.226.82.64:1639?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#gr-%F0%9F%87%A9%F0%9F%87%AA-%40ibahad
+vless://e531901b-e12f-4094-9775-589daf185c5a@64.226.82.64:1639?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#gr-%F0%9F%87%A9%F0%9F%87%AA-%40ibahad

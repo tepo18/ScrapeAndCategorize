@@ -1,4 +1,2 @@
-ss://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=&encryption=none&headerType=none&type=tcp#ZA🇿🇦
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.132.188.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.132.188.29-8880+%7C+2.54ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.177.176.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.177.176.29-8880+%7C+2.38ms
-vless://d2d42f0d-5090-4901-bb7d-8ce85cfb8142@192.142.53.38:16529?security=&encryption=none&headerType=none&type=tcp#ZA🇿🇦
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.132.188.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.132.188.29-8880+%7C+14.15ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@102.177.176.29:8880#ZA%F0%9F%87%BF%F0%9F%87%A6+%7C+102.177.176.29-8880+%7C+14.2ms
