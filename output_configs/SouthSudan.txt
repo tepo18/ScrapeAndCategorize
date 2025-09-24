@@ -1,5 +1,4 @@
 ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcHNhbkZrWVd4MU1UTXVMZzo=@18.162.146.85:8319#🆔freeconfigsplus%20🔒%20SS-TCP-TLS%20🇭🇰%20HK%20down
-ss://WVdWekxUSTFOaTFqWm1JNlpqaG1OMkZEZW1OUVMySnpSamh3TXc6@154.223.20.79:989#🆔freeconfigsplus%20🔒%20SS-TCP-TLS%20🇹🇼%20TW%20160ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇸🇪%20SE%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔ahwazigamingshop%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20148ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#🆔v2ray1_ng%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%20164ms
+ss://WVdWekxUSTFOaTFqWm1JNlpqaG1OMkZEZW1OUVMySnpSamh3TXc6@154.223.20.79:989#🆔freeconfigsplus%20🔒%20SS-TCP-TLS%20🇹🇼%20TW%20205ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#🆔ahwazigamingshop%20🔒%20SS-TCP-TLS%20🇬🇧%20GB%2099ms
+ss://YWVzLTI1Ni1nY206NWYwMGU4ODAtNDVkOS00NDRjLWFmMTMtMTI4MjBlYjEzZmZj@ss.040.node-for-bigairport.win:11689#HK%F0%9F%87%AD%F0%9F%87%B0+%7C+ss.040.node-for-bigairport.win-11689+%7C+170.22ms
