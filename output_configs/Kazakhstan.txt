@@ -1,8 +1,8 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+17.83ms
+ss://401374e6df7741fbf638dad8184f175bOg==@31.43.179.38:443#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.38-443+%7C+5.38ms
 ss://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#REALITY|KZ🇰🇿
-ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+17.57ms
-ss://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&headerType=none#REALITY|KZ🇰🇿
-ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+18.08ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+17.89ms
+ss://667baa19-08b1-4784-b2bf-832ce60f961a@77.73.232.80:35502?security=none&encryption=none&headerType=none&type=tcp#👉🆔@freenettir📡🇰🇿®️Kazakhstan©️Astana🅿️ping:69.2
+ss://89b3cbbae6ac485a9481976a0415eab9Og==@31.43.179.51:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+31.43.179.51-80+%7C+5.42ms
+ss://f2a72ad0d23f4eed96cb7d970b1e784dOg==@194.76.18.60:80#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+194.76.18.60-80+%7C+5.32ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.176.26.29:8880#KZ%F0%9F%87%B0%F0%9F%87%BF+%7C+185.176.26.29-8880+%7C+5.41ms
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?security=reality&encryption=none&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=fa#REALITY|KZ🇰🇿
-vless://9a8a52d6-f24b-4f03-bf6f-f4854717f54e@83.222.23.113:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=Jwam5OBjXf4bffZzA3IqzfcNONIMhYMgjysXPU44XFU&sid=c4da507c203b545a&type=tcp&headerType=none#REALITY|KZ🇰🇿
+vless://667baa19-08b1-4784-b2bf-832ce60f961a@77.73.232.80:35502?security=none&encryption=none&headerType=none&type=tcp#👉🆔@freenettir📡🇰🇿®️Kazakhstan©️Astana🅿️ping:69.2

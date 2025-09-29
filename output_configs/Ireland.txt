@@ -1,1 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U=@23.94.67.166:8080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+23.94.67.166-8080+%7C+120.66ms
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.254.97.113:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#👉🆔@freenettir📡🇮🇪®️Ireland©️Dublin🅿️ping:68.12ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE5Y2U3@23.94.67.166:8080#IE%F0%9F%87%AE%F0%9F%87%AA+%7C+23.94.67.166-8080+%7C+88.05ms
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@34.254.97.113:443?encryption=none&security=reality&type=tcp&sni=store.steampowered.com&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&fp=chrome&spx=/#👉🆔@freenettir📡🇮🇪®️Ireland©️Dublin🅿️ping:68.12ms
