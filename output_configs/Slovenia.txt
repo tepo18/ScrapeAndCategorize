@@ -1,7 +1,5 @@
 ss://6035325d-399a-5148-9126-29cedfd5966a@194.58.66.234:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA&sid=4ff781da#REALITY|SI🇸🇮
-ss://6035325d-399a-5148-9126-29cedfd5966a@194.58.66.234:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA&sid=4ff781da#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇮%20SI%20118ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#%F0%9F%87%B8%F0%9F%87%AE%20ROSE%E2%80%93%20Slovenia🤯
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#SI%F0%9F%87%B8%F0%9F%87%AE+%7C+192.71.244.150-990+%7C+160.25ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.244.150:989#%F0%9F%87%B8%F0%9F%87%AESI-192.71.244.150-5071
+ss://6035325d-399a-5148-9126-29cedfd5966a@194.58.66.234:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA&sid=4ff781da#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇮%20SI%20142ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#SI%F0%9F%87%B8%F0%9F%87%AE+%7C+192.71.244.150-990+%7C+207.27ms
 vless://6035325d-399a-5148-9126-29cedfd5966a@194.58.66.234:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA&sid=4ff781da#REALITY|SI🇸🇮
-vless://6035325d-399a-5148-9126-29cedfd5966a@194.58.66.234:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA&sid=4ff781da#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇮%20SI%20118ms
+vless://6035325d-399a-5148-9126-29cedfd5966a@194.58.66.234:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=l8CueSIvv8QqvxehXPrpd_8OEGI9xMbX0ZRtXG-DqCA&sid=4ff781da#🆔soskeynet%20🔒%20VL-TCP-%20🇸🇮%20SI%20142ms

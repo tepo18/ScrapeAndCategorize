@@ -1,2 +1,0 @@
-ss://fd0e8d0d-d968-4538-8e51-5c86beb62d8c@91.107.255.101:18621?type=tcp&encryption=none&security=reality&pbk=jlo13i4gYNmRwvwYXtQy2giBqx9ZPvi5Q0eGCxdKxzA&fp=chrome&sni=google.com&sid=bc&spx=%2F#Tel%3A%20%40v2socket--%3E%2020GB%3D%2070%2C000%20TOMAN
-vless://fd0e8d0d-d968-4538-8e51-5c86beb62d8c@91.107.255.101:18621?type=tcp&encryption=none&security=reality&pbk=jlo13i4gYNmRwvwYXtQy2giBqx9ZPvi5Q0eGCxdKxzA&fp=chrome&sni=google.com&sid=bc&spx=%2F#Tel%3A%20%40v2socket--%3E%2020GB%3D%2070%2C000%20TOMAN
