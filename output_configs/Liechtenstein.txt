@@ -1,2 +1,0 @@
-ss://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#LI🇱🇮
-vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=1lpxy6haqm-451516713-direct.zamam.co#LI🇱🇮

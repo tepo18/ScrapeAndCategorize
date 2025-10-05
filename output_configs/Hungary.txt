@@ -1,2 +1,2 @@
-ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🆔mrsoulb%20🔒%20VL-GRPC-N/A%20🇭🇺%20HU%2018ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🆔mrsoulb%20🔒%20VL-GRPC-N/A%20🇭🇺%20HU%2018ms
+ss://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🆔mrsoulb%20🔒%20VL-GRPC-N/A%20🇭🇺%20HU%201ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#🆔mrsoulb%20🔒%20VL-GRPC-N/A%20🇭🇺%20HU%201ms
