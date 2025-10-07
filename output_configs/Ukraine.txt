@@ -1,8 +1,8 @@
-ss://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop#🆔soskeynet%20🔒%20VL-GRPC-N/A%20🇺🇦%20UA%205ms
+ss://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop#🆔soskeynet%20🔒%20VL-GRPC-N/A%20🇺🇦%20UA%202ms
 ss://6035325d-399a-5148-9126-29cedfd5966a@88.151.192.52:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=Cb6bPG7NAEde5yU3KChBcx_iF3n7UHakfvi6aWT0ezY&sid=dcaebc34#REALITY|UA🇺🇦
-ss://6035325d-399a-5148-9126-29cedfd5966a@88.151.192.52:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=Cb6bPG7NAEde5yU3KChBcx_iF3n7UHakfvi6aWT0ezY&sid=dcaebc34#🆔soskeynet%20🔒%20VL-TCP-%20🇺🇦%20UA%20120ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#%F0%9F%87%BA%F0%9F%87%A6%20Kyiv%2C%2030%2C%20Ukraine🤯
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+176.103.53.105-990+%7C+180.97ms
-vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop#🆔soskeynet%20🔒%20VL-GRPC-N/A%20🇺🇦%20UA%205ms
+ss://6035325d-399a-5148-9126-29cedfd5966a@88.151.192.52:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=Cb6bPG7NAEde5yU3KChBcx_iF3n7UHakfvi6aWT0ezY&sid=dcaebc34#🆔soskeynet%20🔒%20VL-TCP-%20🇺🇦%20UA%20115ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@147.78.3.93:990#👉🆔@freenettir📡🇺🇦®️Ukraine©️Kyiv🅿️ping:68.07ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@176.103.53.105:990#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+176.103.53.105-990+%7C+131.8ms
+vless://401374e6-df77-41fb-f638-dad8184f175b@89.116.180.248:443?type=grpc&encryption=none&security=tls&sni=pqh23v4.hiddendom.shop#🆔soskeynet%20🔒%20VL-GRPC-N/A%20🇺🇦%20UA%202ms
 vless://6035325d-399a-5148-9126-29cedfd5966a@88.151.192.52:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=Cb6bPG7NAEde5yU3KChBcx_iF3n7UHakfvi6aWT0ezY&sid=dcaebc34#REALITY|UA🇺🇦
-vless://6035325d-399a-5148-9126-29cedfd5966a@88.151.192.52:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=Cb6bPG7NAEde5yU3KChBcx_iF3n7UHakfvi6aWT0ezY&sid=dcaebc34#🆔soskeynet%20🔒%20VL-TCP-%20🇺🇦%20UA%20120ms
+vless://6035325d-399a-5148-9126-29cedfd5966a@88.151.192.52:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=outlook.office.com&fp=chrome&security=reality&pbk=Cb6bPG7NAEde5yU3KChBcx_iF3n7UHakfvi6aWT0ezY&sid=dcaebc34#🆔soskeynet%20🔒%20VL-TCP-%20🇺🇦%20UA%20115ms
