@@ -1,3 +1,3 @@
-ss://12345678-1234-1234-1234-123456789123@46.202.30.62:2096?path=%2Fsnippets%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560&security=tls&encryption=none&host=ss.nzvrn.com&type=ws&sni=ss.nzvrn.com#🆔configfa%20🔒%20VL-WS-N/A%20🇲🇹%20MT%202ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9MT-171.22.254.17-5271
-vless://12345678-1234-1234-1234-123456789123@46.202.30.62:2096?path=%2Fsnippets%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560&security=tls&encryption=none&host=ss.nzvrn.com&type=ws&sni=ss.nzvrn.com#🆔configfa%20🔒%20VL-WS-N/A%20🇲🇹%20MT%202ms
+ss://12345678-1234-1234-1234-123456789123@46.202.30.62:2096?path=%2Fsnippets%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560&security=tls&encryption=none&host=ss.nzvrn.com&type=ws&sni=ss.nzvrn.com#🆔configfa%20🔒%20VL-WS-N/A%20🇲🇹%20MT%2018ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@171.22.254.17:989#%F0%9F%87%B2%F0%9F%87%B9MT-171.22.254.17-5177
+vless://12345678-1234-1234-1234-123456789123@46.202.30.62:2096?path=%2Fsnippets%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2+%2F%3Fed%3D2560&security=tls&encryption=none&host=ss.nzvrn.com&type=ws&sni=ss.nzvrn.com#🆔configfa%20🔒%20VL-WS-N/A%20🇲🇹%20MT%2018ms
