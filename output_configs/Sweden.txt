@@ -1,10 +1,6 @@
-ss://87aabcd6-4d0d-454d-9d2c-b9e70aecccfe@176.124.207.210:8023?encryption=none&security=reality&sni=www.journalofbigdata.springeropen.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b&type=tcp&headerType=none#REALITY|SE🇸🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUDc2N2pwWlZhcnpRMGlJMHZiVHVB@78.40.117.109:37538#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+78.40.117.109-37538+%7C+142.9ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUDc2N2pwWlZhcnpRMGlJMHZiVHVB@78.40.117.109:37538#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+78.40.117.109-37538+%7C+145.75ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVzg3OG4ycGd1Y1g0cjB6NGZnV0pN@46.246.96.191:15721#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+46.246.96.191-15721+%7C+124.77ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0224
-ss://b83df10b-dca1-4289-a17a-564e67389d15@46.246.92.249:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=iANCShq476FCHBlNqkHoapBt8quqmm1wiKLwuCQeMAI&sid=89466f13a0fbc98f&spx=%2F#REALITY|SE🇸🇪
-ss://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=%2F&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=%2F&type=xhttp&sni=bimeh.com&sid=c5a5b0#REALITY|SE🇸🇪
-vless://87aabcd6-4d0d-454d-9d2c-b9e70aecccfe@176.124.207.210:8023?encryption=none&security=reality&sni=www.journalofbigdata.springeropen.com&fp=firefox&pbk=QHg_sq-uc2VPgb4qOTORPT2WFwnsEBmAdmFfywhBhVs&sid=0ae86db71378173b&type=tcp&headerType=none#REALITY|SE🇸🇪
-vless://b83df10b-dca1-4289-a17a-564e67389d15@46.246.92.249:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=ya.ru&pbk=iANCShq476FCHBlNqkHoapBt8quqmm1wiKLwuCQeMAI&sid=89466f13a0fbc98f&spx=%2F#REALITY|SE🇸🇪
-vless://d378d3d0-c521-4874-a6f3-21794398cf9c@test.barayekhudam.ir:59697?mode=auto&path=%2F&security=reality&encryption=none&pbk=HDE3ZT4rZPr6RIpgLK6dn6FGvolXLJtwJEeDEC4N1Eg&fp=chrome&spx=%2F&type=xhttp&sni=bimeh.com&sid=c5a5b0#REALITY|SE🇸🇪
+ss://88e35bbb-8cd2-c309-a1e9-551fb1c17a7f@dir.lightnright.com:8883?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=jnir-x.pichondan.com#👉🆔@freenettir📡🇸🇪®️Sweden©️Norrtälje🅿️ping:39.53ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUDc2N2pwWlZhcnpRMGlJMHZiVHVB@78.40.117.109:37538#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+78.40.117.109-37538+%7C+110.06ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSUDc2N2pwWlZhcnpRMGlJMHZiVHVB@78.40.117.109:37538#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+78.40.117.109-37538+%7C+110.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyVzg3OG4ycGd1Y1g0cjB6NGZnV0pN@46.246.96.191:15721#SE%F0%9F%87%B8%F0%9F%87%AA+%7C+46.246.96.191-15721+%7C+103.9ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0228
+vless://88e35bbb-8cd2-c309-a1e9-551fb1c17a7f@dir.lightnright.com:8883?security=tls&alpn=http%2F1.1&encryption=none&headerType=none&fp=firefox&type=tcp&sni=jnir-x.pichondan.com#👉🆔@freenettir📡🇸🇪®️Sweden©️Norrtälje🅿️ping:39.53ms
