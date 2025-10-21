@@ -1,2 +1,0 @@
-ss://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&security=tls&encryption=none&fp=chrome&type=ws#CL🇨🇱
-vless://6938efdb-b699-464d-8098-ae35b886b5c7@45.82.249.42:8443?path=%2Fvless%2F&security=tls&encryption=none&fp=chrome&type=ws#CL🇨🇱
