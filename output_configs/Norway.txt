@@ -1,4 +1,3 @@
-ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcEJVbWQyUjFwNWQwRXJaMkZqWjBkV01qWkNkbTExTURVcmQxcHRVbGN2YWl0QlpGVXJXamhDZERRMFBROg==@89.46.233.36:990#🆔soskeynet%20🔒%20SS-TCP-TLS%20🇳🇴%20NO%20109ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@89.46.233.36:990#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+89.46.233.36-990+%7C+110.72ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@89.46.233.36:990#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+89.46.233.36-990+%7C+110.45ms
 ss://id6061308608@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=a8fd0db853b135#REALITY|NO🇳🇴
 vless://id6061308608@185.40.4.142:443?security=reality&encryption=none&pbk=HS3ZBNzmMlUxTJIzQdYfS-_WbGJ2mwMINU3A1iwLxw8&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.vk.com&sid=a8fd0db853b135#REALITY|NO🇳🇴
