@@ -1,4 +1,9 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0325
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0304
-ss://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#REALITY|KR🇰🇷
-vless://ead2118c-8b60-4805-b264-bb794c8600d0@3.36.62.128:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ebay.com&fp=chrome&security=reality&pbk=yh4yX6_pM_VzpAx-tYb33PCzHYE6vC9w7Ov1FwNUjR8&sid=#REALITY|KR🇰🇷
+ss://302b7370-f6c0-408a-a59c-b56f6cb4a5a0@138.2.116.23:25001?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mcdaniel.edu&fp=firefox&security=reality&pbk=_rUCpgbk3Xkve93T67d8fxd46fKnQtb00pNWiOdebSw&sid=36453d37#REALITY|KR🇰🇷
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Tm1FNVlUTTRabUpoTmpFNFlXTXlPQT09@27.102.137.77:22007#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+27.102.137.77-22007+%7C+164.4ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0340
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0344
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+218.237.185.230-4652+%7C+161.84ms
+vless://302b7370-f6c0-408a-a59c-b56f6cb4a5a0@138.2.116.23:25001?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mcdaniel.edu&fp=firefox&security=reality&pbk=_rUCpgbk3Xkve93T67d8fxd46fKnQtb00pNWiOdebSw&sid=36453d37#REALITY|KR🇰🇷
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTN88J+HsPCfh7cg6Z+p5Zu9MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS45NC42OC4xMzAiLCAicG9ydCI6IDE4NzQwLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMGQ5MGQzMzEtNmM3MC00Y2I5LTg1NWItYzExYmNmZDIyN2M0In0=
+vmess://eyJ2IjogIjIiLCAicHMiOiAiMTR86Z+p5Zu9MnxAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICI0NS45NC42OC4xMzAiLCAicG9ydCI6ICIxODc0MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICIwZDkwZDMzMS02YzcwLTRjYjktODU1Yi1jMTFiY2ZkMjI3YzQiLCAic25pIjogIiJ9
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1LUiIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjQxYTcwODlhLTA0MGItNDUzOC04YjhkLTAxMDkwMjQwNWJkZSIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiXC8iLCJob3N0IjoiIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
