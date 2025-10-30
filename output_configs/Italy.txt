@@ -1,11 +1,9 @@
 ss://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-ss://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20101ms
+ss://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2092ms
 ss://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2097ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0258
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+38.180.195.193-443+%7C+154.06ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+promo19v.bystrivpn.ru-443+%7C+679.77ms
-ss://e3a78bb2-df38-4ca6-a07f-696a6b62b1a8@italy1.mongral.ir:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=store.steampowered.com&sid=a1009382#REALITY|IT🇮🇹
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@212.102.54.45:990#%F0%9F%87%AE%F0%9F%87%B9IT-212.102.54.45-0277
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+38.180.195.193-443+%7C+169.97ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+promo19v.bystrivpn.ru-443+%7C+792.47ms
 vless://48bbb385-8877-4b2d-8f42-d81df401725d@5.253.43.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20IT%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
-vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%20101ms
+vless://62915088-0f71-4592-bf82-3f02d4db1239@151.101.242.172:80?path=WEDBAZ%3Fed%3D2048&security=&encryption=none&host=Germany.ss.ss&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2092ms
 vless://83b3d135-0ab9-4898-8fbf-b0334681b8fb@146.75.55.82:80?path=%2Fdownload%3Fed%3D2560&security=&encryption=none&host=rtakp.ir&type=ws#🆔oxnet_ir%20🔓%20VL-WS-N/A%20🇮🇹%20IT%2097ms
-vless://e3a78bb2-df38-4ca6-a07f-696a6b62b1a8@italy1.mongral.ir:4444?security=reality&encryption=none&pbk=5if9NWaLaNEfwV9GuafHuas8q3wrxtsgf_-eInEOaSA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=store.steampowered.com&sid=a1009382#REALITY|IT🇮🇹
