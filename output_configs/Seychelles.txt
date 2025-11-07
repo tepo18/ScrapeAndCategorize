@@ -1,4 +1,6 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+18.39ms
+ss://401374e6df7741fbf638dad8184f175bOg==@154.197.64.43:443#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.64.43-443+%7C+5.64ms
+ss://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3A%40%40vpnclashfa+-+1126#SC🇸🇨
 ss://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|SC🇸🇨
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.197.108.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.108.29-8880+%7C+18.07ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@154.197.108.29:8880#SC%F0%9F%87%B8%F0%9F%87%A8+%7C+154.197.108.29-8880+%7C+5.41ms
+vless://5870e7d7-24e6-411a-914e-c965d7f7ae8a@154.197.75.80:80?path=%2FTelegram%3A%40%40vpnclashfa+-+1126#SC🇸🇨
 vless://ae37ee3b-2109-7934-7f46-30f712b2580f@146.19.90.2:443?security=reality&encryption=none&pbk=oE7ZEghzkaOUiw1q3PqBtpllP1NlPHLY8ydJRuICtko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#REALITY|SC🇸🇨

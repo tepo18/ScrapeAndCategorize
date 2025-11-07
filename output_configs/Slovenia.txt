@@ -1,8 +1,7 @@
 ss://4abea1f7-a23e-4412-bced-92c8b39c27b3@g4viptkk.hpx.lol:8443?security=reality&encryption=none&pbk=UzsqjGMapOinXKGGFatGA9eYcozQ7LiMgpML2m0PkTo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=ae3261#REALITY|SI🇸🇮
 ss://54f86edb-7ca1-43eb-9569-0c2ec1478c17@g4viptkk.hpx.lol:8443?type=tcp&encryption=none&security=reality&pbk=UzsqjGMapOinXKGGFatGA9eYcozQ7LiMgpML2m0PkTo&fp=firefox&sni=speedtest.net&sid=ae3261&spx=%2F&flow=xtls-rprx-vision#REALITY|SI🇸🇮
 ss://74c0af7c-8482-4b4e-b067-ea456a80cdb7@se.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.life&sid=08aa0813199a4c38#REALITY|SI🇸🇮
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#SI%F0%9F%87%B8%F0%9F%87%AE+%7C+192.71.244.150-990+%7C+150.47ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#🇸🇮SI
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@192.71.244.150:990#SI%F0%9F%87%B8%F0%9F%87%AE+%7C+192.71.244.150-990+%7C+110.32ms
 vless://4abea1f7-a23e-4412-bced-92c8b39c27b3@g4viptkk.hpx.lol:8443?security=reality&encryption=none&pbk=UzsqjGMapOinXKGGFatGA9eYcozQ7LiMgpML2m0PkTo&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=speedtest.net&sid=ae3261#REALITY|SI🇸🇮
 vless://54f86edb-7ca1-43eb-9569-0c2ec1478c17@g4viptkk.hpx.lol:8443?type=tcp&encryption=none&security=reality&pbk=UzsqjGMapOinXKGGFatGA9eYcozQ7LiMgpML2m0PkTo&fp=firefox&sni=speedtest.net&sid=ae3261&spx=%2F&flow=xtls-rprx-vision#REALITY|SI🇸🇮
 vless://74c0af7c-8482-4b4e-b067-ea456a80cdb7@se.monkeyisland.life:443?security=reality&encryption=none&pbk=NvdLgcQKj0XeAmqIpCEdvcsgfNrtSyfGnQYNdZ7eTFE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=se.monkeyisland.life&sid=08aa0813199a4c38#REALITY|SI🇸🇮

@@ -1,2 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@38.54.57.90:990#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+38.54.57.90-990+%7C+201.7ms
+ss://4710b85a66e6411bb4920e0f7366ad21Og==@www.visa.com.br:443#RELAY%F0%9F%9A%A9+%7C+www.visa.com.br-443+%7C+172.21ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ3D3A==@38.54.57.90:990#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+38.54.57.90-990+%7C+168.08ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.54.57.90:990#BR%F0%9F%87%A7%F0%9F%87%B7+%7C+38.54.57.90-990+%7C+159.22ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.192.124.188:990#🇧🇷BR
+ss://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|BR🇧🇷
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@167.234.255.2:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&fp=chrome&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#REALITY|BR🇧🇷
+vmess://ewogICAgImFkZCI6ICJwcS1icmF6aWwxLjA5dnBuLmNvbSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBxLWJyYXppbDEuMDl2cG4uY29tIiwKICAgICJpZCI6ICJjMDRjM2IzNC03MGZkLTRmZWMtOTYzZS1jMTJkMDlmMzZiZWYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvdm1lc3MvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hp/Cfh7dCUi05NS4xNjQuNC44OC0wNzkyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
