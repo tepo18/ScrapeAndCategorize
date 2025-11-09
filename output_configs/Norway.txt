@@ -1,2 +1,2 @@
-ss://01bd02a8-4e8c-4d75-9c74-7a99c1d27d83@185.204.170.191:31783?security=&encryption=none&headerType=none&type=tcp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ra%5D%20%5B251107-164147.854%5D
-vless://01bd02a8-4e8c-4d75-9c74-7a99c1d27d83@185.204.170.191:31783?security=&encryption=none&headerType=none&type=tcp#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-ra%5D%20%5B251107-164147.854%5D
+ss://6035325d-399a-5148-9126-29cedfd5966a@195.54.170.75:443?security=reality&encryption=none&pbk=pRQn2aDyqP621dJXVz1_vBP-lKrlbAffuYF82RQmJho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=c2acdf19#REALITY|NO🇳🇴
+vless://6035325d-399a-5148-9126-29cedfd5966a@195.54.170.75:443?security=reality&encryption=none&pbk=pRQn2aDyqP621dJXVz1_vBP-lKrlbAffuYF82RQmJho&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=outlook.office.com&sid=c2acdf19#REALITY|NO🇳🇴
