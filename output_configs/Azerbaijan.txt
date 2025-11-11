@@ -1,2 +1,0 @@
-ss://8562ee66-6dd4-4c8a-8ef3-19ea2aae5760@180.149.44.235:33727?security=none&encryption=none&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇿%20AZ%20179ms
-vless://8562ee66-6dd4-4c8a-8ef3-19ea2aae5760@180.149.44.235:33727?security=none&encryption=none&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇦🇿%20AZ%20179ms
