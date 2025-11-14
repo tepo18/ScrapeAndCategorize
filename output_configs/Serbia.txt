@@ -1,4 +1,6 @@
 ss://96eb0aac-b747-4f3c-8c30-d2ff7ec7415c@38.180.17.232:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=h_qOyi3Y79o7yw9WaMZY1CxtDlu4f6F1bIxqYTH11R4&sid=3e#REALITY|RS🇷🇸
-ss://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?security=none&encryption=none&headerType=none&type=tcp#RS🇷🇸
+ss://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?type=tcp&encryption=none&flow=#RS🇷🇸
+ss://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3F---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=hetzner-4.access.name.ng&fp=random&type=ws&sni=hetzner-4.access.name.ng#RS🇷🇸
 vless://96eb0aac-b747-4f3c-8c30-d2ff7ec7415c@38.180.17.232:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=h_qOyi3Y79o7yw9WaMZY1CxtDlu4f6F1bIxqYTH11R4&sid=3e#REALITY|RS🇷🇸
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?security=none&encryption=none&headerType=none&type=tcp#RS🇷🇸
+vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.190.150.75:4655?type=tcp&encryption=none&flow=#RS🇷🇸
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=%2F%3F---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=hetzner-4.access.name.ng&fp=random&type=ws&sni=hetzner-4.access.name.ng#RS🇷🇸

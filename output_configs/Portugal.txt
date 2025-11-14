@@ -1,3 +1,5 @@
 ss://35372035-3220-4937-a031-303020343820@195.133.92.56:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#REALITY|PT🇵🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#🇵🇹PT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#PT%F0%9F%87%B5%F0%9F%87%B9+%7C+185.231.233.173-990+%7C+126.7ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9PT-185.231.233.112-5473
+trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#🆔soskeynet%20🔒%20TR-WS-N/A%20🇵🇹%20PT%2099ms
 vless://35372035-3220-4937-a031-303020343820@195.133.92.56:8442?security=reality&encryption=none&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=creativecommons.org&sid=59b75803#REALITY|PT🇵🇹
