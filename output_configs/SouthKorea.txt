@@ -1,5 +1,5 @@
-ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05Ub3hNakkwTWclM0QlM0Q6@115.161.136.145:10099#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇰🇷%20KR%20down
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.36.113.244:443#KR%F0%9F%87%B0%F0%9F%87%B7+%7C+3.36.113.244-443+%7C+143.33ms
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0291
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0300
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@221.139.79.57:37008#%F0%9F%87%B0%F0%9F%87%B7KR-221.139.79.57-0322
+ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.45.164:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2074%20dailyv2ry
+ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05Ub3hNakkwTWclM0QlM0Q6@115.161.136.145:10099#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇰🇷%20KR%20184ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0372
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0367
+vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.45.164:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2074%20dailyv2ry

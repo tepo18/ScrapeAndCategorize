@@ -1,8 +1,10 @@
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?encryption=none&type=grpc#Ireland%202%20dailyv
 ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?encryption=none&type=grpc#Ireland%2021%20dailyv2ry
+ss://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.30.95.222:59483?encryption=none&type=grpc#Ireland%2068%20dailyv2ry
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@108.130.18.229:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#Ireland%2081%20dailyv2ryDaily
 ss://677615f7-87d5-5019-a44d-4fc3ff8d59d7@194.87.245.123:443?security=reality&encryption=none&pbk=Sou40t4nVSakWV73bMSiB8FqUIMCNfsHkuoOp05lD0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a83c34a4#REALITY|IE🇮🇪
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?encryption=none&type=grpc#Ireland%202%20dailyv
 vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@34.244.215.81:59483?encryption=none&type=grpc#Ireland%2021%20dailyv2ry
+vless://47d7d5eb-55e6-4085-a155-bdf3fcc428f6@52.30.95.222:59483?encryption=none&type=grpc#Ireland%2068%20dailyv2ry
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@108.130.18.229:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#Ireland%2081%20dailyv2ryDaily
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@194.87.245.123:443?security=reality&encryption=none&pbk=Sou40t4nVSakWV73bMSiB8FqUIMCNfsHkuoOp05lD0s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=a83c34a4#REALITY|IE🇮🇪
