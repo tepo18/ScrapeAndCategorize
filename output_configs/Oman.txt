@@ -1,6 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U0ZJUTlabHBRa2FBOVFwcGgyNldZ@154.205.147.68:8443#OM%F0%9F%87%B4%F0%9F%87%B2+%7C+154.205.147.68-8443+%7C+255.09ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U0ZJUTlabHBRa2FBOVFwcGgyNldZ@154.205.147.68:8443#OM%F0%9F%87%B4%F0%9F%87%B2+%7C+154.205.147.68-8443+%7C+256.54ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2U0ZJUTlabHBRa2FBOVFwcGgyNldZ@154.205.147.68:8443#OM%F0%9F%87%B4%F0%9F%87%B2+%7C+154.205.147.68-8443+%7C+260.01ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMXpQNWF4SktMVjR6VXBXUDlMWDZE@154.205.147.68:8443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇴🇲%20OM%20257ms
-ss://c8451b58-6337-4294-ba28-1a33731331a1@31.6.1.187:25607/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&sid=84#👉🆔@freenettir📡🇷🇴®️Romania©️Bucharest🅿️ping:50.33ms
-vless://c8451b58-6337-4294-ba28-1a33731331a1@31.6.1.187:25607/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=store.steampowered.com&fp=chrome&security=reality&pbk=j5CgrKQgkDV5bC5Y4pB0lGNupDYxklIDgge4HL1X3zE&sid=84#👉🆔@freenettir📡🇷🇴®️Romania©️Bucharest🅿️ping:50.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpocXN6ZEJrU2lTQ0RabENReGxzOUJG@154.205.147.68:8443#🆔madshopx%20🔒%20SS-TCP-TLS%20🇴🇲%20OM%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMXpQNWF4SktMVjR6VXBXUDlMWDZE@154.205.147.68:8443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇴🇲%20OM%20down

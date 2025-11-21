@@ -1,11 +1,8 @@
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@15.165.12.4:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|KR🇰🇷
-ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.19.119:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|KR🇰🇷
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.45.164:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2074%20dailyv2ry
 ss://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.36.12.120:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2080%20dailyv2ry
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0273
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0278
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@15.165.12.4:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|KR🇰🇷
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.19.119:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5#REALITY|KR🇰🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0286
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.63.177-0299
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@154.90.63.177:989#🇰🇷KR
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.230:4652#%F0%9F%87%B0%F0%9F%87%B7KR-218.237.185.230-5400
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@16.184.45.164:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2074%20dailyv2ry
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@3.36.12.120:443?encryption=none&security=reality&sni=chatgpt.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&type=tcp&flow=xtls-rprx-vision&spx=%2F#South%20Korea%2080%20dailyv2ry
-vmess://eyJhZGQiOiI0My4xNjQuMTMxLjcwIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjRkYjIwZDgyLTBhNjUtNDMyYi1jMTZiLWQyYWFjZmU4ODA3MyIsIm5ldCI6Im5vbmUiLCJwYXRoIjoiXC8iLCJwb3J0IjoyNDM1MSwicHMiOiJLUlx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyB8IDQzLjE2NC4xMzEuNzAtMjQzNTEgfCAxNjMuODNtcyIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
