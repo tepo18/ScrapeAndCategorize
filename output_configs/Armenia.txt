@@ -1,6 +1,2 @@
-ss://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw%3D%3D@213.159.76.21:443#Armenia%2085%20dailyv2ry
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzUXNmM3NZQnBoVHhVZ0x0Z1F6NENi@2.56.207.28:8443#AM%F0%9F%87%A6%F0%9F%87%B2+%7C+2.56.207.28-8443+%7C+148.95ms
-ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲
-vless://281f347e-5bfa-4293-a1fa-b511efa89707@game.jalasanje.ir:8082?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇦🇲%20AM%20down
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzUXNmM3NZQnBoVHhVZ0x0Z1F6NENi@2.56.207.28:8443#AM%F0%9F%87%A6%F0%9F%87%B2+%7C+2.56.207.28-8443+%7C+210.02ms
