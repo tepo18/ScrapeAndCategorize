@@ -1,2 +1,0 @@
-ss://2a30e90e-02be-4602-8c57-308eb4feff5b@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=spirako.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇦🇱%20AL%20141ms
-vless://2a30e90e-02be-4602-8c57-308eb4feff5b@al.spirako.com:443?security=reality&encryption=none&pbk=0hH6R90pSxwm7nZPGtJJcJFhwCXU3Rvf-wcEHE7hczo&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=spirako.com#🆔mrsoulb%20🔒%20VL-TCP-%20🇦🇱%20AL%20141ms
