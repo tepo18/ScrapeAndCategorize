@@ -1,4 +1,1 @@
-ss://14bd17f3-98e8-4677-a9bf-05f33b5d08fa@38.54.32.166:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=G1PSmMPJBmcOHfGR9ZKOoTWLKdo2k2ykliRlL-sb6UU&fp=chrome#REALITY|TH🇹🇭
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@119.59.127.129:990#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+119.59.127.129-990+%7C+212.99ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@119.59.127.129:990#%F0%9F%87%B9%F0%9F%87%ADTH%20%20%40ConfigV2RayNG%E2%80%94224
-vless://14bd17f3-98e8-4677-a9bf-05f33b5d08fa@38.54.32.166:443?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.paypal.com&pbk=G1PSmMPJBmcOHfGR9ZKOoTWLKdo2k2ykliRlL-sb6UU&fp=chrome#REALITY|TH🇹🇭
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@119.59.127.129:990#TH%F0%9F%87%B9%F0%9F%87%AD+%7C+119.59.127.129-990+%7C+203.27ms

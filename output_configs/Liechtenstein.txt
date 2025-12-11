@@ -1,1 +1,3 @@
-ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcGhVa1pNTWtkd1RFVnFUVU5qUlZkMVIwWmliV0pNWkhKdmRXaElVV0pFU1ElM0QlM0Q6@45.15.167.6:443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇱🇮%20LI%20109ms
+ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcGhVa1pNTWtkd1RFVnFUVU5qUlZkMVIwWmliV0pNWkhKdmRXaElVV0pFU1ElM0QlM0Q6@45.15.167.6:443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇱🇮%20LI%20down
+ss://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#🆔v2ray1_ng%20🔒%20VL-TCP-N/A%20🇱🇮%20LI%20236ms
+vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=randomized&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=v1bsy2b9q5-451516735-direct.bahame.co#🆔v2ray1_ng%20🔒%20VL-TCP-N/A%20🇱🇮%20LI%20236ms
