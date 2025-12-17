@@ -1,1 +1,2 @@
-ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcGhVa1pNTWtkd1RFVnFUVU5qUlZkMVIwWmliV0pNWkhKdmRXaElVV0pFU1ElM0QlM0Q6@45.15.167.6:443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇱🇮%20LI%20down
+ss://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=v1bsy2b9q5-451516735-direct.bahame.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#LI🇱🇮
+vless://v1bsy2b9q5@v1bsy2b9q5-451516735-direct.bahame.co:443?security=tls&type=tcp&alpn=h2%2Chttp%2F1.1&sni=v1bsy2b9q5-451516735-direct.bahame.co&fp=chrome&flow=xtls-rprx-vision&encryption=none#LI🇱🇮
