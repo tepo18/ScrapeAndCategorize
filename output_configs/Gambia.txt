@@ -1,2 +1,0 @@
-ss://da2dc531-fa7d-4f74-968a-a7414896baff@gm.germany-14.com:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=firefox&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%93%8F%BA%20GM%20Service
-vless://da2dc531-fa7d-4f74-968a-a7414896baff@gm.germany-14.com:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=firefox&pbk=p8D0V1jYr98lK4kU8FlBYfQ1kMO6zgIx5qI_p5dr_Bc&sid=#%E2%9A%A1%EF%B8%8E%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%93%8F%BA%20GM%20Service

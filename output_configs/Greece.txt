@@ -1,4 +1,1 @@
-ss://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#REALITY|GR🇬🇷
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.100-0351
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+192.71.166.100-989+%7C+186.18ms
-vless://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#REALITY|GR🇬🇷
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+192.71.166.100-989+%7C+187.84ms
