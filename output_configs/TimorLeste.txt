@@ -1,0 +1,2 @@
+ss://6b0ba493-98ac-4436-9b27-af65318c1fe1@Www.speedtest.net:8880/?type=ws&encryption=none&path=%2F%3Fed%3D2048&host=mx.amin8263.ir&security=none#tl%3A%40ERFIEF
+vless://6b0ba493-98ac-4436-9b27-af65318c1fe1@Www.speedtest.net:8880/?type=ws&encryption=none&path=%2F%3Fed%3D2048&host=mx.amin8263.ir&security=none#tl%3A%40ERFIEF
