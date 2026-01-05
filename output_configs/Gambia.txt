@@ -1,0 +1,2 @@
+ss://4799c8c1-5050-42b6-a11e-3367cd69d77a@gr.yasharmobile.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#GM%20%7C%20%40v2rayngcustom
+vless://4799c8c1-5050-42b6-a11e-3367cd69d77a@gr.yasharmobile.com:443?security=reality&encryption=none&pbk=tw6uAbjXzRSIKChb6pDbHVNjnU9Don4hbv6dHRkmJx8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=e54b5ad736ae4c38#GM%20%7C%20%40v2rayngcustom

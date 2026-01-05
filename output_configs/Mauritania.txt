@@ -1,2 +1,2 @@
-ss://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&type=ws&sni=ziyong.boringdad.netlib.re#dude%20%7C%20mr.Patric
-vless://495c0dad-3268-4470-ac57-887c5089db0d@162.159.153.2:443?path=%2F&security=tls&encryption=none&type=ws&sni=ziyong.boringdad.netlib.re#dude%20%7C%20mr.Patric
+ss://22caed0a-d8d2-9220-bc2c-d0e298fbadc2@makevaslim.com:80?path=%2F&security=none&encryption=none&host=fakoza1.global.ssl.fastly.net&type=ws#Channel%20%3A%20%40Mr%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://22caed0a-d8d2-9220-bc2c-d0e298fbadc2@makevaslim.com:80?path=%2F&security=none&encryption=none&host=fakoza1.global.ssl.fastly.net&type=ws#Channel%20%3A%20%40Mr%20%F0%9F%8F%B4%F0%9F%8F%B3

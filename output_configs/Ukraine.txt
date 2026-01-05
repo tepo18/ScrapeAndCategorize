@@ -1,4 +1,4 @@
-ss://5605e37f-f87f-468f-b562-b6d1c16cc75a@nl.takovpn.ru:443?type=tcp&encryption=none&flow=&sni=sun6-20.userapi.com&fp=chrome&security=reality&pbk=r2-SJzA8X3b0smshnMdHuvAE73xOjh7bTQuJLFczvwk&sid=db0d47ca401c#REALITY|UA🇺🇦
+ss://4ba8695f-ca09-4f1b-b746-57eddc3a4358@ua.whatsmyspeed.ir:42537?security=&encryption=none&host=e1.whatsapp.net&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20302ms
 ss://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#REALITY|UA🇺🇦
-vless://5605e37f-f87f-468f-b562-b6d1c16cc75a@nl.takovpn.ru:443?type=tcp&encryption=none&flow=&sni=sun6-20.userapi.com&fp=chrome&security=reality&pbk=r2-SJzA8X3b0smshnMdHuvAE73xOjh7bTQuJLFczvwk&sid=db0d47ca401c#REALITY|UA🇺🇦
+vless://4ba8695f-ca09-4f1b-b746-57eddc3a4358@ua.whatsmyspeed.ir:42537?security=&encryption=none&host=e1.whatsapp.net&headerType=http&type=tcp#🆔ar14n24b%20🔓%20VL-TCP-N/A%20🇺🇦%20UA%20302ms
 vless://99210efd-1a49-4085-add3-d1d2e4fdd6c2@95.164.44.237:49790?security=reality&encryption=none&pbk=Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=9d90d7ada8#REALITY|UA🇺🇦

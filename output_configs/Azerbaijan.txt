@@ -1,2 +1,6 @@
+ss://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&type=tcp&headerType=none&security=none#AZ🇦🇿
+ss://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#AZ🇦🇿
 ss://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&type=tcp&encryption=none#AZ🇦🇿
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?encryption=none&type=tcp&headerType=none&security=none#AZ🇦🇿
+vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&encryption=none&headerType=none&type=tcp#AZ🇦🇿
 vless://125ea501-6bbe-453a-ab42-352789be8154@180.149.44.106:4655?security=none&type=tcp&encryption=none#AZ🇦🇿

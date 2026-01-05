@@ -1,7 +1,1 @@
-ss://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&alpn=h3h2&encryption=none&type=httpupgrade&sni=dl180-137-107-91w25110.highsmartco.com#🆔soskeynet%20🔒%20VL-HTTPUPGRADE-N/A%20🇳🇿%20NZ%20175ms
-ss://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&alpn=h3h2&encryption=none&type=httpupgrade&sni=dl204-188-107-91w25110.highsmartco.com#🆔soskeynet%20🔒%20VL-HTTPUPGRADE-N/A%20🇳🇿%20NZ%20175ms
-ss://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&alpn=h3h2&encryption=none&type=httpupgrade&sni=dl96-168-107-91w25110.highsmartco.com#🆔soskeynet%20🔒%20VL-HTTPUPGRADE-N/A%20🇳🇿%20NZ%2011ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@114.129.43.29:8880#NZ%F0%9F%87%B3%F0%9F%87%BF+%7C+114.129.43.29-8880+%7C+9.03ms
-vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&alpn=h3h2&encryption=none&type=httpupgrade&sni=dl180-137-107-91w25110.highsmartco.com#🆔soskeynet%20🔒%20VL-HTTPUPGRADE-N/A%20🇳🇿%20NZ%20175ms
-vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&alpn=h3h2&encryption=none&type=httpupgrade&sni=dl204-188-107-91w25110.highsmartco.com#🆔soskeynet%20🔒%20VL-HTTPUPGRADE-N/A%20🇳🇿%20NZ%20175ms
-vless://c192ba31-e83a-4b23-9830-2cd13c46cb76@api.dark-coffe.com:443?security=tls&alpn=h3h2&encryption=none&type=httpupgrade&sni=dl96-168-107-91w25110.highsmartco.com#🆔soskeynet%20🔒%20VL-HTTPUPGRADE-N/A%20🇳🇿%20NZ%2011ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@114.129.43.29:8880#NZ%F0%9F%87%B3%F0%9F%87%BF+%7C+114.129.43.29-8880+%7C+1.81ms
