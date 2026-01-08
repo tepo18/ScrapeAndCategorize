@@ -1,0 +1,2 @@
+ss://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#Channel%20%3A%20%40Mr%20%F0%9F%8F%B4%F0%9F%8F%B3
+vless://7bcb7241-33f9-48e0-8660-b33aed2bff7a@104.21.96.1:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=8j3f7HD37h.PaGES.dEV#Channel%20%3A%20%40Mr%20%F0%9F%8F%B4%F0%9F%8F%B3

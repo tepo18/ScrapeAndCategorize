@@ -1,5 +1,1 @@
-ss://3133029f-ef2b-456b-83b5-c5fdcb5edd4c@185.109.21.54:17718?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=9d32c1#Mahdi%20is%20Here%20%E2%9C%A8%EF%B8%8F
-ss://3c0e49cb-8940-561a-83b8-1efbb17f7cf7@212.192.214.167:443?security=reality&encryption=none&pbk=bDDaSDMsFiIxf5on0yovlJB3h7fPpS40DJRPiE2tJRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=846349c8#REALITY|IS🇮🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+192.71.218.46-443+%7C+88.58ms
-vless://3133029f-ef2b-456b-83b5-c5fdcb5edd4c@185.109.21.54:17718?security=reality&encryption=none&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yastatic.net&sid=9d32c1#Mahdi%20is%20Here%20%E2%9C%A8%EF%B8%8F
-vless://3c0e49cb-8940-561a-83b8-1efbb17f7cf7@212.192.214.167:443?security=reality&encryption=none&pbk=bDDaSDMsFiIxf5on0yovlJB3h7fPpS40DJRPiE2tJRw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=846349c8#REALITY|IS🇮🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpja1NHYTBQVWdpMzZ2WlZQRUtzdjdZ@192.71.218.46:443#IS%F0%9F%87%AE%F0%9F%87%B8+%7C+192.71.218.46-443+%7C+147.28ms

@@ -1,5 +1,6 @@
 ss://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#REALITY|GR🇬🇷
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+192.71.166.100-989+%7C+127.99ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+192.71.166.100-989+%7C+194.22ms
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@192.71.166.100:989#🇬🇷GR%20%20ROSE—63🤯
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M3@38.54.29.82:9090#GR%F0%9F%87%AC%F0%9F%87%B7+%7C+38.54.29.82-9090+%7C+122ms
+ss://e958946d-0b4c-4fb0-a694-39b7f87bcf43@new.configyous.site:12385?type=tcp&security=none#Gr-49967
 vless://9f09dfa5-1b93-ba74-31b4-9101ccf5dad9@85.90.197.100:9956?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com#REALITY|GR🇬🇷
+vless://e958946d-0b4c-4fb0-a694-39b7f87bcf43@new.configyous.site:12385?type=tcp&security=none#Gr-49967
