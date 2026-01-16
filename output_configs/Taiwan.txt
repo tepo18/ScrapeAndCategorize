@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0406
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0457
 trojan://70cc8fc7-fb59-45ab-87d0-de404abe723c@green2.cdntencentmusic.com:31103?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#TW🇹🇼
