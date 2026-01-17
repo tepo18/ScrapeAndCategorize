@@ -1,2 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0457
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B9%F0%9F%87%BCTW-154.223.20.79-0411
 trojan://70cc8fc7-fb59-45ab-87d0-de404abe723c@green2.cdntencentmusic.com:31103?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#TW🇹🇼
+vmess://eyJhZGQiOiJndG0xLmt0bXdhbi5uZXQiLCJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjW29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1UVyIsInBvcnQiOjEyODg4LCJpZCI6IjFlYzQ5YWFmLTI5OTAtNGM3Yi1hNDVjLWQxOTBlNmVhNTQzOCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6IlwvIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
