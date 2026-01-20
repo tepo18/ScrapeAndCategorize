@@ -1,4 +1,6 @@
 ss://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+154.48ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+163.171.137.72-11201+%7C+154.08ms
+ss://807beacd-86f7-4803-b850-f1944605c5fc@46.224.190.174:442?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=excoino.com&fp=firefox&pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&sid=fd1dff035d0d8f56#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+117.69ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjdmYWVkOGE5Yjk4YmQw@163.171.137.72:11201#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+163.171.137.72-11201+%7C+112.37ms
 vless://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
+vless://807beacd-86f7-4803-b850-f1944605c5fc@46.224.190.174:442?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=excoino.com&fp=firefox&pbk=ecfRlCGezg7UQ-iyJAdmtzhswMYOrXYO1ROLVdvhhl0&sid=fd1dff035d0d8f56#%F0%9F%87%BA%F0%9F%87%A6%20Ukraine
