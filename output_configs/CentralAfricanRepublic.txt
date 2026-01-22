@@ -1,1 +1,3 @@
-ss://MTZlY2I2ZGQtZjZjYS01N2M2LTkyOGMtOTYzNGQzMTcxZjhlOg==@ip-cf.hukinghumans-655.WoRkeRS.dEV:2053#RELAY%F0%9F%9A%A9+%7C+ip-cf.hukinghumans-655.WoRkeRS.dEV-2053+%7C+60.6ms
+ss://65ad6c2f-c220-40a1-9bff-2b6ffbdb61ff@cf.iranwide.com:2087?type=xhttp&path=%2F&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ks1.iranwide.com#cf-04-%40kangavarserver
+ss://MTZlY2I2ZGQtZjZjYS01N2M2LTkyOGMtOTYzNGQzMTcxZjhlOg==@ip-cf.hukinghumans-655.WoRkeRS.dEV:2053#RELAY%F0%9F%9A%A9+%7C+ip-cf.hukinghumans-655.WoRkeRS.dEV-2053+%7C+25.78ms
+vless://65ad6c2f-c220-40a1-9bff-2b6ffbdb61ff@cf.iranwide.com:2087?type=xhttp&path=%2F&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=ks1.iranwide.com#cf-04-%40kangavarserver
