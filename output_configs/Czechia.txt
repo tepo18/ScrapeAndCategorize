@@ -1,3 +1,1 @@
-ss://57c9276d-db7a-49ef-ac20-32368a78a769@Cz-ViP-pRoNKmSCo.HPfLaShSdWrItEr.ir:80?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇨🇿%20CZ%20down
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.181.160.6-990+%7C+121.67ms
-vless://57c9276d-db7a-49ef-ac20-32368a78a769@Cz-ViP-pRoNKmSCo.HPfLaShSdWrItEr.ir:80?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#🆔soskeynet%20🔓%20VL-TCP-N/A%20🇨🇿%20CZ%20down
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#CZ%F0%9F%87%A8%F0%9F%87%BF+%7C+195.181.160.6-990+%7C+138.27ms

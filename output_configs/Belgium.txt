@@ -1,7 +1,6 @@
-ss://32ffe501-eeee-ddd3-ae2f-4a5353f145c9@plan1.rtpxc.com:3414?security=&encryption=none&headerType=none&type=tcp#BE🇧🇪
-ss://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEdllDRVlTU0E1dzhmYTBaWTgtLWs4bVdBRXJiMnVEZg3D3A==@113.30.152.46:8080#BE%F0%9F%87%A7%F0%9F%87%AA+%7C+113.30.152.46-8080+%7C+102.47ms
-ss://b8ef01a8-e1a1-d4e5-064d-82186b83f8a3@plan1.rtpxc.com:9676?security=&encryption=none&headerType=none&type=tcp#BE🇧🇪
-vless://32ffe501-eeee-ddd3-ae2f-4a5353f145c9@plan1.rtpxc.com:3414?security=&encryption=none&headerType=none&type=tcp#BE🇧🇪
-vless://582c84b9-25e9-48ae-826b-e1bdafca3730@98.142.254.3:25117?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
-vless://b8ef01a8-e1a1-d4e5-064d-82186b83f8a3@plan1.rtpxc.com:9676?security=&encryption=none&headerType=none&type=tcp#BE🇧🇪
+ss://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
+ss://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan3.rtpxc.com:3414?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
+ss://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
+vless://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
+vless://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan3.rtpxc.com:3414?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
+vless://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪

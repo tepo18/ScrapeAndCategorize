@@ -1,0 +1,2 @@
+ss://telegram-id-AryaNet_Shop@156.243.83.167:443?path=%2F-AryaNet_Shop%3Fed%3D2048&security=tls&encryption=none&host=cdn-alman2.arfilter2.blog&fp=firefox&type=ws&sni=cdn-alman2.arfilter2.blog#🆔speeds_vpn1%20🔒%20VL-WS-N/A%20🇵🇹%20PT%2024ms
+vless://telegram-id-AryaNet_Shop@156.243.83.167:443?path=%2F-AryaNet_Shop%3Fed%3D2048&security=tls&encryption=none&host=cdn-alman2.arfilter2.blog&fp=firefox&type=ws&sni=cdn-alman2.arfilter2.blog#🆔speeds_vpn1%20🔒%20VL-WS-N/A%20🇵🇹%20PT%2024ms
