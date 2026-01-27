@@ -1,1 +1,12 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA==@45.12.144.18:443#LU%F0%9F%87%B1%F0%9F%87%BA+%7C+45.12.144.18-443+%7C+129.02ms
+ss://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔anty_filter%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20172ms
+ss://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20215ms
+ss://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20207ms
+ss://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20209ms
+ss://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?type=tcp&path=%2F&host=iranserver.com&headerType=http&security=none#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20236ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA3D3A==@45.12.144.18:443#LU%F0%9F%87%B1%F0%9F%87%BA+%7C+45.12.144.18-443+%7C+155.62ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMUXlBVUl0YWZVbW1PM0VaWng5VWJpWDZJR3lkU0JnTA==@45.12.144.18:443#LU%F0%9F%87%B1%F0%9F%87%BA+%7C+45.12.144.18-443+%7C+153.76ms
+vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔anty_filter%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20172ms
+vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20215ms
+vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔mrsoulb%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20207ms
+vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#🆔vpnbaz%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20209ms
+vless://23aa242f-09f1-4f7e-8fcc-9d819fd95798@spark.persiaserverco.com:2087?type=tcp&path=%2F&host=iranserver.com&headerType=http&security=none#🆔fr33c0nfig%20🔓%20VL-TCP-N/A%20🇱🇺%20LU%20236ms

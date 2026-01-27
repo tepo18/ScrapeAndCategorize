@@ -1,6 +1,0 @@
-ss://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
-ss://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan3.rtpxc.com:3414?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
-ss://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
-vless://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
-vless://4af95bc6-adf5-e399-35c0-913e8d8522a4@plan3.rtpxc.com:3414?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
-vless://d8670a91-0d78-c855-a033-58084787afde@plan1.rtpxc.com:9676?security=none&encryption=none&headerType=none&type=tcp#BE🇧🇪
