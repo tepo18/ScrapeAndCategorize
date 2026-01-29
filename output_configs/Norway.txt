@@ -1,4 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+107.174.114.71-443+%7C+138.34ms
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp#NO🇳🇴
+ss://5c7007a7-7f08-44de-85d8-ebe001b8a98b@cf2.xuiprospeed.ir:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nrw.xuiprospeed.ir&type=ws#NO🇳🇴
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+107.174.114.71-443+%7C+119.91ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZUdBY3dhdmlXeFh6Zzg3QXd2bkU2Z1diaEhIR3d3Qg==@89.46.233.148:443#NO%F0%9F%87%B3%F0%9F%87%B4+%7C+89.46.233.148-443+%7C+130.38ms
 trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&type=tcp#NO🇳🇴
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=tcp&security=tls&sni=www.semanticstaplegun.click&allowInsecure=1#NO🇳🇴
+vless://5c7007a7-7f08-44de-85d8-ebe001b8a98b@cf2.xuiprospeed.ir:8880?path=%2F%3Fed%3D2048&security=none&encryption=none&host=nrw.xuiprospeed.ir&type=ws#NO🇳🇴

@@ -1,5 +1,1 @@
-ss://91f2e3fa-3047-4010-8c21-7ba9351602a5@151.101.234.196:80?encryption=none&security=none&type=xhttp&host=freeuse.global.ssl.fastly.net&path=%2FDailyConfigs&mode=packet-up#🆔soskeynet%20🔓%20VL-XHTTP-N/A%20🇳🇿%20NZ%20204ms
-ss://91f2e3fa-3047-4010-8c21-7ba9351602a5@151.101.234.196:80?encryption=none&security=none&type=xhttp&host=freeuse.global.ssl.fastly.net&path=%2FDailyConfigs&mode=packet-up#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20🇳🇿%20NZ%20204ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@114.129.43.29:8880#NZ%F0%9F%87%B3%F0%9F%87%BF+%7C+114.129.43.29-8880+%7C+17.93ms
-vless://91f2e3fa-3047-4010-8c21-7ba9351602a5@151.101.234.196:80?encryption=none&security=none&type=xhttp&host=freeuse.global.ssl.fastly.net&path=%2FDailyConfigs&mode=packet-up#🆔soskeynet%20🔓%20VL-XHTTP-N/A%20🇳🇿%20NZ%20204ms
-vless://91f2e3fa-3047-4010-8c21-7ba9351602a5@151.101.234.196:80?encryption=none&security=none&type=xhttp&host=freeuse.global.ssl.fastly.net&path=%2FDailyConfigs&mode=packet-up#🆔xixv2ray%20🔓%20VL-XHTTP-N/A%20🇳🇿%20NZ%20204ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@114.129.43.29:8880#NZ%F0%9F%87%B3%F0%9F%87%BF+%7C+114.129.43.29-8880+%7C+13.26ms
