@@ -1,5 +1,4 @@
-ss://401374e6df7741fbf638dad8184f175bOg==@45.85.118.141:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.141-443+%7C+9.91ms
-ss://887c4487-5a14-426c-9c1b-f0b857d6ae06@ro.marzxo.biz:8081?security=reality&encryption=none&pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&headerType=none&fp=firefox&type=tcp&sni=store.steampowered.com&sid=e8ef8df79e4a6343#REALITY|RO🇷🇴
-ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+10.31ms
-vless://887c4487-5a14-426c-9c1b-f0b857d6ae06@ro.marzxo.biz:8081?security=reality&encryption=none&pbk=Go_wk-NFoenM3xuCSQ84_0Lzh3Y6XrHzTz8XTbQl8lI&headerType=none&fp=firefox&type=tcp&sni=store.steampowered.com&sid=e8ef8df79e4a6343#REALITY|RO🇷🇴
-vmess://eyJhZGQiOiI4NS4yMDQuMTA3LjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUzZTBlZGE2LTJhOWUtNGE3Ni1iZDQ0LTMwZTUwOWY2MzUwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJST1x1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmNCB8IDg1LjIwNC4xMDcuMzMtMTEwIHwgMTUzLjY0bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://401374e6df7741fbf638dad8184f175bOg==@45.85.118.141:443#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.141-443+%7C+2.64ms
+ss://WTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05UcFBlVFJVYzNKNFptRktSWGhWU1doc1kxTnhTSEJXVVVsWFNVWk5NbXBhVWc6@5.182.37.87:443#🆔vpnserverrr%20🔒%20SS-TCP-TLS%20🇷🇴%20RO%20179ms
+ss://d342d11ed4244583b36e524ab1f0afa4Og==@45.85.118.93:2095#RO%F0%9F%87%B7%F0%9F%87%B4+%7C+45.85.118.93-2095+%7C+1.85ms
+vmess://eyJhZGQiOiI4NS4yMDQuMTA3LjMzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUzZTBlZGE2LTJhOWUtNGE3Ni1iZDQ0LTMwZTUwOWY2MzUwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwIiwicHMiOiJST1x1ZDgzY1x1ZGRmN1x1ZDgzY1x1ZGRmNCB8IDg1LjIwNC4xMDcuMzMtMTEwIHwgMTMzLjI4bXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9

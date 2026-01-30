@@ -1,2 +1,5 @@
+ss://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#REALITY|MY🇲🇾
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.192.176:990#MY%F0%9F%87%B2%F0%9F%87%BE+%7C+38.60.192.176-990+%7C+240.68ms
 ss://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?path=%2Fwxmgbmws&security=tls&encryption=none&fp=chrome&type=ws#MY🇲🇾
+vless://309fa273-6579-4cb2-9143-7cad50401eba@45.89.107.200:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#REALITY|MY🇲🇾
 vless://acb30534-b06f-4629-b684-5fa712f3efd8@45.89.107.223:443?path=%2Fwxmgbmws&security=tls&encryption=none&fp=chrome&type=ws#MY🇲🇾
