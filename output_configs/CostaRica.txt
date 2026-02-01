@@ -1,2 +1,0 @@
-ss://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@190.93.244.3:2053?security=tls&encryption=none&insecure=0&host=ity.ecoping2.org&type=ws&allowInsecure=0&sni=ity.ecoping2.org#🆔yebekhe%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms
-vless://8d9ccaac-2cb2-4c42-9a2b-0a5a10243031@190.93.244.3:2053?security=tls&encryption=none&insecure=0&host=ity.ecoping2.org&type=ws&allowInsecure=0&sni=ity.ecoping2.org#🆔yebekhe%20🔒%20VL-WS-N/A%20🇨🇷%20CR%202ms

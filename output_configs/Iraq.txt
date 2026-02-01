@@ -1,2 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+86.5ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+96.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+88.35ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#IQ%F0%9F%87%AE%F0%9F%87%B6+%7C+81.90.29.126-53672+%7C+90.85ms
+ss://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn5.suio.me:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#IQ🇮🇶
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn5.suio.me:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#IQ🇮🇶

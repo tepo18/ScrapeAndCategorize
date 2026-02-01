@@ -1,7 +1,1 @@
-trojan://157db8b8-45bb-46dd-9d27-13e9b2b5ab91@green2.cdntencentmusic.com:31101?path=%2F#TW🇹🇼
-trojan://157db8b8-45bb-46dd-9d27-13e9b2b5ab91@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=%2F#TW🇹🇼
-trojan://3e7e8f27-3963-44f1-bad7-dc8b88206429@green2.cdntencentmusic.com:31101?security=tls&path=%2F#TW🇹🇼
-trojan://3e7e8f27-3963-44f1-bad7-dc8b88206429@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=%2F&allow_insecure=0#TW🇹🇼
-trojan://3e7e8f27-3963-44f1-bad7-dc8b88206429@green2.cdntencentmusic.com:31101?security=tls&type=tcp&headerType=none&path=%2F&allow_insecure=0#TW🇹🇼
-trojan://602c3ca9-8cbf-4f35-bdfc-fd38b38f7972@green2.cdntencentmusic.com:31101?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=%2F#TW🇹🇼
-vmess://eyJhZGQiOiIzOC4xNTAuMTIuMTg4IiwiYWlkIjoiMCIsImhvc3QiOiJhZmx6enVsLm1laXF1YW5rb25namlhbi5jb20iLCJpZCI6IjM0MmJhY2ZkLTJiOGYtM2Y0OS1hMTZlLTQzOWRiNWIwYjlkNSIsIm5ldCI6IndzIiwicGF0aCI6IlwvNTY0ZGZhMjBcLyIsInBvcnQiOiI1MjUxMiIsInBzIjoiVFdcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgfCBhZmx6enVsLm1laXF1YW5rb25namlhbi5jb20tNTI1MTIgfCA2NTQuMDltcyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIzOC4xNTAuMTIuMTg4IiwiYWlkIjoiMCIsImhvc3QiOiJhZmx6enVsLm1laXF1YW5rb25namlhbi5jb20iLCJpZCI6IjM0MmJhY2ZkLTJiOGYtM2Y0OS1hMTZlLTQzOWRiNWIwYjlkNSIsIm5ldCI6IndzIiwicGF0aCI6IlwvNTY0ZGZhMjBcLyIsInBvcnQiOiI1MjUxMiIsInBzIjoiVFdcdWQ4M2NcdWRkZjlcdWQ4M2NcdWRkZmMgfCBhZmx6enVsLm1laXF1YW5rb25namlhbi5jb20tNTI1MTIgfCA3NjEuMjNtcyIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
