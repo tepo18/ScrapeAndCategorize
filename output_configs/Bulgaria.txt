@@ -1,4 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#%F0%9F%87%A7%F0%9F%87%ACBG-38.60.247.151-0354
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.10.228-443+%7C+123.8ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.10.228-443+%7C+124.75ms
-ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+12.36ms
+ss://227532ac-65f5-4b56-a7d6-b475b0e08834@c.brimliski.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=subtitle.migamet.sbs&fp=chrome&type=ws&allowInsecure=0&sni=subtitle.migamet.sbs#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇬%20BG%2022ms
+ss://227532ac-65f5-4b56-a7d6-b475b0e08834@c.brimliski.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=subtitle.migamet.sbs&fp=chrome&type=ws&allowInsecure=0&sni=subtitle.migamet.sbs#🆔soskeynet%20🔒%20VL-WS-N/A%20🇧🇬%20BG%2015ms
+ss://227532ac-65f5-4b56-a7d6-b475b0e08834@c.brimliski.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=subtitle.migamet.sbs&fp=chrome&type=ws&allowInsecure=0&sni=subtitle.migamet.sbs#🆔speeds_vpn1%20🔒%20VL-WS-N/A%20🇧🇬%20BG%208ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#%F0%9F%87%A7%F0%9F%87%ACBG-38.60.247.151-0381
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.10.228-443+%7C+144.89ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw==@95.164.10.228:443#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+95.164.10.228-443+%7C+145.4ms
+ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@147.78.140.20:8880#BG%F0%9F%87%A7%F0%9F%87%AC+%7C+147.78.140.20-8880+%7C+1.59ms
+vless://227532ac-65f5-4b56-a7d6-b475b0e08834@c.brimliski.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=subtitle.migamet.sbs&fp=chrome&type=ws&allowInsecure=0&sni=subtitle.migamet.sbs#🆔ar14n24b%20🔒%20VL-WS-N/A%20🇧🇬%20BG%2022ms
+vless://227532ac-65f5-4b56-a7d6-b475b0e08834@c.brimliski.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=subtitle.migamet.sbs&fp=chrome&type=ws&allowInsecure=0&sni=subtitle.migamet.sbs#🆔soskeynet%20🔒%20VL-WS-N/A%20🇧🇬%20BG%2015ms
+vless://227532ac-65f5-4b56-a7d6-b475b0e08834@c.brimliski.com:443?path=%2Fws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=subtitle.migamet.sbs&fp=chrome&type=ws&allowInsecure=0&sni=subtitle.migamet.sbs#🆔speeds_vpn1%20🔒%20VL-WS-N/A%20🇧🇬%20BG%208ms

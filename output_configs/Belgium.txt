@@ -1,3 +1,3 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-4860
-ss://f3bb53fa-ad74-4d1e-93be-672708f5b1bf@ip1-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=norbertde1.global.ssl.fastly.net&path=%2F%3Fed%3D2052#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20🇧🇪%20BE%20337ms
-vless://f3bb53fa-ad74-4d1e-93be-672708f5b1bf@ip1-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=norbertde1.global.ssl.fastly.net&path=%2F%3Fed%3D2052#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20🇧🇪%20BE%20337ms
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.249.78:989#%F0%9F%87%A7%F0%9F%87%AABE-192.71.249.78-0366
+ss://f3bb53fa-ad74-4d1e-93be-672708f5b1bf@ip1-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=norbertde1.global.ssl.fastly.net&path=%2F%3Fed%3D2052#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20🇧🇪%20BE%20395ms
+vless://f3bb53fa-ad74-4d1e-93be-672708f5b1bf@ip1-fast.tyryqyserver.ir:80?encryption=none&security=none&type=ws&host=norbertde1.global.ssl.fastly.net&path=%2F%3Fed%3D2052#🆔surfboardv2ray%20🔓%20VL-WS-N/A%20🇧🇪%20BE%20395ms
