@@ -1,3 +1,8 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.242.133.144:443#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.133.144-4833
+ss://6ca40eb2-5ef4-4d21-955f-dc533e815a78@c46.2ly5m8r6xoa8azxfhpq1.mr3232.homes:10592?security=reality&encryption=none&pbk=kcWEzVBpQyDrif6HJdHikhwHhSL2eLsuQjNUxY3rNUg&headerType=none&fp=random&spx=%2F&type=tcp&sni=store.epicgames.com&sid=d0a42cf2481ddb23#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇮🇪%20IE%20down
+ss://6ca40eb2-5ef4-4d21-955f-dc533e815a78@c46.2ly5m8r6xoa8azxfhpq1.mr3232.homes:10592?security=reality&encryption=none&pbk=kcWEzVBpQyDrif6HJdHikhwHhSL2eLsuQjNUxY3rNUg&headerType=none&fp=random&spx=%2F&type=tcp&sni=store.epicgames.com&sid=d0a42cf2481ddb23#🆔spotify_porteghali%20🔒%20VL-TCP-%20🇮🇪%20IE%20down
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.242.133.144:443#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.133.144-4845
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@34.245.190.123:443#%F0%9F%87%AE%F0%9F%87%AAIE-34.245.190.123-4844
 ss://a91bcc13-63f1-4dfd-a9cd-b601f9f9009b@b883ndlke.numdatrs.org:27160?path=%2Fgrbhp&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇪%20IE%20down
+vless://6ca40eb2-5ef4-4d21-955f-dc533e815a78@c46.2ly5m8r6xoa8azxfhpq1.mr3232.homes:10592?security=reality&encryption=none&pbk=kcWEzVBpQyDrif6HJdHikhwHhSL2eLsuQjNUxY3rNUg&headerType=none&fp=random&spx=%2F&type=tcp&sni=store.epicgames.com&sid=d0a42cf2481ddb23#🆔speeds_vpn1%20🔒%20VL-TCP-%20🇮🇪%20IE%20down
+vless://6ca40eb2-5ef4-4d21-955f-dc533e815a78@c46.2ly5m8r6xoa8azxfhpq1.mr3232.homes:10592?security=reality&encryption=none&pbk=kcWEzVBpQyDrif6HJdHikhwHhSL2eLsuQjNUxY3rNUg&headerType=none&fp=random&spx=%2F&type=tcp&sni=store.epicgames.com&sid=d0a42cf2481ddb23#🆔spotify_porteghali%20🔒%20VL-TCP-%20🇮🇪%20IE%20down
 vless://a91bcc13-63f1-4dfd-a9cd-b601f9f9009b@b883ndlke.numdatrs.org:27160?path=%2Fgrbhp&security=none&encryption=none&type=ws#🆔mrsoulb%20🔓%20VL-WS-N/A%20🇮🇪%20IE%20down
