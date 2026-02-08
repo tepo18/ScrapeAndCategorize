@@ -1,2 +1,4 @@
+ss://7d8c4078-6e9f-46a7-a2c3-bf5288de7e13@am.citymobileshop.top:443/?type=tcp&encryption=none&path=%2F&headerType=http&security=none#VIP%20Am-%40sofi_vpn
 ss://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲
+vless://7d8c4078-6e9f-46a7-a2c3-bf5288de7e13@am.citymobileshop.top:443/?type=tcp&encryption=none&path=%2F&headerType=http&security=none#VIP%20Am-%40sofi_vpn
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e#REALITY|AM🇦🇲

@@ -1,8 +1,10 @@
 ss://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+131.85ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-0369
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVdXdkRU40OEJCV1BwWE44dThLUTF6@194.87.45.189:443#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+194.87.45.189-443+%7C+154.21ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.170-56019+%7C+131.91ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-990+%7C+167.99ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptYmhxc1N0bkZRVDFjVFpZQ2RzbWt1Z0dVQzZHVDZycA@213.159.67.124:443#🇪🇸ES%20%20ROSE—111🤯
+ss://3efaf347-1273-4a45-a8f5-aec8e90bf4bf@tunnyl.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&security=reality&sid=38cd424d5ba6441d&sni=google.com&type=tcp#REALITY|ES🇪🇸
+ss://9f7e0226-66f3-438f-acf3-ab86cb070f25@tunnyl.ru:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=ios&security=reality&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&sid=38cd424d5ba6441d#REALITY|ES🇪🇸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4RnBnTFhGcXpHRGt2STFjM0ZhaW1a@45.86.229.239:24894#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.239-24894+%7C+132.08ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#%F0%9F%87%AA%F0%9F%87%B8ES-37.143.130.203-4705
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplVDNjeDRMdVlqNXBBb3JwOGM0eGVX@45.86.229.170:56019#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.86.229.170-56019+%7C+134.28ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990#ES%F0%9F%87%AA%F0%9F%87%B8+%7C+45.154.206.192-990+%7C+160.67ms
 vless://146e8a2b-283d-4f06-86ec-0608e2478265@84.17.62.67:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=04bf0403f96e5b4b#REALITY|ES🇪🇸
+vless://3efaf347-1273-4a45-a8f5-aec8e90bf4bf@tunnyl.ru:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&security=reality&sid=38cd424d5ba6441d&sni=google.com&type=tcp#REALITY|ES🇪🇸
+vless://9f7e0226-66f3-438f-acf3-ab86cb070f25@tunnyl.ru:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=ios&security=reality&pbk=JIEpMViq_q_8PBG4NYKXrSlaGeQMuahbAaa7Qrh3LX0&sid=38cd424d5ba6441d#REALITY|ES🇪🇸
