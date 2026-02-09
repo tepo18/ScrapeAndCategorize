@@ -1,8 +1,7 @@
-ss://160cc7e4-1e11-44e8-71fd-b162fbb1c83e@record.persianmizban.com:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=lgoin.persianmizban.com&path=%2F#IT🇮🇹
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#IT%F0%9F%87%AE%F0%9F%87%B9+%7C+176.126.83.158-990+%7C+115.81ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336#🆔soskeynet%20🔒%20SS-TCP-TLS%20🇮🇹%20IT%20down
-ss://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B9%5Bopenproxylist.com%5D%20vless-IT
-ss://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?type=tcp&encryption=none&flow=&sni=stackoverflow.com&fp=firefox&security=reality&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c#REALITY|IT🇮🇹
-vless://160cc7e4-1e11-44e8-71fd-b162fbb1c83e@record.persianmizban.com:443?encryption=none&security=tls&sni=lgoin.persianmizban.com&fp=firefox&insecure=0&allowInsecure=0&type=ws&host=lgoin.persianmizban.com&path=%2F#IT🇮🇹
-vless://b3051b10-716d-455b-9811-aefcce3d633e@ov-italy1.09vpn.com:80?encryption=none&security=none&type=ws&path=%2Fvless%2F#%F0%9F%87%AE%F0%9F%87%B9%5Bopenproxylist.com%5D%20vless-IT
-vless://e6af2417-0a79-4521-aa2a-de1c2f105188@85.235.149.184:500?type=tcp&encryption=none&flow=&sni=stackoverflow.com&fp=firefox&security=reality&pbk=NGrcCvAGrXu9QMiu2QNZy2HBqbvL7j-cFQuTFbE-AjM&sid=bea5eb2fcf6b183c#REALITY|IT🇮🇹
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXRVOC9mdkNWUGFxbUtrWFY2Ylg4djhVTEk0RmNoK0VLdmcxOU1vRVRMaz0%3D@57.131.41.129:8390#%3E%3E%40outline_vpn%3A%3AIT
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5REFNc1g2NzhYc2pzRVNSNFVKbEFJ@185.247.184.27:42203#🇮🇹IT%20%20ROSE—491
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.126.83.158:990#🇮🇹IT%20%20ROSE—317
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRNHQ4VDdoRVlZM21EMkZuNHdueHlLNFgzNUFVenZSOA@176.126.83.121:443#🇮🇹IT%20%20ROSE—100
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#🇮🇹IT%20%20ROSE—588
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#🇮🇹IT%20%20ROSE—320
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkOThjOWE2Mzk5MDY0MjI3@157.185.130.3:49336#%3E%3E%40prrofile_purple%3A%3AIT

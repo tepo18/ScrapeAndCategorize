@@ -1,6 +1,0 @@
-ss://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2RmZpaHdjNkV6YXo3OGlab29ieHRF@194.150.220.103:443#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+194.150.220.103-443+%7C+178.66ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphUk5GWUt0TE9uYVBFNUZDSEk5eWxy@130.0.233.100:33610#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+130.0.233.100-33610+%7C+135.39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47393#UA%F0%9F%87%BA%F0%9F%87%A6+%7C+163.171.137.76-47393+%7C+147ms
-vless://72e97eb0d0544970a7ed42d796c6773c@130.0.233.100:8443?encryption=none&type=xhttp&path=%2Fx&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=random#REALITY|UA🇺🇦
-vmess://eyJhZGQiOiJiYmJubWp1LjkzMi5wcC51YSIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6ImJiYm5tanUuOTMyLnBwLnVhIiwiaWQiOiIyYmZlNThmNy1kYTFkLTQ1ZGYtYWI0My03YzY2NWIyMGVlMjkiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3QxVVY0SFNyemJXR21KdGJCaG1LYjhuT2tnIiwicG9ydCI6ODAsInBzIjoiUkVMQVlcdWQ4M2RcdWRlYTkgfCBiYmJubWp1LjkzMi5wcC51YS04MCB8IDgwNC42NW1zIiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoiIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
