@@ -3,8 +3,8 @@ name: Daily Scrape and Update Repo
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *'  # هر ساعت اجرا می‌شود
-    - cron: ' */10 * * * *'
+    - cron: '*/10 * * * *'  # هر ۱۰ دقیقه اجرا می‌شود
+    - cron: ' */18 * * * *'
 
 permissions:
   contents: write
