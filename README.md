@@ -10,21 +10,21 @@
 
 | پروتکل | تعداد کل | لینک |
 |---|---|---|
-| ShadowSocks | 6466 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
-| ShadowSocksR | 1 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
-| Trojan | 480 | [`Trojan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
-| Vless | 4506 | [`Vless.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
-| Vmess | 489 | [`Vmess.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
+| ShadowSocks | 6466 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocksR | 1 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
+| Trojan | 480 | [`Trojan.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
+| Vless | 4506 | [`Vless.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
+| Vmess | 489 | [`Vmess.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
 
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
 | کشور | تعداد کانفیگ مرتبط | لینک |
 |---|---|---|
-| <img src="https://flagcdn.com/w20/al.png" width="20" alt="Albania flag"> Albania (آلبانی) | 42 | [`Albania.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Albania.txt) |
-| <img src="https://flagcdn.com/w20/ag.png" width="20" alt="AntiguaAndBarbuda flag"> AntiguaAndBarbuda (آنتیگوا و باربودا) | 9 | [`AntiguaAndBarbuda.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/AntiguaAndBarbuda.txt) |
-| <img src="https://flagcdn.com/w20/ar.png" width="20" alt="Argentina flag"> Argentina (آرژانتین) | 1 | [`Argentina.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Argentina.txt) |
-| <img src="https://flagcdn.com/w20/am.png" width="20" alt="Armenia flag"> Armenia (ارمنستان) | 4 | [`Armenia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Armenia.txt) |
-| <img src="https://flagcdn.com/w20/au.png" width="20" alt="Australia flag"> Australia (استرالیا) | 10 | [`Australia.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Australia.txt) |
+| <img src="https://flagcdn.com/w20/al.png" width="20" alt="Albania flag"> Albania (آلبانی) | 42 | [`Albania.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/Albania.txt) |
+| <img src="https://flagcdn.com/w20/ag.png" width="20" alt="AntiguaAndBarbuda flag"> AntiguaAndBarbuda (آنتیگوا و باربودا) | 9 | [`AntiguaAndBarbuda.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/AntiguaAndBarbuda.txt) |
+| <img src="https://flagcdn.com/w20/ar.png" width="20" alt="Argentina flag"> Argentina (آرژانتین) | 1 | [`Argentina.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/Argentina.txt) |
+| <img src="https://flagcdn.com/w20/am.png" width="20" alt="Armenia flag"> Armenia (ارمنستان) | 4 | [`Armenia.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/Armenia.txt) |
+| <img src="https://flagcdn.com/w20/au.png" width="20" alt="Australia flag"> Australia (استرالیا) | 10 | [`Australia.txt`](https://raw.githubusercontent.com/shah1398/ScrapeAndCategorize/refs/heads/main/output_configs/Australia.txt) |
 | <img src="https://flagcdn.com/w20/at.png" width="20" alt="Austria flag"> Austria (اتریش) | 24 | [`Austria.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Austria.txt) |
 | <img src="https://flagcdn.com/w20/az.png" width="20" alt="Azerbaijan flag"> Azerbaijan (آذربایجان) | 2 | [`Azerbaijan.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Azerbaijan.txt) |
 | <img src="https://flagcdn.com/w20/bh.png" width="20" alt="Bahrain flag"> Bahrain (بحرین) | 1 | [`Bahrain.txt`](https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Bahrain.txt) |
