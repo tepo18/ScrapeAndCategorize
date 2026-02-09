@@ -340,7 +340,7 @@ async def main():
         if saved: country_counts[category] = count
     
     generate_simple_readme(protocol_counts, country_counts, categories_data, 
-                           github_repo_path="10ium/ScrapeAndCategorize",
+                           github_repo_path="shah1398/ScrapeAndCategorize",
                            github_branch="main")
 
     logging.info("--- Script Finished ---")
