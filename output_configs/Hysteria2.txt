@@ -1,3 +1,4 @@
+hy2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&%3Bsni=do-vnyear.9966663.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20HY2%20%7C%20%40config_proxy%20%231
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#yandex-99
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#yandex-100
 hy2://4077295f-4d0c-4130-af89-66cfef13ea6f@85.209.53.170:443/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%F0%9F%87%A9%F0%9F%87%AA%40FREE2CONFIG%20
