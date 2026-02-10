@@ -1,6 +1,4 @@
-hy2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&%3Bsni=do-vnyear.9966663.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%7C%20HY2%20%7C%20%40config_proxy%20%231
 hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#🇳🇱%20Netherlands%20-%2011
-hy2://9f73c619627d6a5d@66.245.192.15:443?insecure=1&%3Bsni=www.apple.com&%3Bobfs=salamander&%3Bobfs-password=bd7f765e#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20HY2%20%7C%20%40vipv2rey%20%231
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20HY2-UDP-TLS%204%E2%83%A3
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%207
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#🇳🇱%20Netherlands%20-%2010
