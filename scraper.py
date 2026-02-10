@@ -16,6 +16,7 @@ URLS_FILE = 'urls.txt'
 KEYWORDS_FILE = 'keywords.json' # باید حاوی کدهای دو حرفی کشور باشد
 OUTPUT_DIR = 'output_configs'
 README_FILE = 'README.md'
+ALL_COUNTRIES_FILE = os.path.join(OUTPUT_DIR, "all_country.txt")
 REQUEST_TIMEOUT = 15
 CONCURRENT_REQUESTS = 10
 MAX_CONFIG_LENGTH = 1500
@@ -38,7 +39,7 @@ def is_persian_like(text):
     has_persian_char = False
     has_latin_char = False
     for char in text:
-        if '\u0600' <= char <= '\u06FF' or char in ['\u200C', '\u200D']: # ZWNJ and ZWJ
+        if '\u0600' <= char <= '\u06FF' or char in ['\u200C', '\u200D']:
             has_persian_char = True
         elif 'a' <= char.lower() <= 'z':
             has_latin_char = True
@@ -140,7 +141,6 @@ def save_to_file(directory, category_name, items_set):
         logging.error(f"Failed to write file {file_path}: {e}")
         return False, 0
 
-# --- تابع generate_simple_readme با استفاده از تصاویر پرچم ---
 def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, github_repo_path="10ium/ScrapeAndCategorize", github_branch="main"):
     tz = pytz.timezone('Asia/Tehran')
     now = datetime.now(tz)
@@ -165,59 +165,50 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     md_content += "\n"
 
     md_content += "## 🌍 فایل‌های کشورها (حاوی کانفیگ)\n\n"
+    md_content += f"**📦 همه کانفیگ‌های کشورها:** [`all_country.txt`]({raw_github_base_url}/all_country.txt)\n\n"
+
     if country_counts:
         md_content += "| کشور | تعداد کانفیگ مرتبط | لینک |\n"
         md_content += "|---|---|---|\n"
         for country_category_name, count in sorted(country_counts.items()):
-            flag_image_markdown = "" # برای نگهداری تگ HTML تصویر پرچم
+            flag_image_markdown = ""
             persian_name_str = ""
-            iso_code_original_case = "" # برای نگهداری کد ISO با حروف اصلی از فایل JSON
+            iso_code_original_case = ""
 
             if country_category_name in all_keywords_data:
                 keywords_list = all_keywords_data[country_category_name]
                 if keywords_list and isinstance(keywords_list, list):
-                    # 1. پیدا کردن کد دو حرفی ISO کشور برای استفاده در URL تصویر پرچم
                     iso_code_lowercase_for_url = ""
                     for item in keywords_list:
                         if isinstance(item, str) and len(item) == 2 and item.isupper() and item.isalpha():
                             iso_code_lowercase_for_url = item.lower()
-                            iso_code_original_case = item # ذخیره کد با حروف اصلی
+                            iso_code_original_case = item
                             break 
                     
                     if iso_code_lowercase_for_url:
-                        # استفاده از flagcdn.com با عرض 20 پیکسل
                         flag_image_url = f"https://flagcdn.com/w20/{iso_code_lowercase_for_url}.png"
                         flag_image_markdown = f'<img src="{flag_image_url}" width="20" alt="{country_category_name} flag">'
                     
-                    # 2. استخراج نام فارسی
                     for item in keywords_list:
                         if isinstance(item, str):
-                            # از خود کد ISO (که برای پرچم استفاده شد) صرف نظر کن
                             if iso_code_original_case and item == iso_code_original_case:
                                 continue
-                            # از نام اصلی کشور (کلید JSON) صرف نظر کن، مگر اینکه خودش فارسی باشد (بعید)
                             if item.lower() == country_category_name.lower() and not is_persian_like(item):
                                 continue
-                            # از سایر کدهای دو یا سه حرفی بزرگ که کد ISO انتخاب شده نیستند، صرف نظر کن
                             if len(item) in [2,3] and item.isupper() and item.isalpha() and item != iso_code_original_case:
                                 continue
-                            
                             if is_persian_like(item):
                                 persian_name_str = item
                                 break 
             
-            # 3. ساخت متن نهایی برای ستون "کشور"
             display_parts = []
-            if flag_image_markdown: # اگر تگ تصویر پرچم ساخته شده باشد
+            if flag_image_markdown:
                 display_parts.append(flag_image_markdown)
-            
-            display_parts.append(country_category_name) # نام اصلی (کلید)
-
+            display_parts.append(country_category_name)
             if persian_name_str:
                 display_parts.append(f"({persian_name_str})")
             
             country_display_text = " ".join(display_parts)
-            
             file_link = f"{raw_github_base_url}/{country_category_name}.txt"
             link_text = f"{country_category_name}.txt"
             md_content += f"| {country_display_text} | {count} | [`{link_text}`]({file_link}) |\n"
@@ -232,8 +223,7 @@ def generate_simple_readme(protocol_counts, country_counts, all_keywords_data, g
     except Exception as e:
         logging.error(f"Failed to write {README_FILE}: {e}")
 
-# تابع main و سایر توابع باید مشابه نسخه کامل قبلی باشند.
-# در اینجا برای کامل بودن، تابع main از پاسخ قبلی کپی می‌شود.
+# --- Main Function ---
 async def main():
     if not os.path.exists(URLS_FILE) or not os.path.exists(KEYWORDS_FILE):
         logging.critical("Input files not found.")
@@ -252,8 +242,7 @@ async def main():
     }
     country_category_names = list(country_keywords_for_naming.keys())
 
-    logging.info(f"Loaded {len(urls)} URLs and "
-                 f"{len(categories_data)} total categories from keywords.json.")
+    logging.info(f"Loaded {len(urls)} URLs and {len(categories_data)} total categories from keywords.json.")
 
     tasks = []
     sem = asyncio.Semaphore(CONCURRENT_REQUESTS)
@@ -268,16 +257,14 @@ async def main():
 
     logging.info("Processing pages for config name association...")
     for url, text in fetched_pages:
-        if not text:
-            continue
+        if not text: continue
 
         page_protocol_matches = find_matches(text, protocol_patterns_for_matching)
         all_page_configs_after_filter = set()
         for protocol_cat_name, configs_found in page_protocol_matches.items():
             if protocol_cat_name in PROTOCOL_CATEGORIES:
                 for config in configs_found:
-                    if should_filter_config(config):
-                        continue
+                    if should_filter_config(config): continue
                     all_page_configs_after_filter.add(config)
                     final_all_protocols[protocol_cat_name].add(config)
 
@@ -295,7 +282,6 @@ async def main():
                 elif config.startswith('vmess://'): name_to_check = get_vmess_name(config)
 
             if not name_to_check: continue
-            
             current_name_to_check_str = name_to_check if isinstance(name_to_check, str) else ""
 
             for country_name_key, keywords_for_country_list in country_keywords_for_naming.items():
@@ -332,15 +318,32 @@ async def main():
     protocol_counts = {}
     country_counts = {}
 
+    # ذخیره فایل‌های پروتکل‌ها
     for category, items in final_all_protocols.items():
         saved, count = save_to_file(OUTPUT_DIR, category, items)
         if saved: protocol_counts[category] = count
+
+    # ذخیره فایل‌های کشورها
     for category, items in final_configs_by_country.items():
         saved, count = save_to_file(OUTPUT_DIR, category, items)
         if saved: country_counts[category] = count
-    
+
+    # --- ذخیره همه کانفیگ‌های کشورها در یک فایل واحد ---
+    all_country_configs = set()
+    for configs_set in final_configs_by_country.values():
+        all_country_configs.update(configs_set)
+
+    try:
+        with open(ALL_COUNTRIES_FILE, 'w', encoding='utf-8') as f:
+            for config in sorted(all_country_configs):
+                f.write(f"{config}\n")
+        logging.info(f"Saved {len(all_country_configs)} total country configs to {ALL_COUNTRIES_FILE}")
+    except Exception as e:
+        logging.error(f"Failed to write all_country.txt: {e}")
+
+    # تولید README
     generate_simple_readme(protocol_counts, country_counts, categories_data, 
-                           github_repo_path="shah1398/ScrapeAndCategorize",
+                           github_repo_path="tepo18/ScrapeAndCategorize",
                            github_branch="main")
 
     logging.info("--- Script Finished ---")
