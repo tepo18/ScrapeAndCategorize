@@ -210,7 +210,6 @@ vless://1c166dd3-f5d5-4725-b137-d3772348fb37@b.confignor.site:35493?mode=gun&sec
 vless://1c166dd3-f5d5-4725-b137-d3772348fb37@b.confignor.site:35493?security=reality&encryption=none&pbk=qeWt8jJZTwf6vmiTvDfaalPaSZDkX7a3XkKrBxf2YVA&fp=qq&spx=/&type=grpc&serviceName=چنل
 vless://1cf63b4c-120e-482e-b097-47c79c3c63ae@dl.i-farm.ir:80?encryption=none&type=ws&host=lllllililililliiiliillilililili.global.ssl.fastly.net&path=%2Fsite&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://1cf63b4c-120e-482e-b097-47c79c3c63ae@dl.i-farm.ir:80?security=none&type=ws&headerType=&path=%2Fsite&host=lllllililililliiiliillilililili.global.ssl.fastly.net&flow=#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://1db3fcb8-0609-4bdd-9091-3c1352bb1e4f@140.248.133.204:443?path=/wst?ed=2056&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2,http/1.1&encryption=none&insecure=0&host=parsianmobilebank.ir&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#🇺🇸US_491_@Surfboardv2ray
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?encryption=none&type=ws&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&path=%2F%3Fed&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://1e35b4bf-b270-4c0b-918d-62746eedd2ad@104.18.32.47:80?path=%2F%3Fed&security=&encryption=none&host=EveRLaSTinG-fiNANcE439p1sxXHY.SPORtLAND.CompanY.&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://1e823993-86ac-3ead-89b5-227e73825fdb@s1.db-link.in:443?&security=tls&fp=chrome&alpn=h3,h2&sni=dabaif0.webn.cc&type=ws&headerType=none&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
@@ -251,7 +250,6 @@ vless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052?path=%2F%3Fed%3D
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@ov-france1.09vpn.com:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=/&security=tls&encryption=none&insecure=1&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=1&sni=foucse1.goooooooozoooo.sbs#🇨🇦CA_585_@Surfboardv2ray
 vless://26524cce-d514-4014-a426-365fb266a14d@104.26.12.27:2053?encryption=none&type=ws&host=snippet.fgfw.eu.org&path=%2Fdanfeng&security=tls&fp=chrome&sni=snippet.fgfw.eu.org#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@209.94.61.155:4655?security=none&encryption=none&headerType=none&type=tcp#SiNAVM
 vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@81.27.100.89:4655?encryption=none&security=none&type=tcp&headerType=none#SiNAVM
