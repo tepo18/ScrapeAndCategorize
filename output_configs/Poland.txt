@@ -4,4 +4,3 @@ ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#🇵🇱PL
 trojan://humanity@104.18.7.147:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.creationlong.org#%3E%3E%40v2rayng_fast%3A%3APL
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%3E%3E%40FreakConfig%3A%3APL
 trojan://humanity@www.creationlong.org:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%3E%3E%40outline_vpn%3A%3APL
-vmess://eyJhZGQiOiI4NS4xOTQuMjQzLjExNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxNDIzZmE1NC0xMjU2LTRjYmItOTY2My1lMGNjYWI0NmYwMmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MtYXJnbz9lZD0yMDQ4IiwicG9ydCI6IjU3ODc4IiwicHMiOiLwn4e18J+HsSBQTCB8IDg1LjE5NC4yNDMuMTE3Iiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
