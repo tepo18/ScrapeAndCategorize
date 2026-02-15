@@ -49,3 +49,4 @@ hy2://freehomesvpnchannel3@channel2.saghetalaie.homes:46914/?insecure=1&sni=www.
 hy2://freehomesvpnmahsa3@donate1.mahsa.homes:16396/?insecure=1&sni=www.google.com&obfs=salamander&obfs-password=%26O%2328YB5qK%215t%23U#%F0%9F%87%AB%F0%9F%87%AE%40FREE2CONFIG%20
 hy2://linux.do@[2a01:4f9:4b:f378::1]:13599/?insecure=1&sni=www.bing.com#%F0%9F%87%B3%F0%9F%87%B1%40FREE2CONFIG%20
 hy2://sysadmin.sysadmin@167.234.249.46:444/?insecure=1&sni=a.961229.xyz#%F0%9F%87%A7%F0%9F%87%B7%40FREE2CONFIG%20
+hy2://zhangyang@130.61.50.75:6443/?insecure=1&sni=dash.cloudflare.com#%3E%3E%40oneclickvpnkeys%3A%3AXX
