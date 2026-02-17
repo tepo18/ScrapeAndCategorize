@@ -303,7 +303,6 @@ trojan://telegram-id-directvpn@15.236.57.222:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@18.193.19.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-directvpn@3.122.142.57:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com]
 trojan://telegram-id-directvpn@3.126.233.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE%20TROJAN-39%20%7C%20free-nodes
-trojan://telegram-id-directvpn@3.126.233.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com]
 trojan://telegram-id-directvpn@3.126.96.173:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-directvpn@3.72.120.152:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-directvpn@3.74.127.230:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
