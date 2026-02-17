@@ -16,7 +16,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPVjhXMmlxYjU2V3JyZUpFMHBzcW01@62.133.60.43:3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@212.224.125.154:57456#🇩🇪%20Germany%20-%2015
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@212.224.125.154:57456#🇩🇪%20Germany%20-%2016
 ss://YWVzLTI1Ni1nY206QXFnQndZRGVRQQ==@91.107.141.164:2096#🇩🇪%20Germany%20-%201
-trojan://5a2c16f9@114.33.57.170:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/114.33.57.170:443&Host=5c.hhhhh.eu.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BA%5D%20%7C%20DE%2C%20TW%20%7C%20%5BBL%5D
+trojan://5a2c16f9@103.137.63.227:8443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/103.137.63.227:8443&Host=5c.hhhhh.eu.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20DE%2C%20TW%20%7C%20%5BBL%5D
+trojan://5a2c16f9@125.228.236.138:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/125.228.236.138:443&Host=5c.hhhhh.eu.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20DE%2C%20TW%20%7C%20%5BBL%5D
 trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
 trojan://telegram-id-directvpn@3.126.233.247:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE%20TROJAN-39%20%7C%20free-nodes
