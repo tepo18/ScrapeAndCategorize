@@ -26,9 +26,6 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇨🇦CA%20%20ROSE—354
 ss://b592cf1a-d92f-4dbd-9c1d-b76936a1609e@51.161.130.101:550?encryption=auto&security=none&fp=chrome&type=tcp#🇨🇦%20Canada%20-%201
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0368
-trojan://5a2c16f9@114.33.57.170:443?type=ws&security=tls&path=%2F%252F114.33.57.170%253A443&host=5c.hhhhh.eu.org&sni=5c.hhhhh.eu.org&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20CA%2C%20TW%20%7C%20%5BBL%5D
-trojan://5a2c16f9@125.228.236.138:443?path=%2F125.228.236.138%3A443&security=tls&host=5c.hhhhh.eu.org&type=ws&sni=5c.hhhhh.eu.org&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20CA%2C%20TW%20%7C%20%5BBL%5D
-trojan://5a2c16f9@223.165.4.57:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/223.165.4.57:443&Host=5c.hhhhh.eu.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20CA%2C%20HK%20%7C%20%5BBL%5D
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11297
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
