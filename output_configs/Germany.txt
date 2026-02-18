@@ -53,7 +53,9 @@ ss://YWVzLTI1Ni1nY206QXFnQndZRGVRQQ==@91.107.141.164:2096#🇩🇪%20Germany%20-
 ss://YWVzLTI1Ni1nY206R3Q2bERsRjBOS0VTRVdkYQ@2.58.81.216:80#🇩🇪DE%20%20ROSE—139
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪DE%20%20ROSE—132
 trojan://5a2c16f9@103.137.63.227:8443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/103.137.63.227:8443&Host=5c.hhhhh.eu.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20DE%2C%20TW%20%7C%20%5BBL%5D
+trojan://5a2c16f9@114.33.57.170:443?type=ws&security=tls&path=%2F%252F114.33.57.170%253A443&host=5c.hhhhh.eu.org&sni=5c.hhhhh.eu.org&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20DE%2C%20TW%20%7C%20%5BBL%5D
 trojan://5a2c16f9@125.228.236.138:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/125.228.236.138:443&Host=5c.hhhhh.eu.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20DE%2C%20TW%20%7C%20%5BBL%5D
+trojan://5a2c16f9@223.165.4.57:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/223.165.4.57:443&Host=5c.hhhhh.eu.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BB%5D%20%7C%20DE%2C%20TW%20%7C%20%5BBL%5D
 trojan://78f9bf50-bce8-11ee-8913-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%231
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443/chatbuzzteambhm.chatbuzzt7150.workers.dev?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
 trojan://byDSOLVPDd@yxxoxomchoyk.eu-central-1.clawcloudrun.com:49147?security=reality&pbk=kC0ruZ1MPr6xJlqxtX0R9IasI5wW4bJ8UqeGZWw1r30&headerType=none&fp=chrome&type=tcp&sni=play.google.com&sid=848ecf47e1b2#%3E%3E%40configV2rayNG%3A%3ADE
