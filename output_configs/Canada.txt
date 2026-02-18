@@ -51,6 +51,9 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&typ
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12043
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12045
 trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11997
+trojan://trojan@109.234.211.66:8443?host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20CA%2C%20RU%20%7C%20%5BBL%5D
+trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&type=ws&path=%2F&Host=store.timimi.dpdns.org#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20CA%2C%20RU%20%7C%20%5BBL%5D
+trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&serviceName=&authority=&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&sni=aws.amazon.com&sid=1abe0c286879&spx=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BCloudflare%5D%20%7C%20CA%2C%20GB%20%7C%20%5BBL%5D
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.13.69:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&fp=chrome&type=ws&path=/linkvws&host=tilebani.com#🇨🇦%20Canada%20-%2012
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.13.69:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&fp=chrome&type=ws&path=/linkvws&host=vkvd127.mycdn.me#🇨🇦%20Canada%20-%207
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@15.235.50.172:443?encryption=auto&security=tls&sni=baradiha.com&fp=chrome&type=ws&path=/linkvws&host=baradiha.com#🇨🇦%20Canada%20-%208
