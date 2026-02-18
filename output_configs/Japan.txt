@@ -1,4 +1,3 @@
-hy2://95D27EEF-B7AE-4076-BA39-40FDFA3D0F61@jp7.dexlos.com:13778/?insecure=1#JP
 ss://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto&security=none&fp=chrome&type=ws&path=/vmess/#🇯🇵%20Japan%20-%204
 ss://9e7e9017-ce08-4f50-cc20-2f9bca478072@109.123.231.39:47443?encryption=auto&security=none&fp=chrome&type=tcp#🇯🇵%20Japan%20-%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@103.106.228.247:990#%F0%9F%87%AF%F0%9F%87%B5JP-103.106.228.247-0330
