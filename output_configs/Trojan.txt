@@ -53,7 +53,6 @@ trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?security=tls&
 trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40vmesc
 trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?security=tls&sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW-220.130.58.136-4763
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰]
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:4054?security=tls&sni=www.nintendogames.net&path=/#SiNAVM
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?security=tls&sni=www.nintendogames.net&path=/#SiNAVM
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#SiNAVM
