@@ -111,6 +111,7 @@ trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?allowInsecure=1&sni=
 trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?allowInsecure=1&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.227-0306
 trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?security=tls&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?security=tls&sni=www.nintendogames.net#🇭🇰[openproxylist.com]
 trojan://64a59181551b5773e390bd717a7b7c06@58.152.53.227:443?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇭🇰]
 trojan://66c62e1a-8037-4154-ad0b-7a0ec415f46c@220.130.58.136:35501?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸]
 trojan://6790a94c-4ea8-4a1e-979e-31716839427a@green2.cdntencentmusic.com:31101?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰]
@@ -203,7 +204,6 @@ trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&host=sweden.vmaxpanel.com&path=%
 trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://T9BpZIVMNv@v3.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#GB%20TROJAN-51%20%7C%20free-nodes
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#🇬🇧[openproxylist.com]
 trojan://VjXsgvA0s4@verarussia1.uspn.io:443?type=ws&path=/trojan&security=tls&fp=chrome&sni=verarussia1.uspn.io#SiNAVM
 trojan://WG25eyyq5F@Finland.silenceux.ir:2087?path=/Telegram-@ATLAS_V2VPN/?ed=2570&security=tls&insecure=0&host=dbssxrx3df6f.contigolibre.com&type=ws&allowInsecure=0&sni=dbssxrx3df6f.contigolibre.com#♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️🛜🔷️302🌐🆕️
 trojan://Z1imBX6I51@b2w.esportplusnews.top:2053?security=none&seed=V2RayyNGvpn&headerType=wireguard&type=kcp#ایرانسل🇩🇪رایتل
@@ -483,7 +483,6 @@ trojan://telegram-id-directvpn@52.58.68.225:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@63.180.109.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-directvpn@63.183.53.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@63.183.70.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#DE%20TROJAN-52%20%7C%20free-nodes
-trojan://telegram-id-directvpn@63.183.70.214:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇩🇪[openproxylist.com]
 trojan://telegram-id-privatevpns@13.36.129.164:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
 trojan://telegram-id-privatevpns@13.37.158.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@13.39.26.127:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
