@@ -11,8 +11,8 @@ ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.25.25:443?encryption=auto&secur
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.25.25:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&fp=chrome&type=ws&path=/linkvws&host=f.khilei.com#🇩🇪%20Germany%20-%205
 ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.25.25:443?encryption=auto&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&fp=chrome&type=ws&path=/linkvws&host=f.khilei.com#🇩🇪%20Germany%20-%207
 ss://65a792ae-a8a1-4892-9ca9-305886346f58@57.129.77.72:8080?security=reality&sni=chatgpt.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇩🇪%20Germany%20-%202
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206S2VXMFJScHRNenhZa1MyS0p6eE11dz09@116.203.35.45:2121?#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BC%5D%20%7C%20%5BIPv4%2B6%5D%20%7C%20%5BBL%5D
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cExEV2pXeVRzNG12UFpmWTE3M2tVUT09@188.245.76.45:2020?#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BC%5D%20%7C%20%5BIPv4%2B6%5D%20%7C%20%5BBL%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206S2VXMFJScHRNenhZa1MyS0p6eE11dz09@116.203.35.45:2121?#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv4%2B6%5D%20%7C%20%5BBL%5D
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cExEV2pXeVRzNG12UFpmWTE3M2tVUT09@188.245.76.45:2020?#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv4%2B6%5D%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🇩🇪DE%20%20ROSE—676
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjAzMmQ5OTNkZmVjMzE4@141.95.104.145:11201#🇩🇪DE%20%20ROSE—127
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NTY4ZTRkOTQ2YjYyMjQ1@135.125.245.131:19700#🇩🇪DE%20%20ROSE—125
