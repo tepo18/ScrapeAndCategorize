@@ -15,9 +15,9 @@ trojan://0a169d7d-a30f-4d90-af1b-55f6ef6afcb7@green2.cdntencentmusic.com:35501?a
 trojan://0ansrekn-ggl3-e4r7-2jpy-igazzac9a7ub@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#🇭🇰[openproxylist.com]
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws&allow_insecure=0#%f0%9f%87%ad%f0%9f%87%b0%20HK%204
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws&allow_insecure=0#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws&allow_insecure=0#🇭🇰[openproxylist.com]
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?security=tls&type=ws&sni=xo.e0f.cx&path=/trojan-ws&host=xo.e0f.cx#HK%20TROJAN-41%20%7C%20free-nodes
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?type=ws&host=xo.e0f.cx&path=%2Ftrojan-ws&security=tls&sni=xo.e0f.cx#[🇭🇰]
 trojan://11cfbea5-eae4-4654-8aa9-a9481f38dc42@220.130.58.136:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
@@ -305,7 +305,7 @@ trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?host=hl-freedo
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&type=ws#⚡Telegram
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#GB%20TROJAN-44%20%7C%20free-nodes
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?security=tls#🇬🇧[openproxylist.com]
+trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?type=raw&headerType=none&security=tls#🇬🇧[openproxylist.com]
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?type=ws&host=hl-freedom-2.undef.network&path=%2Ff2fc2a1f&security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://VjXsgvA0s4@verarussia1.uspn.io:443?type=ws&path=/trojan&security=tls&fp=chrome&sni=verarussia1.uspn.io#SiNAVM
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?security=tls&allowInsecure=true#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
@@ -540,7 +540,6 @@ trojan://n6q1v9pq-b809-2lku-n3ys-f5zihtk3jvet@127.0.0.1:4080?security=tls&header
 trojan://pUF
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@185.235.137.29:443?host=free-de-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-2.undef.network&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?allowInsecure=1&sni=free-de-2.undef.network&ws=1&wspath=%2Ff2fc2a1f#DE%20TROJAN-45%20%7C%20free-nodes
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?allowInsecure=1&sni=free-de-2.undef.network&ws=1&wspath=%2Ff2fc2a1f#🇩🇪[openproxylist.com]
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?host=free-de-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=free-de-2.undef.network&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 trojan://pywmagxiFko7@www.visaeurope.ch:2083/?type=ws&security=tls&path=/?ed=2560&host=cfpro.il.ip-ddns.com&sni=cfpro.il.ip-ddns.com&fp=chrome&allowInsecure=1#@v2rays_ha
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#%F0%9F%87%A8%F0%9F%87%B1%20Chile%2C%20Antofagasta%20%7C%20%5BBL%5D
