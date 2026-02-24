@@ -1,6 +1,5 @@
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
 ss://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%207
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TWpNNU4yRTRPRGhqTVdRNU5ETXhaV0UzTVdVNFpUUTFZVGs0WW1Ga016Zz06WWpsaVlqTXpNbVExWlRCa05ERmhabUZrWVdNME9UTTJNbVJrWlRnMk5qRT0@nnnnnnnnn.huangshang.online:27446#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#🇺🇸US%20%20ROSE—677
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#🇺🇸US%20%20ROSE—656
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#🇺🇸US%20%20ROSE—657
@@ -70,7 +69,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🇺🇸US%20%20ROSE—674
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-pupas-shirting-unsung.freesocks.work%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnZuMmZORXZCZ001a25mZnJOOTZx@92.118.112.101:9483#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-92.118.112.101%3A9483
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzOC0xN1ExaGZoc19HSlhSSkJfWXlhUXAtdGg5cUxkRQ@veraus1.uspn.io:1234?#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 ss://YWVzLTEyOC1nY206NTIzejJmZ3JkN2p4MHo1eHY2bzU=@167.160.90.51:11475#%f0%9f%87%ba%f0%9f%87%b8%20US%2069
 ss://YWVzLTEyOC1nY206ZmE1OTM0MTQtN2E3Ni00OTc1LTkwOWItN2E3YzQ2YmUxMjNi@154.17.31.189:18829#%F0%9F%87%BA%F0%9F%87%B8US-154.17.31.189-0344
 ss://YWVzLTEyOC1nY206ZmE1OTM0MTQtN2E3Ni00OTc1LTkwOWItN2E3YzQ2YmUxMjNi@154.17.31.189:18829#%f0%9f%87%ba%f0%9f%87%b8%20US%2061
@@ -132,7 +130,6 @@ ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg==@154.38.176.7:80#%f0%9f%87%ba%f0%9f
 ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#🇺🇸US%20%20ROSE—64
 ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ==@94.72.127.55:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2038
 ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:443#🇺🇸US%20%20ROSE—53
-ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Seattle%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#🇺🇸US%20%20ROSE—152
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag==@154.53.57.143:443#%f0%9f%87%ba%f0%9f%87%b8%20US%2060
 ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag==@154.53.57.143:80#%f0%9f%87%ba%f0%9f%87%b8%20US%2026
@@ -158,6 +155,7 @@ trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sn
 trojan://1798b14b-aee0-4008-ba9a-2e53877761b4@y.taiwan2029.indevs.in:443?security=tls&sni=y.taiwan2029.indevs.in&alpn=http%2f1.1&type=ws&host=y.taiwan2029.indevs.in&path=%2fRXvyoH0kyRosKkycyrxcJWNVFC21#%f0%9f%87%ba%f0%9f%87%b8%20US%2050
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&%3Bsni=rc6.freeguard.org&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
 trojan://34778794-72e8-4862-b1e7-6e6c3ba894be@thj.huangzi.cfd:443?security=tls&sni=thj.huangzi.cfd&alpn=http%2f1.1&type=ws&host=thj.huangzi.cfd&path=%2fFYzt5jjXXYWmzP5D1vsO#%f0%9f%87%ba%f0%9f%87%b8%20US%2053
+trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43642?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.usq1.cat.bilibili.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20San%20Jose%20%28Downtown%20San%20Jose%29%20%7C%20%5BBL%5D
 trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?security=tls&sni=GGbNH.7777198.xyZ&alpn=http%2f1.1&type=ws&host=GGbNH.7777198.xyZ&path=%2fr862SIwqItkD5XgXAL&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2054
 trojan://4c205c81-5694-43fe-a287-af563a2ebc05@r56.bb0.ccwu.cc:443?security=tls&sni=r56.bb0.ccwu.cc&type=ws&host=r56.bb0.ccwu.cc&path=%2fP23lDbkARo4gds7cXpDB5nO5#%f0%9f%87%ba%f0%9f%87%b8%20US%2010
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
@@ -165,11 +163,11 @@ trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@ji9.ok1.indevs.in:443?security=tls
 trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@jjkii.003330333.xyz:443?security=tls&sni=jjkii.003330333.xyz&alpn=http%2f1.1&type=ws&host=jjkii.003330333.xyz&path=%2fpdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2030
 trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@mki.huangzi.eu.cc:443?security=tls&sni=mki.huangzi.eu.cc&alpn=http%2f1.1&type=ws&host=mki.huangzi.eu.cc&path=%2fpdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2051
 trojan://5f6c3f92-7220-4275-b34d-57c04db3f967@u8.ok1.indevs.in:443?security=tls&sni=u8.ok1.indevs.in&alpn=http%2f1.1&type=ws&host=u8.ok1.indevs.in&path=%2fpdfbAl1zmvpSIH8OSONBms&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2023
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.106.99:1281?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.106.99:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.116.227:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
 trojan://64a59181551b5773e390bd717a7b7c06@160.16.116.227:1281?security=tls&sni=www.nintendogames.net&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?security=tls&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
-trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.236.32:1281?security=tls&sni=www.nintendogames.net&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
+trojan://64a59181551b5773e390bd717a7b7c06@160.16.72.205:1281?security=tls&sni=www.nintendogames.net&type=tcp&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
 trojan://64a59181551b5773e390bd717a7b7c06@52.192.108.21:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://64a59181551b5773e390bd717a7b7c06@54.150.231.83:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://64a59181551b5773e390bd717a7b7c06@54.238.209.205:1281?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
