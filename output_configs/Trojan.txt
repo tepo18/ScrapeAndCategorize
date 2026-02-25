@@ -325,6 +325,7 @@ trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&t
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?type=raw&headerType=none&security=tls#[🇨🇦]
 trojan://adb13850-7e70-492e-85b2-01184801d587@us08.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://adb13850-7e70-492e-85b2-01184801d587@us08.oportal.cc:443/?type=tcp&security=tls&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://adb13850-7e70-492e-85b2-01184801d587@us08.oportal.cc:443?allowInsecure=1&security=tls&type=tcp#🏳[openproxylist.com]
 trojan://adb13850-7e70-492e-85b2-01184801d587@us08.oportal.cc:443?security=tls&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2046
 trojan://adb13850-7e70-492e-85b2-01184801d587@us08.oportal.cc:443?security=tls&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://af8mb09k-gm9t-v7cg-nfod-u6smozf7qs3r@127.0.0.1:4080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -552,7 +553,7 @@ trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=tcp&securit
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443/?type=tcp&security=tls&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=free-de-2.undef.network#%F0%9F%87%A9%F0%9F%87%AADE-185.235.137.29-0296
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=free-de-2.undef.network#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=free-de-2.undef.network#🇩🇪[openproxylist.com]
+trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&sni=free-de-2.undef.network#🏳[openproxylist.com]
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%207
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?security=tls&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://pYIoKUPGpWeTYXEx3HjR7s97B@free-de-2.undef.network:443?type=raw&headerType=none&security=tls&sni=free-de-2.undef.network#[🇩🇪]
