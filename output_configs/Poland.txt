@@ -45,6 +45,7 @@ ss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.18:9005#🇵🇱PL%20%20RO
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@217.30.10.70:9064#%f0%9f%87%b5%f0%9f%87%b1%20PL%2011
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@217.30.10.18:9064#🇵🇱PL%20%20ROSE—723
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.18:9000#%f0%9f%87%b5%f0%9f%87%b1%20PL%2021
+ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20SS%20%7C%20%40netfreedom0%20%231
 ss://YWVzLTI1Ni1jZmI6YTNHRll0MzZTbTgyVnlzOQ==@217.30.10.70:9000#%f0%9f%87%b5%f0%9f%87%b1%20PL%2023
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw==@217.30.10.18:9098#%f0%9f%87%b5%f0%9f%87%b1%20PL%2020
 ss://YWVzLTI1Ni1jZmI6YUxwUXRmRVplNDQ1UXlIaw@217.30.10.18:9098#🇵🇱PL%20%20ROSE—724
@@ -75,6 +76,7 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@57.128.214.100:12000#🇵�
 trojan://humanity@185.18.250.252:443?alpn=h2,http/1.1&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@www.creationlong.org:443?alpn=h2%252Chttp%252F1.1&path=%252Fassignment&security=tls&sni=www.creationlong.org&type=ws#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&alpn=h2%252Chttp%252F1.1&fp=chrome&type=ws&path=%2fassignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HtfCfh7Eg5rOi5YWwfEByaXBhb2ppZWRpYW4iLCJhZGQiOiJib2FyZC0wMi5kZG5za3VubHVuLmNvbSIsInBvcnQiOiIxMTg4NSIsInR5cGUiOiJub25lIiwiaWQiOiJhOGJjY2U0My1hYmRhLTMxNWItOGU4MS1lM2U2NWJjYjNkMDciLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiYm9hcmQtMDIuZGRuc2t1bmx1bi5jb20iLCJ0bHMiOiIifQ==
