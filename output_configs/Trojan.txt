@@ -37,11 +37,11 @@ trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?security=tls&sni=w
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:3419?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%208
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20New%20York%20%7C%20%5BBL%5D
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#@AkbarConfig👈کانفیگ
-trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?security=tls&sni=www.nintendogames.net#🇺🇸[openproxylist.com]
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.65.107:4920?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2016
 trojan://262f1d150049457ac1d6e66b020fa980@153.121.70.134:400?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-0231
+trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?security=tls&sni=www.nintendogames.net#🇺🇸[openproxylist.com]
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.124.17:4920?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇺🇸]
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://262f1d150049457ac1d6e66b020fa980@160.16.130.21:4920?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.130.21-0230
@@ -199,7 +199,6 @@ trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#ShineNET%20VPN
 trojan://ba222255-00e9-434d-88f0-e0c22ac529f4@green2.cdntencentmusic.com:35501?sni=green2.cdntencentmusic.com#%F0%9F%87%B9%F0%9F%87%BCTW%E5%8F%B0%E6%B9%BE3
 trojan://bnjhchzi-ild2-74vh-ijce-cxfgnnv9lxgp@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=%252Fhowdy&%3Bsni=de1.test3.net&%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?allowInsecure=0&sni=web.max#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
 trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?sni=red&type=ws&path=/?ed=2560&fp=chrome#SiNAVM
 trojan://cvfqpddz-5566-xufx-qysp-ud6c9v7ra371@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@www.digitalocean.com:443?encryption=none&security=tls&sni=azadnet-5vk.pages.dev&fp=randomized&type=ws&path=%2Fazadnet-5vk.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%5BOpenRay%5D%20Dynamic-12030
@@ -411,4 +410,5 @@ trojan://x77p7yh9-5a5w-3ygz-oxc6-krnf0duf33hw@127.0.0.1:1080?security=tls&type=t
 trojan://xe7ne2sw-qgod-5cjc-s20p-mutbawrm82mr@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://xyu1oibn-fm59-74ea-21eq-eq0efc1jt3sy@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://zp630tdUuD@194.150.166.151:52047/?type=grpc&serviceName=&authority=&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&sni=aws.amazon.com&sid=1abe0c286879&spx=%2F#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#🇬🇧[openproxylist.com]
 trojan://zp630tdUuD@194.150.166.151:52047?type=grpc&security=reality&fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sni=aws.amazon.com&sid=1abe0c286879&spx=%2F#[🇬🇧]
