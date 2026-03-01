@@ -2,3 +2,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#%F0%9F%87%B8%F0%9F%87%AASE-46.246.97.140-0311
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#🇸🇪SE%20%20ROSE—110
 trojan://249454d267254a52ab3c8b7906bc12ab@176.125.240.167:9443?security=reality&%3Bpbk=mvXhdnqrOTuyX9K9Hm7632OJCFGdFwkBpw56X-aKn20&%3BheaderType=none&%3Bfp=random&%3Btype=tcp&%3Bsni=apple.com&%3Bsid=aabbccdd#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%7C%20TROJAN%20%7C%20%40v_2rayng0%20%231
+trojan://T9BpZIVMNv@chatgpt.com:8443?path=%2Famd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
