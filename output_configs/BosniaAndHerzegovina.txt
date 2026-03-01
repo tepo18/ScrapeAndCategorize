@@ -1,1 +1,0 @@
-trojan://pingUserForApp189@154.203.183.119:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇬🇧Ba@KIA_NET
