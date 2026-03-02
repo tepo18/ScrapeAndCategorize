@@ -268,7 +268,7 @@ trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?type=tcp&security=tl
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#SiNAVM
 trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=us08.oportal.cc&type=tcp&headerType=none&path=%2f&allow_insecure=1#%f0%9f%87%ba%f0%9f%87%b8%20US%20304
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&type=tcp&headerType=none&path=%f0%9f%94%92#%f0%9f%87%ba%f0%9f%87%b8%20US%20100
-trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&type=tcp&headerType=none&path=/&allow_insecure=1#🇨🇦[openproxylist.com]
+trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&type=tcp&headerType=none&path=🔒#🇨🇦[openproxylist.com]
 trojan://adb13850-7e70-492e-85b2-01184801d587@hk27.oportal.cc:443?security=tls&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%206
 trojan://adf2550f-8b87-4ea1-aa80-e7fc8f65a68a@green2.cdntencentmusic.com:35502?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸]
 trojan://b020865b-7404-4894-ba65-a7414b10cda3@uu.852224.xyz:443?security=tls&sni=uu.852224.xyz&alpn=http%2f1.1&type=ws&host=uu.852224.xyz&path=%2fiEIlQmeiFdOPjqSc7fzeJr&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%20169
