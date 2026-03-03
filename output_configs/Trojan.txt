@@ -144,7 +144,6 @@ trojan://66c62e1a-8037-4154-ad0b-7a0ec415f46c@220.130.58.136:35501?allowInsecure
 trojan://6790a94c-4ea8-4a1e-979e-31716839427a@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b9%f0%9f%87%bc%20TW%201
-trojan://6f038cee-6ba1-4941-bce5-de1969f37405@220.130.58.136:35502?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸]
 trojan://6f038cee-6ba1-4941-bce5-de1969f37405@green2.cdntencentmusic.com:31101?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%A8%F0%9F%87%B3%20TW%E5%8F%B0%E6%B9%BE%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@ggnju.iran2027.indevs.in:443?security=tls&sni=ggnju.iran2027.indevs.in&type=ws&host=ggnju.iran2027.indevs.in&path=%2fElrtQ8CAz6RgfMaiN9LMya#%f0%9f%87%ba%f0%9f%87%b8%20US%20239
 trojan://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@ghj.husngahng.click:443?security=tls&sni=ghj.husngahng.click&type=ws&host=ghj.husngahng.click&path=%2fElrtQ8CAz6RgfMaiN9LMya#%f0%9f%87%ba%f0%9f%87%b8%20US%20326
@@ -262,7 +261,6 @@ trojan://bef1e608-83df-4935-8169-8a345f5643e9@green2.cdntencentmusic.com:31101?a
 trojan://c52d2de2-fc6d-490c-8421-132f87615736@bgty6.852224.xyz:443?security=tls&sni=bgty6.852224.xyz&alpn=http%2f1.1&type=ws&host=bgty6.852224.xyz&path=%2fPDbJ6Qn4xImwtg6PusRbe#%f0%9f%87%ba%f0%9f%87%b8%20US%20361
 trojan://c5355528-55a2-45df-b8fd-a48ce3c41413@220.130.58.136:35502?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://c5355528-55a2-45df-b8fd-a48ce3c41413@220.130.58.136:35502?security=tls&sni=green2.cdntencentmusic.com&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b9%f0%9f%87%bc%20TW%202
-trojan://c5355528-55a2-45df-b8fd-a48ce3c41413@220.130.58.136:35502?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸]
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=%252Fhowdy&%3Bsni=de1.test3.net&%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?allowInsecure=0&sni=ozon.ru#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A73
