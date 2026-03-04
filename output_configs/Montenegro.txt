@@ -1,5 +1,6 @@
 ss://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?security=&type=ws&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed%3D2560&host=pamchall.com.&encryption=none#t.me/peterjest
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k@download.riferoser.icu:56594#t.me/entryNET/config=1858669245768887
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRHQ4Y0cxVExnNHVCMG5VTU9BdUA5MS4xMDcuMTQ0LjA6MTA4MA==#[🏁]t.me/irmeliy`
 trojan://RmhZQ47pEm@180.131.145.169:18718?security=reality&sni=www.tesla.com&fp=chrome&pbk=asandNdBjV4KsNXq9fmPx4nM6QtjJV7MYTyBOrTZ4zY&sid=b7df2e7f077d&allowInsecure=1&type=grpc#t.me/v2Line
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowInsecure=1&type=ws&host=www.calmlunch.com&path=/assignment#t.me/v2Line
 trojan://telegram-id-privatevpns@15.188.31.240:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
