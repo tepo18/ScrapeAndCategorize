@@ -8,11 +8,9 @@ trojan://0a169d7d-a30f-4d90-af1b-55f6ef6afcb7@green2.cdntencentmusic.com:35501?t
 trojan://0jy9ss6u-el4v-71ey-ft6z-h6r9683sylep@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#%F0%9F%87%AD%F0%9F%87%B0%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2nodes
 trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&insecure=0&host=xo.e0f.cx&type=ws&allowInsecure=0&sni=xo.e0f.cx#🇭🇰[openproxylist.com]
-trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?type=ws&host=xo.e0f.cx&path=%2Ftrojan-ws&security=tls&sni=xo.e0f.cx#[🇭🇰]
 trojan://11cfbea5-eae4-4654-8aa9-a9481f38dc42@green2.cdntencentmusic.com:35501?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸]
 trojan://123456@bpbg.anguswen.top:443?allowInsecure=0&sni=Bpbg.ANGuswen.top&ws=1&wspath=%2FeyJqdW5rIjoiQ3U4MmVDZ3JnUzRLTjdnIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiYnBiLnlvdXNlZi5pc2VnYXJvLmNvbSJdfQ%3D%3D%3Fed%3D2560#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://125f929b-dbde-43b9-b498-695f1cd45d68@220.130.58.136:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://125f929b-dbde-43b9-b498-695f1cd45d68@220.130.58.136:31102?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰]
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬[openproxylist.com]
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?security=tls&sni=seashell.qzz.io&type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011#SiNAVM
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#SiNAVM
@@ -60,7 +58,6 @@ trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?security=tls&s
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#SiNAVM
 trojan://3uof045t-fg1w-olke-rgvm-j3y6olp3vrek@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
 trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@green2.cdntencentmusic.com:31103?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰]
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:4054?security=tls&sni=www.nintendogames.net&path=/#SiNAVM
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.67.215:3093?security=tls&sni=www.nintendogames.net&path=/#SiNAVM
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3093?security=tls&sni=www.nintendogames.net&path=/#SiNAVM
@@ -116,7 +113,6 @@ trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tl
 trojan://842b5f9dd11e458d8613c907c4cc5723@srv1.khatibirepair.ir:443?encryption=none&%3Bsecurity=tls&%3Bsni=www.gpt123.one&%3Binsecure=1&%3Btype=raw&%3Bheadertype=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 trojan://842b5f9dd11e458d8613c907c4cc5723@srv1.khatibirepair.ir:443?encryption=none&%3Bsecurity=tls&%3Bsni=www.gpt123.one&%3Binsecure=1&%3Btype=raw&%3Bheadertype=none#%F0%9F%87%B8%F0%9F%87%A8%20SC%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 trojan://858fc0a5-69ad-48e3-8c6d-e4375cca8fc9@220.130.58.136:31102?allowInsecure=0&sni=green2.cdntencentmusic.com#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://858fc0a5-69ad-48e3-8c6d-e4375cca8fc9@220.130.58.136:31102?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰]
 trojan://8595b855-e4c4-40cd-834d-d34bb65ec928@220.130.58.136:35501?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇺🇸]
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&sni=_acme&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=/?ed=2560#SiNAVM
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/&host=_acme-challenge.2go.cloudns.be#🇸🇬#ShineNET%20VPN
@@ -133,7 +129,6 @@ trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@ddffghy.0wu.ccwu.cc:443?security=t
 trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@fbnji.1sb.ccwu.cc:443?security=tls&sni=fbnji.1sb.ccwu.cc&alpn=http%2f1.1&type=ws&host=fbnji.1sb.ccwu.cc&path=%2fQXP9D5w7xb1TX3RJBAQ5Ah#%f0%9f%87%ba%f0%9f%87%b8%20US%2042
 trojan://8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba@scvf65.0z0.ccwu.cc:443?security=tls&sni=scvf65.0z0.ccwu.cc&type=ws&host=scvf65.0z0.ccwu.cc&path=%2fQXP9D5w7xb1TX3RJBAQ5Ah#%f0%9f%87%ba%f0%9f%87%b8%20US%2037
 trojan://906vkssl-2eam-hyhm-xh9w-0m38n88eoo1e@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://92953fc6-f497-43af-9d6d-f3b5589df318@220.130.58.136:31102?type=raw&headerType=none&security=tls&sni=green2.cdntencentmusic.com#[🇭🇰]
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@eefrt.890699.xyz:443?security=tls&sni=eEFRt.890699.xyz&type=ws&host=eEFRT.890699.xyZ&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#%f0%9f%87%ba%f0%9f%87%b8%20US%2072
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@ggbnhy.890699.xyz:443?security=tls&sni=GGbnHY.890699.XYZ&type=ws&host=GgBnhY.890699.XYz&path=%2fKlh0x8wtLpTGA5AqzZ2Mj#%f0%9f%87%ba%f0%9f%87%b8%20US%2069
 trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@kkkkki.231.pp.ua:443?security=tls&sni=KkKkki.231.PP.Ua&alpn=http%2f1.1&type=ws&host=KkKkki.231.PP.Ua&path=%2fKlh0x8wtLpTGA5AqzZ2Mj&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%207
@@ -307,7 +302,7 @@ trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calm
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%E2%9A%A1Telegram%20%3D%20%40KIA_NET```
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%40V2ray_confiig`
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
-trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇫🇷]
+trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇳🇱]
 trojan://humanity@188.114.98.0:443?path=%252fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
@@ -344,7 +339,6 @@ trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-11841
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%93%8512%2F09-%40v2node%F0%9F%91%89%F0%9F%8F%BB48
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?sni=tunel.amirspacee.top&alpn=h2,http/1.1&fp=chrome&type=ws&path=/mfvmfdvnfjvfkdmv#SiNAVM
-trojan://iwangjie@158.101.11.204:15805?type=ws&host=nodes.830901.xyz&path=%2F&security=tls&fp=chrome&sni=nodes.830901.xyz#[🇺🇸]
 trojan://jiry1hx7-gar5-yyow-5ftl-bpej6mppe2xl@127.0.0.1:1080?security=tls&type=tcp#@Trick_mobil
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?allowInsecure=0&sni=64.94.95.118#🔥Join+Telegram:@Farah_VPN🟣
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🇳🇱#ShineNET%20VPN
