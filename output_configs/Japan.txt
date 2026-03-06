@@ -19,6 +19,7 @@ ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ==@46.250.254.170:80#%f0%9f%87%af%f0%
 ss://YWVzLTI1Ni1nY206QmVkdWZnenRITzNCNUtxZQ@46.250.254.170:80#🇯🇵JP%20%20ROSE—197
 ss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:80#🇯🇵JP%20%20ROSE—198
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#%f0%9f%87%af%f0%9f%87%b5%20JP%2010
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009?#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20City%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1nY206YzY5Mzc0ZGEtMjIwOC00Y2JkLWI4MWUtY2RmODhiNWU3ZjUz@ss.031.node-for-bigairport.win:36885#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%AC%E9%83%BD%E4%BA%9A%E9%A9%AC%E9%80%8A%28Amazon%29%E5%85%AC%E5%8F%B8%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&fp=chrome&type=ws&path=/vless/?ed%3D2048&packetEncoding=xudp&encryption=none#🇯🇵%20Japan%20-%202
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@172.105.199.111:8080#%F0%9F%87%AF%F0%9F%87%B5JP-172.105.199.111-0088
@@ -36,6 +37,7 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4920?security=tls&sni=w
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4920?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0266
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0142
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0243
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.214.104:2001?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Minato%20%7C%20%5BBL%5D
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@18.181.193.208:34818?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@18.183.167.108:331?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-18.183.167.108-0186
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@54.250.6.236:34818?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
