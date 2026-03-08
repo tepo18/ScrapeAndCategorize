@@ -32,12 +32,7 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇨�
 ss://b592cf1a-d92f-4dbd-9c1d-b76936a1609e@51.161.130.101:550?encryption=auto&security=none&fp=chrome&type=tcp#🇨🇦%20Canada%20-%201
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0177
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0195
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=nji9768.006660666.xyz&path=%2FOkVaxoknnGWI7hLRpJ1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Sarnia%20%7C%20%5BBL%5D
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?type=ws&security=tls&sni=nji9768.006660666.xyz&host=nji9768.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Sarnia%20%7C%20%5BBL%5D
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&type=ws&host=ttt6.006660666.xyz&path=/OkVaxoknnGWI7hLRpJ1#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Sarnia%20%7C%20%5BBL%5D
-trojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&type=ws&path=%2FOkVaxoknnGWI7hLRpJ1&Host=ttt6.006660666.xyz#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Sarnia%20%7C%20%5BBL%5D
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11297
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?allowInsecure=0&sni=ozon.ru#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?allowInsecure=0&sni=ya.ru#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?sni=web.max.ru#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A73
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035

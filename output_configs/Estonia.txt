@@ -2,6 +2,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@188.214.36.155:990#�
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.193.49.88:989#%f0%9f%87%aa%f0%9f%87%aa%20EE%201
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.193.49.88:989#🇪🇪EE%20%20ROSE—738
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪EE%20%20ROSE—218
-trojan://0tBPkLdjsKawrM6c-1bf4vFJ36ZNNBSE@ee3.nnmm.me:443?security=tls&sni=ee3.nnmm.me&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
-trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@ee.nn-id.com:443?security=tls&sni=ee.nn-id.com&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
-trojan://eoy5CDTPwkd6PjmTaPAJqTeSttbc2yPg@ee3.nnmm.me:443?security=tls&sni=ee3.nnmm.me&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
