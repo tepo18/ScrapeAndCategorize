@@ -25,10 +25,8 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?security=tls&sni=w
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.45.139:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.45.139-0301
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-0263
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:3419?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%7C%20%5BBL%5D
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%209
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-0262
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%7C%20%5BBL%5D
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%202
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.124.17:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-0238
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.124.17:3419?security=tls&sni=www.nintendogames.net&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
