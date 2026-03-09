@@ -154,6 +154,7 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?security=tls&sni=
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?security=tls&sni=www.nintendogames.net#🇯🇵[openproxylist.com]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:34818?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%7C%20%5BBL%5D
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-153.121.65.107-0262
+trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net#🇯🇵[openproxylist.com]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@153.121.65.107:4937?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%7C%20%5BBL%5D
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.124.17:3419?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-0259
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.124.17:3419?security=tls&sni=www.nintendogames.net&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%5BBL%5D
@@ -178,7 +179,6 @@ trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.70.180:4674?allowInsecure=0&sni
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.70.180:4674?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40stairnode
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.70.180:4937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.70.180:4937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40stairnode
-trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.70.180:4937?allowInsecure=0&sni=www.nintendogames.net#🇯🇵[openproxylist.com]
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:2001?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:2001?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.72.33-0818
 trojan://f7dbed8b1ca85124e793ba6c0bcfd0db@160.16.72.33:3057?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
@@ -281,7 +281,7 @@ trojan://pUF
 trojan://psycho@104.21.80.1:443?security=tls&sni=PSYchO.SueX12.Ir#%F0%9F%8F%81RELAY-104.21.80.1-4558
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%3E%3E%40v2nodes%3A%3ALT
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇱🇹[openproxylist.com]
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇱🇹[openproxylist.com]
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me&fp=qq&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%2C%20Vilnius%20%7C%20%5BBL%5D
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&headerType=none&security=tls#[🇱🇹]
 trojan://qgm8o8f7-e08a-hl9t-6wa1-j1ubnwigbd6r@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
