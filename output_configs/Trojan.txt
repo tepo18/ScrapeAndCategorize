@@ -112,6 +112,7 @@ trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?allowInsecure=0&sni=
 trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru#%F0%9F%87%AA%F0%9F%87%B8ES%E8%A5%BF%E7%8F%AD%E7%89%99
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#SiNAVM
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#SiNAVM
+trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?security=tls&sni=us08.oportal.cc&type=tcp&allowInsecure=1#🇺🇸[openproxylist.com]
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#ShineNET%20VPN
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=%252Fhowdy&%3Bsni=de1.test3.net&%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?allowInsecure=0&sni=ozon.ru#%F0%9F%87%A8%F0%9F%87%A6%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20V2CROSS.COM
