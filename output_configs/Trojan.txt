@@ -103,7 +103,6 @@ trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@167.179.113.248:10435?type=tcp&security=tl
 trojan://ace1qxDyr_-GmIUgK.1Tnjb6ikAN@45.77.20.207:10435?type=tcp&security=tls&sni=fuzzyfonduepotstand.oscillatingovenmitt.click#SiNAVM
 trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?sni=us08.oportal.cc&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2008
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇨🇦
-trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?type=raw&headerType=none&security=tls#[🇨🇦]
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#ShineNET%20VPN
 trojan://bpb-trojan@russia.com:443?security=tls&sni=6982410.xyz&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=6982410.xyz&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://bpb-trojan@russia.com:443?security=tls&sni=cmd.coooai.com&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=cmd.coooai.com&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
@@ -214,7 +213,7 @@ trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&allowIns
 trojan://humanity@188.114.96.3:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1`
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%40V2ray_confiig`
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
-trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇫🇷]
+trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇳🇱]
 trojan://humanity@188.114.98.0:443?path=%252fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
@@ -250,6 +249,7 @@ trojan://ifjuc29b-om3n-r0n8-1e66-0qv7d9aeecpn@127.0.0.1:2080?security=tls&type=t
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?sni=tunel.amirspacee.top&alpn=h2,http/1.1&fp=chrome&type=ws&path=/mfvmfdvnfjvfkdmv#SiNAVM
 trojan://ixiqmoml-0ykp-i39y-ff8w-19ahg6r1aa5l@127.0.0.1:4080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://j72kxong-613x-7qvz-3akf-64p8u1810dsd@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443?type=ws&host=hl-freedom-2.undef.network&path=%2Ff2fc2a1f&security=tls&sni=hl-freedom-2.undef.network#[🇬🇧]
 trojan://jlys0j9l-xrq4-qdh9-kbuw-knbot6vmq1qy@127.0.0.1:4080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://kgw06vva-w4lb-l764-hj2f-7id2a32r2v3e@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://klpoqvs4-j4bv-hnzv-lvt8-xnff4f2g7mso@127.0.0.1:1080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
@@ -261,7 +261,7 @@ trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&t
 trojan://pUF
 trojan://pjfk4ku9-mo76-8w04-7966-qw72817aw4n2@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#%3E%3E%40v2nodes%3A%3ALT
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇱🇹[openproxylist.com]
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=&type=tcp&allowInsecure=1#🇱🇹[openproxylist.com]
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&type=tcp&path=%2f&allow_insecure=1#%f0%9f%87%ba%f0%9f%87%b8%20US%2024
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&headerType=none&security=tls#[🇱🇹]
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#@V2rayAlpha--7
