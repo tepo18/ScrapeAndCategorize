@@ -103,6 +103,7 @@ trojan://adb13850-7e70-492e-85b2-01184801d587@38.182.109.191:443?sni=us08.oporta
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇨🇦
 trojan://adb13850-7e70-492e-85b2-01184801d587@ca05.oportal.cc:443?type=raw&headerType=none&security=tls#[🇨🇦]
 trojan://bIa-DailY_cOnFIgs@104.17.97.5:2053#ShineNET%20VPN
+trojan://bpb-trojan@v1.dabache.top:443?allowInsecure=1&sni=mashdt.pages.dev&type=ws&host=mashdt.pages.dev&path=%2Ftr#🇨🇦[openproxylist.com]
 trojan://bpb-trojan@v1.dabache.top:443?type=ws&host=mashdt.pages.dev&path=%2Ftr&security=tls&sni=mashdt.pages.dev#[🇩🇪]
 trojan://c7f9b8f0-bfdb-11ee-a15c-1239d0255272@chatbuzzteambhm.chatbuzzt7150.workers.dev:443?security=tls&%3Btype=ws&%3BheaderType=none&%3Bpath=%252Fhowdy&%3Bsni=de1.test3.net&%3Bhost=de1.test3.net#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40teamvpnpro%20%232
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?sni=ozon.ru#%F0%9F%87%A8%F0%9F%87%A6CA%E5%8A%A0%E6%8B%BF%E5%A4%A75
