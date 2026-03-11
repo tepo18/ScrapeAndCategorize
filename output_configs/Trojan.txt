@@ -229,7 +229,6 @@ trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&path=%2fassignme
 trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20Dynamic-12565
 trojan://idk9faek-0d9f-qr7n-agex-8vufe5bj3u6w@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://ignHF1x8Gp@tunel.amirspacee.top:443?sni=tunel.amirspacee.top&alpn=h2,http/1.1&fp=chrome&type=ws&path=/mfvmfdvnfjvfkdmv#SiNAVM
-trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@hl-freedom-2.undef.network:443?security=tls&type=ws&sni=hl-freedom-2.undef.network&path=/f2fc2a1f&host=hl-freedom-2.undef.network#🇬🇧[openproxylist.com]
 trojan://kcgxxabh-qnh3-wrv5-v7ds-jvi49ddpnses@127.0.0.1:2080?security=tls&type=tcp#@Trick_mobil
 trojan://kqifsfyq-hdv8-g7bz-plka-km3qhku6lphe@127.0.0.1:2080?security=tls&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🇳🇱#ShineNET%20VPN
@@ -320,3 +319,4 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semant
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.click&path=%2f#%f0%9f%87%b3%f0%9f%87%b4%20NO%202
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=raw&headerType=none&security=tls&sni=www.semanticstaplegun.click#[🇳🇴]
 trojan://yr061pkl-6bd2-e37f-n7rm-om9nqlt5mf5k@127.0.0.1:4080?security=tls&type=tcp#@Trick_mobil
+trojan://zp630tdUuD@194.150.166.151:52047?type=grpc&security=reality&fp=chrome&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&sni=aws.amazon.com&sid=1abe0c286879&spx=%2F#[🇬🇧]
