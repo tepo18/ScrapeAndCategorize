@@ -4,6 +4,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMllGdnVlNEVndno3UlBTNHlpWENR@62.133.63.21:1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#%F0%9F%87%B9%F0%9F%87%B7TR-203.202.232.78-0307
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBVkxiRVVFdEJENTlGc1JxY055RWli@203.202.232.78:60299#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷TR%20%20ROSE—115
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRUmtKRnF3d04xN1F6bTdMbzE2QThV@h110vpntr.outlinekeys.net:65262#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%2C%20Sultangazi%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#🇹🇷TR%20%20ROSE—435
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#🇹🇷TR%20%20ROSE—35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppRzFuUzlNTWdzMG9FSk05ZzFZVGds@94.131.123.236:5223#🇹🇷TR%20%20ROSE—550
@@ -19,3 +20,4 @@ vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%205
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%203
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%204
+vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidHItMS5zdHVubmVsLmNjIiwiaWQiOiIzNTMxMjAzNS0zNDIwLTQ1MzUtYTAzMS0zMDMyMjAzNTM0MjAiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3MiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HufCfh7cgVHVya2V5LCBJc3RhbmJ1bCB8IPCfjJAgfCBbSVB2Nl0gfCBbQkxdIiwic2N5Ijoibm9uZSIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
