@@ -1,5 +1,4 @@
 ss://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?security=&type=ws&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed%3D2560&host=pamchall.com.&encryption=none#t.me/peterjest
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprRHQ4Y0cxVExnNHVCMG5VTU9BdUA5MS4xMDcuMTQ0LjA6MTA4MA==#[🏁]t.me/irmeliy`
 trojan://telegram-id-privatevpns@13.36.204.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.237.89.75:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@18.156.11.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs

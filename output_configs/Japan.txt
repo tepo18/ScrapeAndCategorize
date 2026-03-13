@@ -29,11 +29,13 @@ trojan://f389ed926e512e15f382dc3804029474@153.121.45.139:4937?allowInsecure=0&sn
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:3057?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:34818?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%209
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4674?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%204
+trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%7C%20%5BBL%5D
 trojan://f389ed926e512e15f382dc3804029474@160.16.106.99:4937?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%208
 trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:2001?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%207
 trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0290
 trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:3057?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2014
 trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4674?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2010
+trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4937/?type=tcp&security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Chiyoda%20%7C%20%5BBL%5D
 trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0312
 trojan://f389ed926e512e15f382dc3804029474@160.16.72.205:3057?sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
 trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-1659
@@ -49,4 +51,3 @@ vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6/wn4e1IEpQLTQ1MyIsImFkZCI6IjQ3LjI0
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6/wn4e1IEpQLTQ1NCIsImFkZCI6Im4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNGYyM2ViN2MtZWYyZi00M2IwLTkwZGQtZjJiOGE3NTk1NGE1IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoibjE3NTM1OTg0NTIud3BnMjcueHl6IiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6/wn4e1IEpQIDExIiwiYWRkIjoiNDcuNzQuNTIuMTk1IiwicG9ydCI6NDQzLCJpZCI6IjNjZDZmODQ5LTA3OGUtNGRhOS04MDgwLWEyNzkxYjUxYjc2NiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoibjE3NTM1OTg0NDguNzRxeHYudG9wIiwiZnAiOm51bGx9
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6/wn4e1IEpQIDIiLCJhZGQiOiJuMTc1MzU5ODQ0Ni53cGcyNy54eXoiLCJwb3J0Ijo0NDMsImlkIjoiYTUwNDdkOTUtMjRiOC00NTFhLTkzZTMtZjJhMzg3YjkzZDVhIiwiYWlkIjoiMCIsInNjeSI6bnVsbCwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NTM1OTg0NDYud3BnMjcueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiIiLCJmcCI6bnVsbH0=
-vmess://eyJhZGQiOiJuMTc1MTQ2ODA5Mi5saWU1ZC5jeW91IiwiYWlkIjoiMCIsImhvc3QiOiJuMTc1MTQ2ODA5Mi5saWU1ZC5jeW91IiwiaWQiOiI3YWNlMTg3My05ODIyLTQ2YWYtOTkyMC1iZDY0ZjcyNTIxMmMiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiI0NDMiLCJwcyI6Ilx1ZDgzY1x1ZGRlZlx1ZDgzY1x1ZGRmNVtvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtSlAiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
