@@ -1,6 +1,7 @@
 hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org#🇬🇧%20United%20Kingdom%20-%2027
 hy2://YwuvGJk36B@81.168.83.89:2083?obfs=salamander&obfs-password=khameniiko%40smad%40ret&insecure=1&sni=kotlet.arshiacomplus.dpdns.org@V2rayNGVPN%3C%3D%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86#🇬🇧%20United%20Kingdom%20-%2028
 ss://12345678-1234-1234-1234-123456789123@77.75.199.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇬🇧%20United%20Kingdom%20-%2035
+ss://2022-blake3-aes-256-gcm:mtMkp%2B1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o%3D%3AAAvo%2BBsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ%3D@toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org:13242#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#🇬🇧GB%20%20ROSE—31
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%3E%3E%40V2rayNg_madam%3A%3AGB
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxa1ZyMEtBVElKSTdtd09G@admin.c1.havij.co:443#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD3%2013.5MB%2Fs
