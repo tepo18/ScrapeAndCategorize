@@ -1,6 +1,6 @@
 trojan://$_qP4V4U26sb{04A@do-itforyou.pages.dev:2083?security=tls&sni=do&type=ws&path=/trdFPAI0ljLLOygN2y?ed=2560#SiNAVM
 trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=028.electrocellco-cf-028.workers.dev&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=028.eLECtRocEllco-Cf-028.worKErS.dev#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
-trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?type=ws&host=028.electrocellco-cf-028.workers.dev&path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&fp=chrome&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#[🇳🇱]
+trojan://)5,9FW.Kk166@irancell.buzzmuzzpanel.online:443?type=ws&host=028.electrocellco-cf-028.workers.dev&path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&alpn=http%2F1.1&fp=chrome&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#[🇩🇪]
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#🇫🇷#ShineNET%20VPN
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#%F0%9F%87%AB%F0%9F%87%B7V2WRAY%F0%93%84%82%F0%93%86%83
 trojan://0FTeJJFNLJAaW2vH0ByUUCFcP34oRPAS@us.vpnlink.pro:636?security=reality&pbk=Z57vUocX9WhqgjPmVNQjKn_RFna0M1vzAbAdqaGOJGA&headerType=none&fp=chrome&spx=/&type=tcp&sni=api.google.com&sid=fea52659884088#@netroovpn12حتما
@@ -173,7 +173,6 @@ trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:3419?security=tls&sni=ww
 trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:3419?security=tls&sni=www.nintendogames.net#🇸🇬[openproxylist.com]
 trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.132.38-0841
-trojan://f389ed926e512e15f382dc3804029474@160.16.132.38:4937?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇯🇵]
 trojan://f389ed926e512e15f382dc3804029474@160.16.214.104:3057?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.214.104-0305
 trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0244
 trojan://f389ed926e512e15f382dc3804029474@160.16.85.33:4674?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.85.33-0267
@@ -211,7 +210,7 @@ trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=1&h
 trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20WS-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40v2Line
 trojan://humanity@188.114.96.3:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1`
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%40V2ray_confiig`
-trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇳🇱]
+trojan://humanity@188.114.96.3:443?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&fp=chrome&sni=www.gossipglove.com#[🇫🇷]
 trojan://humanity@188.114.98.0:443?path=%252fassignment&security=tls&insecure=1&host=www.creationlong.org&type=ws&allowInsecure=1&sni=www.creationlong.org#%40i10VPN%20%F0%9F%9A%80%7C%20%D8%A8%D8%A7%20%D9%85%D8%A7%20%D9%85%D8%AA%D8%B5%D9%84%20%D8%A8%D9%85%D9%88%D9%86%E2%9A%A1
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
