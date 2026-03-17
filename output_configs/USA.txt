@@ -8,7 +8,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3R09KNkVteFo2ZUtNWjc3NnQ0TWlx@104.192.227.16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZjljYjlhZWYzMTdmMDk2@147.135.77.6:11201#🇺🇸US%20%20ROSE—144
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4NjAzOWI3MS1iYTgyLTRjYTgtODM4ZS04NzA4NmFlNjY2ZGU@107.175.87.207:10011#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-107.175.87.207%3A10011
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NjUzYzM3ZWRhMWMwY2Nh@66.94.121.161:20207#🇺🇸US%20%20ROSE—118
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5ZGdPNkZ0UEYyOTR3RHJoUElxVHJj@104.192.227.163:443?#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orland%20Hills%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowZUM0WkJ2U3RPZ1FFelRwQ1lqV041@217.60.249.112:443#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20SS%20%7C%20%40free4allvpn%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.188:8080#🇺🇸US%20%20ROSE—659
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.199:8080#🇺🇸US%20%20ROSE—660
@@ -53,7 +52,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-penni
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20USA%20%7C%20%40KIA_NET%20%DA%86%D9%86%D9%84%E2%80%8C%D8%AA%D9%84%DA%AF%D8%B1%D9%85
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US-38.135.24.131-0253
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#🇺🇸US%20%20ROSE—28
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppQ2ROUElmMTdpNjgyMXVtQjJoZ0lF@104.192.227.163:443/?outline=1&prefix= ¨#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orland%20Hills%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqQnlZSUE2TFc0cHNaM0JHYjRQZUtT@72.61.79.179:45084#🇺🇸US%20%20ROSE—433
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.158:8080#🇺🇸US%20%20ROSE—667
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.168:8080#🇺🇸US%20%20ROSE—668
@@ -141,7 +139,6 @@ trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2011
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2019
 trojan://humanity@www.gossipglove.com:443?security=tls&fp=chrome&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2016
-trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142?type=tcp&security=tls&sni=64.94.95.118&fp=random&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Dallas%20%7C%20%5BBL%5D
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&type=tcp&path=%2f&allow_insecure=1#%f0%9f%87%ba%f0%9f%87%b8%20US%2048
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%207
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#%E5%8D%90%20USA%20--USA
