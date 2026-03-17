@@ -134,7 +134,7 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&allo
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%206
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&%3Bsni=rc6.freeguard.org&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
-trojan://535bbb3f-e46d-47e4-b60f-d8f0d1b469ab@142.171.67.200:12345?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clarita%20%28Canyon%20Country%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+trojan://535bbb3f-e46d-47e4-b60f-d8f0d1b469ab@142.171.67.200:12345?security=tls&sni=hy2.heatwarm.top&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clarita%20%28Canyon%20Country%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:18463?security=tls&sni=$$hn.xiaohouzi.club#%F0%9F%87%BA%F0%9F%87%B8US-76.223.54.146-1601
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.70.180:4019?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://86e150eb21c6faee48e81d496d7f61c2@160.16.70.180:4019?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
