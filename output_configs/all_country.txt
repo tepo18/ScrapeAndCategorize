@@ -1930,7 +1930,6 @@ ss://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@37.218.247.35:8443?encryption=none&fp=
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.18.184.29:8880#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+185.18.184.29-8880+%7C+5.71ms
 trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http%2f1.1&type=ws&path=%2feyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19#%f0%9f%87%ba%f0%9f%87%b8%20US%201
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&%3Bsni=rc6.freeguard.org&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.40:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@185.151.146.64:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://3ac6a6ca99f74941b1eaf892818e2ddb@85.237.207.189:443?sni=85.237.207.189&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E5%8F%B0%E6%B9%BE%2002
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
