@@ -29,7 +29,6 @@ ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#%F0%9
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇨🇦CA%20%20ROSE—52
 ss://b592cf1a-d92f-4dbd-9c1d-b76936a1609e@51.161.130.101:550?encryption=auto&security=none&fp=chrome&type=tcp#🇨🇦%20Canada%20-%201
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0338
-trojan://YRw2bzmWwl@209.200.246.105:17837/?type=grpc&serviceName=&authority=&security=reality&pbk=5gvjnhYk02bUmi_cxQ4dDTYGNz-rLWP0JXHWx6jzQWE&fp=chrome&sni=aws.amazon.com&sid=523b961ba0&spx=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12035
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11962
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-12043
