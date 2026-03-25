@@ -3,7 +3,6 @@ trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=/eyJqdW5rIjoiU2
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#🇫🇷#ShineNET%20VPN
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#%F0%9F%87%AB%F0%9F%87%B7V2WRAY%F0%93%84%82%F0%93%86%83
 trojan://123456@bpbg.anguswen.top:8443?security=tls&sni=BPbG.AnguSWEN.Top&alpn=http%2f1.1&type=ws&host=BPbG.AnguSWEN.Top&path=%2feyJqdW5rIjoiNDhOYUJ4WFhzc0EiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyJicGIueW91c2VmLmlzZWdhcm8uY29tIl19&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%201
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬[openproxylist.com]
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?security=tls&sni=seashell.qzz.io&type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011#SiNAVM
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#SiNAVM
 trojan://14326_tf497f7b0@kto1.ttddd.xyz:443?sni=kto1.cnedu2.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
@@ -26,6 +25,7 @@ trojan://22f86840-bcac-11ee-abea-1239d0255272@chatbuzzteambhm.chatbuzzt7150.work
 trojan://24900_tc0b8476d@los7.ee2.in:33741?sni=los7.cnedu2.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
 trojan://27390_t853d9c0b@tky8.ttddd.xyz:443?sni=tky8.cnedu2.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&%3Bsni=rc6.freeguard.org&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
+trojan://3PfyPiLUGm@216.234.140.55:47574/?type=grpc&serviceName=&authority=&security=reality&pbk=J7DCqfA-0diON1NvlmtTfS39hxEoKK7Nt8qCeh7IqQ4&fp=chrome&sni=aws.amazon.com&sid=7e50e4900bce65&spx=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?security=tls&sni=tronblue.qzz.io&type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587#SiNAVM
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443?type=ws&host=tronblue.qzz.io&path=/152.32.255.24:587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#SiNAVM
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@153.121.39.240:4054?security=tls&sni=www.nintendogames.net&path=/#SiNAVM
@@ -241,8 +241,8 @@ trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?allowInsecure=1&sni=84
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@195.66.25.251:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#v2ray_dalghak
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ALT
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#@V2rayAlpha--3
+trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1#🇱🇹[openproxylist.com]
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#%F0%9F%87%B1%F0%9F%87%B9LT-195.66.25.251-0245
-trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?security=tls&sni=8443.golden-cards.me#🇱🇹[openproxylist.com]
 trojan://q2GRUM1-odJBWq_KV6xv2fuNvu8ed-@8443.golden-cards.me:443?type=raw&headerType=none&security=tls&sni=8443.golden-cards.me#[🇱🇹]
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#@V2rayAlpha--7
 trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0247
