@@ -140,7 +140,6 @@ trojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&
 trojan://BxceQaOe@18.166.177.165:49534?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@18.166.177.165:49534?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://BxceQaOe@18.183.109.144:15407?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
-trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-11390
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2017
 trojan://humanity@www.gossipglove.com:443?security=tls&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2014
