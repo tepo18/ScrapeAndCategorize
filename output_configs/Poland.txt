@@ -72,7 +72,6 @@ trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-
 trojan://IL37892054@fluent-stingray.crayfish192.xyz:443?security=tls&sni=fluent-stingray.crayfish192.xyz#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.55-1689
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?security=tls&sni=outgoing-ladybird.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.103-0220
 trojan://IL37892054@outgoing-ladybird.rooster465.autos:443?sni=outgoing-ladybird.rooster465.autos&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2019
-trojan://WF42809561@62.112.222.54:443?security=tls&%3BheaderType=none&%3Btype=tcp&%3Bsni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%7C%20TROJAN%20%7C%20%40v2ray_free_conf%20%231
 trojan://WF42809561@funky-platypus.rooster465.autos:443?security=tls&sni=funky-platypus.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.54-0330
 trojan://WF42809561@funky-platypus.rooster465.autos:443?sni=funky-platypus.rooster465.autos&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%2021
 trojan://WF42809561@outgoing-cockatoo.rooster465.autos:443?security=tls&sni=outgoing-cockatoo.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-62.112.222.171-0209
