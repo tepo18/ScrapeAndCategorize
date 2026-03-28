@@ -1,8 +1,7 @@
 ss://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?security=&type=ws&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed%3D2560&host=pamchall.com.&encryption=none#t.me/peterjest
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5aHJITURnWjJlZ0tmdHZyZWN2a3BVUHFwVVR5YWM3cQ==@195.66.25.220:8388?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇱🇹]t.me/Raiv2mmr
-trojan://telegram-id-privatevpns@13.36.214.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.36.51.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@13.37.25.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@18.195.15.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@52.58.26.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
+trojan://biS(YrwB,3L$@185.143.235.5:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=mydigipay.com#[🇮🇷]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.39.70.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@15.236.83.28:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@52.47.80.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@63.183.59.137:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 vless://542f694b-e8bd-4b9e-858c-ccb1c46a3316@172.67.69.238:80?security=&type=ws&path=/Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2--Mosiv2---Mosiv2?ed%3D2560&host=pamchall.com.&encryption=none#t.me/peterjest
