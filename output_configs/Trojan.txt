@@ -54,12 +54,10 @@ trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=%2F&security=tls&host=snippets.kk
 trojan://5b4becce-5739-483f-97ec-68b81a855d68@naiu-us.05vr9nyqg5.download:13021?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#🔥Join+Telegram:@Farah_VPN🟣
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@13.230.200.237:3057/?type=tcp&security=tls&sni=www.nintendogames.net#@v2rayconfigamir
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.106.99-0308
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net#🇯🇵[openproxylist.com]
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%201
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.106.99:4937?type=raw&headerType=none&security=tls&sni=www.nintendogames.net#[🇯🇵]
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:1524?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%206
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.124.17-0284
-trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net#🇯🇵[openproxylist.com]
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.124.17:34818?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%203
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:1524?security=tls&sni=www.nintendogames.net&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%205
 trojan://6d29eb2f74293cb01a19b32cf08ad2e9@160.16.70.180:3700?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.70.180-0276
@@ -111,7 +109,6 @@ trojan://BxceQaOe@95.40.57.225:1850?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%
 trojan://BxceQaOe@95.40.57.225:1850?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40stairnode
 trojan://BxceQaOe@95.40.57.225:1850?allowInsecure=1&sni=t.me%2Fripaojiedian#🇭🇰[openproxylist.com]
 trojan://G9CHhXltVx@96.9.213.108:12646?security=tls#hamedp71-4-🇺🇸
-trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls#🇭🇰[openproxylist.com]
 trojan://IL37892054@caring-ghoul.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%202
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.165-0244
 trojan://IL37892054@enhanced-crayfish.rooster465.autos:443?security=tls&sni=enhanced-crayfish.rooster465.autos#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.165-0259
