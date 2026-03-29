@@ -129,7 +129,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?security=none&fp=c
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%205
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%206
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&%3Bsni=rc6.freeguard.org&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
-trojan://3PfyPiLUGm@216.234.140.55:47574/?type=grpc&serviceName=&authority=&security=reality&pbk=J7DCqfA-0diON1NvlmtTfS39hxEoKK7Nt8qCeh7IqQ4&fp=chrome&sni=aws.amazon.com&sid=7e50e4900bce65&spx=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?security=tls&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%201
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n2.chateditimage.com:443?security=tls&sni=n2.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.254.102-0174
 trojan://4123ae62-0999-4984-8ead-091630e594a9@n3.chateditimage.com:443?path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%202
@@ -144,10 +143,10 @@ trojan://BxceQaOe@3.112.191.104:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%F
 trojan://BxceQaOe@3.112.191.104:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
 trojan://IL37892054@healthy-ewe.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://KB09sLgezt@ccnew.jakesolo.eu.org:39126?security=tls&sni=ccnew.jakesolo.eu.org&alpn=h2%2Chttp%2F1.1&insecure=1&allowInsecure=1&type=ws&host=ccnew.jakesolo.eu.org&path=%2Ftro#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Santa%20Clarita%20%28Canyon%20Country%29%20%7C%20%5BBL%5D
-trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@64.186.255.102:443?security=tls&sni=n3.chateditimage.com&type=tcp&headerType=none&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.252.102-0172
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n1.chateditimage.com:443?security=tls&sni=n1.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8US-64.186.252.102-0192
-trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n3.chateditimage.com:443?security=tls&sni=n3.chateditimage.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n3.chateditimage.com:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n3.chateditimage.com:443?security=tls&sni=n3.chateditimage.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://de7d6444-a7a8-4b3a-bf26-bc6939bb0279@n3.chateditimage.com:443?security=tls&sni=n3.chateditimage.com&type=tcp&headerType=none&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%206
 trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-11390
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2012
