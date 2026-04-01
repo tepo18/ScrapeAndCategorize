@@ -227,7 +227,6 @@ trojan://humanity@srv1.khatibirepair.ir:443?type=ws&%3Bsecurity=tls&%3Bsni=www.c
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.calmlunch.com:443?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-trojan://humanity@www.calmlunch.com:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&path=%2Fassignment#🇫🇷[openproxylist.com]
 trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#Telegram%20%40Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2fassignment&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%208
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#%5BOpenRay%5D%20Dynamic-11646
