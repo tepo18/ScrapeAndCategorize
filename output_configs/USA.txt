@@ -1,5 +1,4 @@
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20HY2-UDP-TLS%204%E2%83%A3
-ss://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%207
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#🇺🇸US%20%20ROSE—677
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#🇺🇸US%20%20ROSE—656
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.192:8080#🇺🇸US%20%20ROSE—657
@@ -126,12 +125,6 @@ ss://a383a9e2-af81-4c7a-f5a2-617a95b07e0c@74.48.134.174:36209?encryption=auto&se
 ss://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#%E5%8D%90%20USA%20--USA
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@107.151.182.253:8080#🇺🇸US%20%20ROSE—383
 ss://d24c499b-3b25-441e-9c6e-b12421a91041@66.253.7.178:20521?encryption=auto&security=none&fp=chrome&type=ws&path=/#🇺🇸%20United%20States%20-%2012
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%202
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%201
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%204
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%203
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%205
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%206
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&%3Bsni=rc6.freeguard.org&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
 trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&sni=afrcloud1.mmv.kr&ws=1&wspath=%2F5.223.47.32%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://9f7d5cb76d1645101994d9b25891e3b7@13.231.153.129:29370?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
@@ -168,14 +161,7 @@ trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&
 trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://trojan@152.53.60.198:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
 trojan://trojan@221.146.116.77:10003?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
-vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%207
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#%E5%8D%90%20USA%20--USA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%202
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.153.82:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%201
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%204
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.133:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%203
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%205
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.209.195.174:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%206
 vmess://a383a9e2-af81-4c7a-f5a2-617a95b07e0c@74.48.134.174:36209?encryption=auto&security=none&fp=chrome&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20-%20Los%20Angeles%20%F0%9F%8C%8E%20VM-TCP-NA%204%E2%83%A3
 vmess://d24c499b-3b25-441e-9c6e-b12421a91041@66.253.7.178:20521?encryption=auto&security=none&fp=chrome&type=ws&path=/#🇺🇸%20United%20States%20-%2012
 vmess://ewogICAgImFkZCI6ICIxNDkuMzAuMjMyLjEwMyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMmMxODA3Y2UtNmE2My00NDUxLTlhZGQtYTc3OGQyNTA3MTYwIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL2Fya2k/ZWQ9MjA0OCIsCiAgICAicG9ydCI6IDE4MzkzLAogICAgInBzIjogIvCfh7rwn4e4VVMtMTQ5LjMwLjIzMi4xMDMtNDg2MyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9

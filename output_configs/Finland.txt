@@ -1,13 +1,3 @@
-ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%205
-ss://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%208
-ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%209
-ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%203
-ss://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%207
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%204
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%2012
-ss://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%206
-ss://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%2010
-ss://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%2011
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669#🇫🇮FI%20%20ROSE—43
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k@download.riferoser.icu:56594#🇫🇮FI%20%20ROSE—83
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@185.193.102.7:57456#🇫🇮%20Finland%20-%202
@@ -23,13 +13,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@promo18v.bystr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjVXZzMyWHpFZ0NYazRNUENndmQxRzFUczhXSEJMc1hNVWFxTWE1RFVYTXVxTW1kWmdDYk1pcFhEaG9BbWo3M3FBOW9ZODV6WEszNUw1bTYzMVRuN2luMnAzS0xiV0Y@46.249.109.128:56594#🇫🇮FI%20%20ROSE—220
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprN3hXNk41U0FWcGdlcWkxd2Q3czd5eEQ3UzhQeGFlaFVNNVc4YXBIclFpM3BTb0RSWFNjb0FQazhTVmE0bUtidlJqcmdFTlUzZFVnelRncDlUM3JyWGluYURlNENYWWs@185.5.38.111:55988#🇫🇮FI%20%20ROSE—42
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#🇫🇮FI%20%20ROSE—37
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%205
-vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%208
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%209
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%203
-vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%207
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%204
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=loCal.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%2012
-vless://440766d1-858f-4719-84f5-c2de6f6227ba@65.108.231.185:443?security=tls&sni=local.rogsoftwaregroup.com&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%206
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&alpn=h3,h2,http/1.1&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%2010
-vless://8f82acbe-f328-471a-8000-fbea349e6ce0@65.109.145.54:443?security=tls&sni=dedic.app-browser.org&alpn=h3,h2,http/1.1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%2011
