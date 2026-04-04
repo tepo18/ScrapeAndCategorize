@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@95.85.239.225:8388#%f0%9f%87%a8%f0%9f%87%ad%20CH%202
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.161.123:8119#%3E%3E%40FreakConfig%3A%3ACH
-trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.201:18390?allowInsecure=0&sni=osl7.solidly.click#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20V2CROSS.COM
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.212:18390?allowInsecure=0&sni=osl8.solidly.click#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20V2CROSS.COM
 trojan://hCjWaBe5vTkewfiljOL=9FS9DYg0c09c.t@81.29.149.240:18390?allowInsecure=0&sni=osl9.solidly.click#%F0%9F%87%A8%F0%9F%87%AD%20%E7%91%9E%E5%A3%AB%20V2CROSS.COM
