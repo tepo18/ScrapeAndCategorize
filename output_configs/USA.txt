@@ -62,6 +62,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-pupas-shirting-unsung.freesocks.work%3A443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxRnZuMmZORXZCZ001a25mZnJOOTZx@92.118.112.101:9483#%F0%9F%87%BA%F0%9F%87%B8%20SS-%E7%BE%8E%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-92.118.112.101%3A9483
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb21lYm9keQ==@38.244.47.161:30011/?plugin=simple-obfs%3Bobfs%3Dhttp%3Bobfs-host%3D20xteamxa9-diy02-a7xr.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%BE%8E%E5%9B%BD%2004
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzb21lYm9keQ@68.168.20.112:30011?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D20xteamxa9-usc2-a7xr.update.microsoft.com#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%28Central-Alameda%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 ss://YWVzLTEyOC1nY206ZmE1OTM0MTQtN2E3Ni00OTc1LTkwOWItN2E3YzQ2YmUxMjNi@154.17.31.189:18829#🇺🇸US%20%20ROSE—161
 ss://YWVzLTEyOC1nY206ZmE1OTM0MTQtN2E3Ni00OTc1LTkwOWItN2E3YzQ2YmUxMjNi@dmitmalibu.szxcn.net:18829#🇺🇸US%20%20ROSE—146
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#%F0%9F%87%BA%F0%9F%87%B8US-156.146.38.167-0151
@@ -143,6 +144,7 @@ trojan://WwipNOSqUh49CEapMmIrv6m6AZLf-EC0+T@104.238.162.6:13109?sni=ord2.edge-co
 trojan://freedom@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=047.electrocellco-cf-047.workers.dev&path=%2FeyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&sni=047.eleCTROCelLco-Cf-047.woRkers.DEV&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://humanity@free1.aattaash.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-11390
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&type=ws&host=www.multiplydose.com&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%2010
+trojan://strong-secret-pass-777@94.131.101.19:4443?security=tls&allowInsecure=1&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Secaucus%20%7C%20%5BBL%5D
 trojan://trojan@109.234.211.66:2087?allowInsecure=0&sni=store.timimi.dpdns.org&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://trojan@152.53.200.167:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://trojan@152.53.200.98:8444?allowInsecure=0&sni=jflsjlaf.pages.dev&ws=1&wspath=%2F#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
