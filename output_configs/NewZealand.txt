@@ -1,1 +1,0 @@
-trojan://strong-secret-pass-777@45.15.140.128:4443?security=tls&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20New%20Zealand%2C%20Wellington%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
