@@ -28,6 +28,7 @@ trojan://187dda4498be9ac4f28db939d5940185@3.112.132.73:4674?security=tls&sni=www
 trojan://BxceQaOe@18.163.16.38:4746?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@18.163.16.38:4746?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40stairnode
 trojan://BxceQaOe@18.177.145.165:4746?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://ac246072-3078-4cd2-ba8a-8c91d4eb3570@23.227.38.33:443?security=tls&sni=bjbx8xu6iih7zht5.jptimecsgo.xyz&insecure=1&allowInsecure=1&type=ws&host=bjbx8xu6iih7zht5.jptimecsgo.xyz&path=%2Fimages#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Futaba%29%20%7C%20%5BBL%5D
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&fp=chrome&type=ws&path=/vless/?ed%3D2048&packetEncoding=xudp&encryption=none#🇯🇵%20Japan%20-%202
 vmess://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto&security=none&fp=chrome&type=ws&path=/vmess/#🇯🇵%20Japan%20-%204
 vmess://9e7e9017-ce08-4f50-cc20-2f9bca478072@109.123.231.39:47443?encryption=auto&security=none&fp=chrome&type=tcp#🇯🇵%20Japan%20-%203
