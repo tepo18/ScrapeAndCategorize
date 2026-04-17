@@ -11,7 +11,6 @@ ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷FR%20%20ROSE
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.202.82.172:8881#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-5382
 ss://bm9uZToxNGIwMmUyYS04OTMwLTRhZmItODQxMi1lYTRhNDk1NGNhNWI@135.125.191.9:8443/?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bhost%3Dylnhh.us.ci%3Bpath%3D%2F14b02e2a-8930-4afb-8412-ea4a4954ca5b%2F%3Fed%5C%3D2560%3Btls%3Bmux%3D0#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%2001
 trojan://598c19f3-a48e-47cd-8451-1ba04ea094d0@51.91.11.29:80?security=tls&%3BheaderType=none&%3Btype=tcp&%3Bsni=speedtest.net#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40proxyfn%20%231
-trojan://7e7b60a4-db74-45bf-8a24-11c613d305fc@2.26.89.142:443?security=reality&sni=www.google.com&fp=random&pbk=3XestwkesGr5rN_v0fKEUOhnx_K4296wLotKXWX70Vw&sid=a8&spx=/&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@104.18.12.149:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40vip_vpn_2022%3A%3AFR
 trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3AFR
 trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
