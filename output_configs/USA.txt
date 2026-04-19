@@ -136,6 +136,7 @@ trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?allowInsecure=1&al
 trojan://BxceQaOe@16.162.217.109:14919?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@54.46.52.234:23255?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@54.46.52.234:23255?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40stairnode
+trojan://UNWA6USASAb6%3DuAAZeZMFd%2B2uKB4.d5KOm@166.88.197.60:26650?security=tls&%3Bsni=sea9.firewallcontract.click#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?allowInsecure=0&sni=sea9.firewallcontract.click#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2%20238.5KB%2Fs
 trojan://humanity@www.calmlunch.com:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2fassignment&allow_insecure=0#%f0%9f%87%ba%f0%9f%87%b8%20US%2014
