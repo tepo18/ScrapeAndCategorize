@@ -30,7 +30,6 @@ trojan://BxceQaOe@13.112.73.166:1951?allowInsecure=1&sni=t.me%252Fripaojiedian#%
 trojan://BxceQaOe@13.192.183.245:1783?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&%3BheaderType=none&%3Btype=tcp&%3Bsni=kuame.missionsec.us#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%7C%20TROJAN%20%7C%20%40free4allvpn%20%231
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#%3E%3E%40v2ray_configs_pool%3A%3AJP
-trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?allowInsecure=0&sni=jp2-8sb.6121999.dpdns.org#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://e136d465-0558-43b9-b50c-b1f45d4cb2c2@jp2-8sb.6121999.dpdns.org:24534?security=tls&sni=jp2-8sb.6121999.dpdns.org&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%af%f0%9f%87%b5%20JP%208
 vless://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&fp=chrome&type=ws&path=/vless/?ed%3D2048&packetEncoding=xudp&encryption=none#🇯🇵%20Japan%20-%202
 vmess://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto&security=none&fp=chrome&type=ws&path=/vmess/#🇯🇵%20Japan%20-%204
