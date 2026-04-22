@@ -259,7 +259,6 @@ trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=non
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Enzewa_Networkکانال‌عضوشوعزیز
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#SiNAVM
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@mfyousheng.nl.eu.org:443?type=ws&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org#SiNAVM
-trojan://UNWA6USASAb6%3DuAAZeZMFd%2B2uKB4.d5KOm@166.88.197.60:26650?security=tls&%3Bsni=sea9.firewallcontract.click#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40mpproxy%20%231
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?allowInsecure=0&sni=sea9.firewallcontract.click#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?allowInsecure=1&sni=sea9.firewallcontract.click#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://UNWA6USASAb6=uAAZeZMFd+2uKB4.d5KOm@166.88.197.60:26650?security=tls&sni=sea9.firewallcontract.click#%3E%3E%40configshub2%3A%3AUS
@@ -387,6 +386,7 @@ trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlou
 trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#Tel%20%3A%20%40Config0plus`
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷[openproxylist.com]
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#Telegram-@eror404_chnll
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@8.6.112.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%40tel:@Config0plus`
@@ -401,7 +401,6 @@ trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=%2Fassignment&host=www
 trojan://humanity@8.6.112.0:443?type=ws&security=tls&path=%2Fassignment&host=www.multiplydose.com&sni=www.multiplydose.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%DA%A9%DB%8C%D8%A7%D9%86%D8%AA
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#🇫🇷[openproxylist.com]
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http/1.1&host=www.ignitelimit.com&fp=chrome&allowinsecure=1&type=ws&sni=www.ignitelimit.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%DA%A9%DB%8C%D8%A7%D9%86%D8%AA`
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
@@ -525,9 +524,11 @@ trojan://telegram-id-directvpn@63.180.109.216:22223?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.36.75.60:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.37.158.14:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@13.39.164.242:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@13.39.190.72:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-privatevpns@13.39.190.72:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@15.236.135.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Server
 trojan://telegram-id-privatevpns@15.236.57.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
+trojan://telegram-id-privatevpns@18.156.207.245:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%232
 trojan://telegram-id-privatevpns@18.193.19.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@18.194.103.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.126.96.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
@@ -543,7 +544,9 @@ trojan://telegram-id-privatevpns@35.181.29.196:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@52.29.42.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@52.58.206.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Server
 trojan://telegram-id-privatevpns@63.180.109.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
+trojan://telegram-id-v2rayvpnchannel@13.39.190.72:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 trojan://telegram-id-v2rayvpnchannel@13.39.190.72:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-v2rayvpnchannel@18.156.207.245:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%232
 trojan://telegram-id-v2rayvpnchannel@35.156.70.160:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%F0%9F%87%AC%F0%9F%87%A7
 trojan://tpCznR-P5=jZUb#c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#SiNAVM
