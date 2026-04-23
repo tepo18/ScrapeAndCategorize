@@ -9,6 +9,7 @@ ss://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.28.69:443?encryption=auto&secur
 ss://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇦🇲%20Armenia%20-%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTnFuWWYza0hlc09wQ2NoUnZVWnhmd1RhZlJzT2o3Zw@213.159.76.21:443#🇦🇲AM%20%20ROSE—411
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AAM
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@170.168.102.234:2083?sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=%2ftrojan-ws#%f0%9f%87%a6%f0%9f%87%b2%20AM%202
 vless://12345678-1234-1234-1234-123456789123@188.164.159.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇦🇲%20Armenia%20-%201
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.24.124:443?encryption=auto&security=tls&sni=vkvd127.mycdn.me&fp=chrome&type=ws&path=/linkvws&host=aveiror.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VM-WS-tls%204%E2%83%A3
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.24.124:443?encryption=auto&security=tls&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&fp=chrome&type=ws&path=/linkvws&host=aveiror.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20Frankfurt%20am%20Main%20%F0%9F%8C%8D%20VM-WS-tls%204%E2%83%A3
