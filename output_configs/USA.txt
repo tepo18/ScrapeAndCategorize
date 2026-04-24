@@ -158,6 +158,7 @@ trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%20137
 trojan://humanity@www.ignitelimit.com:443?security=tls&sni=www.ignitelimit.com&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%20147
 trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&host=www.multiplydose.com&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%20136
+trojan://mOpLuv3I5lNGTCt8O3G12w@66.23.207.68:443?security=none&type=ws&headerType=&path=%2F&host=telegram.org&prefix=%16%03%01%00%C2%A8%01%01#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20National%20City%20%7C%20%5BBL%5D
 trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%207
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#%E5%8D%90%20USA%20--USA
