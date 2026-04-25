@@ -9,6 +9,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ@95.164.116.33:443#🇹🇷TR%20%20ROSE—393
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbklGWkhJSUxQZ1F4elRXVVA5Mjk4@62.133.63.21:65262#🇹🇷TR%20%20ROSE—114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbklGWkhJSUxQZ1F4elRXVVA5Mjk4@h110vpntr.outlinekeys.net:65262#🇹🇷TR%20%20ROSE—112
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.180.113.194:8119#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%205
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%203
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%204
@@ -17,5 +18,4 @@ vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&s
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%205
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%203
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%204
-vmess://eyJ2IjoiMiIsInBzIjoiPj5AdjJub2Rlczo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpUUjo6VFI6OlRSOjpYWCIsImFkZCI6IjUuMTg4LjE5MC4yNTIiLCJwb3J0IjoiMjIzMjQiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 vmess://eyJhZGQiOiI1LjE4OC4xOTAuMjUyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6Ilx1ZDgzY1x1ZGRmOVx1ZDgzY1x1ZGRmN1tvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtVFIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
