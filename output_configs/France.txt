@@ -23,8 +23,8 @@ trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&pa
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://telegram-id-privatevpns@13.36.135.179:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
-trojan://telegram-id-privatevpns@52.47.190.65:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%232
-trojan://telegram-id-v2rayvpnchannel@13.36.135.179:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
+trojan://telegram-id-privatevpns@15.236.94.52:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%232
+trojan://telegram-id-privatevpns@52.47.190.65:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-v2rayvpnchannel@35.180.146.148:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
+trojan://telegram-id-v2rayvpnchannel@52.47.190.65:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cg5py65Zy65o6o6I2QOmRhZmVpLmRlIOazleWbvSAwMSIsImFkZCI6InBsYW5iLm1vamNuLmNvbSIsInBvcnQiOiIxNjY0NSIsImlkIjoiYTI3ZDU2ODMtNDMxOS00ZTBkLWI0NzYtNzA4Y2VhYzlhZTA1IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJmcCI6ImNocm9tZSIsInBhdGgiOiIvIiwiaG9zdCI6InBsYW5iLm1vamNuLmNvbSJ9
