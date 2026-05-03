@@ -191,6 +191,7 @@ trojan://ba62c023f9bce796ae334fecb20ef7cc@54.250.182.223:4019?allowInsecure=0&sn
 trojan://ba62c023f9bce796ae334fecb20ef7cc@54.46.53.46:49559?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://ba62c023f9bce796ae334fecb20ef7cc@54.46.53.46:49559?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://bpb-trojan@russia.com:443?type=ws&host=bpb.wdgg1979.nyc.mn&path=%2Ftr&security=tls&alpn=h3&sni=bpb.wdgg1979.nyc.mn#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://bpb-trojan@russia.com:443?type=ws&host=bpb.wdgg1979.nyc.mn&path=%2Ftr&security=tls&sni=bpb.wdgg1979.nyc.mn#[🇯🇵]
 trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2ftr%3fed%3d2560#%f0%9f%87%ba%f0%9f%87%b8%20US%205
 trojan://bpb-trojan@vless.herogoing.top:443?security=tls&sni=vless.herogoing.top&type=ws&host=vless.herogoing.top&path=%2ftr%3fed%3d2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://bpb-trojan@wing2452.nyc.mn:443?security=tls&sni=wing2452.nyc.mn&type=ws&host=wing2452.nyc.mn&path=%2ftr%3fed%3d2560#%f0%9f%87%ba%f0%9f%87%b8%20US%2025
@@ -398,7 +399,7 @@ trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=
 trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@95.85.243.216:2083?allowInsecure=1&host=xo.e0f.cx&path=/trojan-ws&sni=xo.e0f.cx&type=ws#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://r137979f@162.159.153.212:2087?type=ws&host=sheleqaz.emotionreza.workers.dev&path=%2F&security=tls&fp=chrome&sni=sheleqaz.emotionreza.workers.dev#[🇩🇪]
+trojan://r137979f@162.159.153.212:2087?type=ws&host=sheleqaz.emotionreza.workers.dev&path=%2F&security=tls&fp=chrome&sni=sheleqaz.emotionreza.workers.dev#[🇺🇸]
 trojan://r137979f@162.159.153.212:2087?type=ws&host=sheleqaz.emotionreza.workers.dev&path=%2F&security=tls&fp=chrome&sni=sheleqaz.emotionreza.workers.dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://strong-secret-pass-777@45.12.146.179:4443?allowInsecure=1&fp=chrome#🧿43@oneclickvpnkeys
 trojan://strong-secret-pass-777@45.15.140.128:4443?security=tls&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%BF%20New%20Zealand%2C%20Wellington%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
