@@ -203,12 +203,8 @@ ss://f189684b-6213-4c0d-a2e3-cb8860f5d4c5@94.228.219.46:443?encryption=none&flow
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.18.184.29:8880#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+185.18.184.29-8880+%7C+2.25ms
 trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?allowInsecure=0&sni=hl-freedom-1.undef.network#%F0%9F%87%B3%F0%9F%87%B1%20NL%E8%8D%B7%E5%85%B0%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?allowInsecure=1&sni=HL-FREEDOM-1.UNDEF.NETWORK#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK&insecure=0&allowInsecure=0&type=ws&path=%2Ff2fc2a1f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=%2Ff2fc2a1f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?allowInsecure=0&sni=HL-FREEDOM-1.UNDEF.NETWORK&ws=1&wspath=%2Ff2fc2a1f#%3E%3E%40v2nodes%3A%3ANL
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?security=tls&sni=HL-FREEDOM-1.UNDEF.NETWORK&type=ws&path=%2Ff2fc2a1f&Host=HL-FREEDOM-1.UNDEF.NETWORK#%F0%9F%87%B3%F0%9F%87%B1NL-91.210.108.201-0853
-trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?sni=HL-FREEDOM-1.UNDEF.NETWORK&host=hl-freedom-1.undef.network&security=tls&type=ws&path=/f2fc2a1f#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 trojan://humanity@104.18.11.110:443?host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40configshub2%3A%3ANL
 trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@162.159.17.189:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
