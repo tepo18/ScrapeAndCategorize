@@ -199,6 +199,7 @@ trojan://JaFKnqNcvnBT63t3rquidGsln@hl-freedom-1.undef.network:443?allowInsecure=
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#SiNAVM
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click&allowInsecure=1#SiNAVM
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#%F0%9F%87%A7%F0%9F%87%AC%20%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%20CCZZUU.TOP
+trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=%F0%9F%94%92#🇦🇱[openproxylist.com]
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?sni=🔒#%F0%9F%87%A7%F0%9F%87%ACBG%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&headerType=none&type=tcp&sni=api.avito.ru#🇮🇹#ShineNET%20VPN
 trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@Enzewa_Networkکانال‌عضوشوعزیز
