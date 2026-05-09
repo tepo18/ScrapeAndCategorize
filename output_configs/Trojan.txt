@@ -6,13 +6,13 @@ trojan://02f0b784-1577-3d22-998a-23f372330b75@ikuai.bot.nu:14555?sni=windows11.d
 trojan://02f0b784-1577-3d22-998a-23f372330b75@ikuai.bot.nu:14555?sni=windows11.dpdns.org&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#%3E%3E%40configshub2%3A%3ASG
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?path=/trojan-ws&security=tls&host=ubu.okaoclax.me&type=ws&sni=ubu.okaoclax.me#🇸🇬[openproxylist.com]
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?type=ws&host=ubu.okaoclax.me&path=%2Ftrojan-ws&security=tls&sni=ubu.okaoclax.me#[🇸🇬]
 trojan://13c169be-8592-4eaa-94cb-69c859e7d987@ubu.okaoclax.me:443?type=ws&host=ubu.okaoclax.me&path=%2Ftrojan-ws&security=tls&sni=ubu.okaoclax.me#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?security=tls&sni=seashell.qzz.io&type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011#SiNAVM
 trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443?type=ws&host=seashell.qzz.io&path=/156.254.114.120:30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#SiNAVM
 trojan://162534@156.246.94.155:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://162534@156.246.94.155:8443?security=tls&sni=cchh2.pages.dev&insecure=1&allowInsecure=1&type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560%26https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://162534@161.33.197.118:443?type=ws&host=cchh2.pages.dev&path=%2F%3Fed%3D2560&security=tls&sni=cchh2.pages.dev#[🇺🇸]
 trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 trojan://162534@43.165.190.11:42841?security=tls&sni=cchh2.pages.dev&type=ws&host=cchh2.pages.dev&path=/#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://1710442808@188.114.98.0:443?allowInsecure=1&host=subb.nrshop198.workers.dev&path=%2F&sni=subb.nrshop198.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
@@ -139,6 +139,7 @@ trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?path=%2Ff2fc2a
 trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?security=tls&sni=hl-freedom-0.undef.network&type=ws&host=hl-freedom-0.undef.network&path=/f2fc2a1f#Server
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&alpn=h2,http/1.1&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru#🇸🇪[openproxylist.com]
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?sni=yespaintstudio.rav-kraski.ru&type=tcp&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%87%B8%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E7%91%9E%E5%85%B8%2001
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?type=tcp&fm=%7B%22quicParams%22%3A%7B%22congestion%22%3A%22brutal%22%2C%22brutalUp%22%3A%22500+mbps%22%2C%22brutalDown%22%3A%22500+mbps%22%2C%22initStreamReceiveWindow%22%3A8388608%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIncomingStreams%22%3A1024%7D%7D&security=tls&fp=qq&alpn=h2%2Chttp%2F1.1&sni=yespaintstudio.rav-kraski.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
@@ -164,7 +165,7 @@ trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?allowInsecure=1&al
 trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?allowInsecure=1&alpn=http%2F1.1&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-11859
 trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://A4u^p(_UR*F6@irancell.buzzmuzzpanel.online:443?type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev#[🇳🇱]
+trojan://A4u^p(_UR*F6@irancell.buzzmuzzpanel.online:443?type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev#[🇩🇪]
 trojan://A4u^p(_UR*F6@irancell.buzzmuzzpanel.online:443?type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&alpn=http%2F1.1&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silentrocket.click&path=/#SiNAVM
@@ -347,11 +348,12 @@ trojan://mSzFVhUczD@104.20.5.134:443?allowInsecure=1&alpn=http%2F1.1&host=abest.
 trojan://mSzFVhUczD@104.20.5.134:443?allowInsecure=1&alpn=http%2F1.1&host=abest.api-tel.xyz&path=%2F&sni=abest.api-tel.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#v2ray_dalghak
-trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http/1.1&type=ws&host=abest.api-tel.xyz&path=/#🇩🇪[openproxylist.com]
+trojan://mSzFVhUczD@104.20.5.134:443?security=tls&sni=abest.api-tel.xyz&alpn=http%2F1.1&type=ws&host=abest.api-tel.xyz&path=%2F#🇩🇪[openproxylist.com]
 trojan://mSzFVhUczD@104.20.5.134:443?type=ws&host=abest.api-tel.xyz&path=%2F&security=tls&alpn=http%2F1.1&sni=abest.api-tel.xyz#[🇩🇪]
 trojan://mSzFVhUczD@104.20.5.134:443?type=ws&host=abest.api-tel.xyz&path=%2F&security=tls&alpn=http%2F1.1&sni=abest.api-tel.xyz#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://pUF
 trojan://pvgdMYdDKY@yespaintstudio.rav-kraski.ru:56048?security=none&fp=chrome&type=xhttp&path=/56048/media&host=yespaintstudio.rav-kraski.ru&mode=auto&extra={
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@91.184.250.116:2083?security=tls&sni=xo.e0f.cx&type=ws&host=xo.e0f.cx&path=/trojan-ws#🇨🇿[openproxylist.com]
 trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://r137979f@162.159.153.212:2087?allowInsecure=1&fp=chrome&host=sheleqaz.emotionreza.workers.dev&path=%2F&sni=sheleqaz.emotionreza.workers.dev&type=ws#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://r137979f@162.159.153.212:2087?type=ws&host=sheleqaz.emotionreza.workers.dev&path=%2F&security=tls&fp=chrome&sni=sheleqaz.emotionreza.workers.dev#[🇺🇸]
