@@ -104,7 +104,6 @@ trojan://7ebc402f3383366fe4f554abd8625439@13.113.153.204:667?allowInsecure=1&sni
 trojan://7ebc402f3383366fe4f554abd8625439@3.112.206.12:3842?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://7ebc402f3383366fe4f554abd8625439@43.206.223.143:1180?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://7ebc402f3383366fe4f554abd8625439@95.40.118.115:4840?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
-trojan://8r%3C%5B9%27l6hAO%238ZQi@66.42.61.215:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%A8yoyapai.com%5Cr
 trojan://BxceQaOe@35.78.121.124:42750?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@43.206.119.178:5159?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%202
