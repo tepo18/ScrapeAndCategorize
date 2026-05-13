@@ -55,6 +55,8 @@ ss://YWVzLTI1Ni1nY206QXFnQndZRGVRQQ==@91.107.141.164:2096#🇩🇪%20Germany%20-
 ss://YWVzLTI1Ni1nY206R3Q2bERsRjBOS0VTRVdkYQ@2.58.81.216:80#🇩🇪DE%20%20ROSE—139
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%2013
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#🇩🇪DE%20%20ROSE—132
+trojan://telegram-id-privatevpns@3.122.87.69:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
+trojan://telegram-id-v2rayvpnchannel@3.122.87.69:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 trojan://telegram-id-v2rayvpnchannel@63.183.64.228:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 vless://65a792ae-a8a1-4892-9ca9-305886346f58@57.129.77.72:8080?security=reality&sni=chatgpt.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇩🇪%20Germany%20-%202
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.24.124:443?encryption=auto&security=tls&sni=aveiror.com&fp=chrome&type=ws&path=/linkvws#🇩🇪%20Germany%20-%209
