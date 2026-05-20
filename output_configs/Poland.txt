@@ -17,6 +17,7 @@ ss://YWVzLTI1Ni1jZmI6U241QjdqVHFyNzZhQ0pUOA@217.30.10.18:9097#🇵🇱PL%20%20RO
 ss://YWVzLTI1Ni1jZmI6UVdERHZWRTlucE51clFmQQ@217.30.10.18:9026#🇵🇱PL%20%20ROSE—719
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.18:9042#🇵🇱PL%20%20ROSE—720
 ss://YWVzLTI1Ni1jZmI6UzdLd1V1N3lCeTU4UzNHYQ@217.30.10.70:9042#🇵🇱PL%20%20ROSE—731
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.70:9079#%f0%9f%87%b5%f0%9f%87%b1%20PL%201
 ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg@217.30.10.18:9079#🇵🇱PL%20%20ROSE—721
 ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@217.30.10.18:9041#🇵🇱PL%20%20ROSE—599
 ss://YWVzLTI1Ni1jZmI6VVRKQTU3eXBrMlhLUXBubQ@217.30.10.18:9033#🇵🇱PL%20%20ROSE—616
@@ -42,6 +43,3 @@ trojan://humanity@104.16.147.104:443?host=www.creationlong.org&path=%2Fassignmen
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%3E%3E%40v2line%3A%3APL
 trojan://humanity@208.103.161.110:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://humanity@v1.dabache.top:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&sni=www.creationlong.org&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Xwn4exIFBMIDEiLCJhZGQiOiJwbDYuY29ubmFsbC5vcmciLCJwb3J0IjoyMDUzLCJpZCI6ImYyOTYzODBmLTcxOWQtNGQ0ZC05ZDllLWEyY2UwNTYzNzM4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJwbDYuY29ubmFsbC5vcmciLCJmcCI6bnVsbH0=
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Xwn4exIFBMIDIiLCJhZGQiOiJwbDYuY29ubmFsbC5vcmciLCJwb3J0IjoyMDUzLCJpZCI6ImYyOTYzODBmLTcxOWQtNGQ0ZC05ZDllLWEyY2UwNTYzNzM4NiIsImFpZCI6IjAiLCJzY3kiOm51bGwsIm5ldCI6InRjcCIsInR5cGUiOm51bGwsImhvc3QiOiJwbDYuY29ubmFsbC5vcmciLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6InRscyIsInNuaSI6bnVsbCwiZnAiOm51bGx9
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Xwn4exIFBMIDMiLCJhZGQiOiJwbDYuY29ubmFsbC5vcmciLCJwb3J0IjoyMDUzLCJpZCI6ImYyOTYzODBmLTcxOWQtNGQ0ZC05ZDllLWEyY2UwNTYzNzM4NiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGx9
