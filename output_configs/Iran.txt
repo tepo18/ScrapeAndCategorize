@@ -1,5 +1,6 @@
 ss://43613c34-ea2c-4a8e-9189-7c84c1668990@195.238.240.67:895?security=tls&sni=speedtest.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=speedtest.net&packetEncoding=xudp&encryption=none#🇮🇷%20Iran%20-%201
 ss://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?type=tcp&encryption=none&security=reality&pbk=arLM5x4jH1TT05yUjirGNCSDK9pSscqHQWg3rqdKA3Y&fp=firefox&sni=bitcommand.com&sid=b1459712&spx=%2F#%E2%99%A5%20IRAN%20(ZANBOR)
+ss://YXV0bzrVrzd1N822cw==@185.143.233.5:443#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
 trojan://8r%3C%5B9%27l6hAO%238ZQi@5.161.129.142:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
 trojan://8r%3C%5B9%27l6hAO%238ZQi@83.147.253.124:443?allowInsecure=1&sni=Koma-YT.PAGeS.Dev&ws=1&wspath=%2FtrTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
 vless://43613c34-ea2c-4a8e-9189-7c84c1668990@195.238.240.67:895?security=tls&sni=speedtest.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=speedtest.net&packetEncoding=xudp&encryption=none#🇮🇷%20Iran%20-%201
