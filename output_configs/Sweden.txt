@@ -1,5 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5bzZoOXFraHd6OFVKb1RaQ1J0b1Np@78.40.116.178:34094#🇸🇪SE%20%20ROSE—662
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpad2V1WGF2am92dWh6dDFBRjBkNnF4@46.246.97.140:53908#🇸🇪SE%20%20ROSE—110
-trojan://WXgoPIGPSr@2.27.23.226:5231/?type=tcp&sni=www.icloud.com&fp=chrome&security=reality&pbk=ksyeiEzHremNnFa1kqsHJkIEXQqPZ3CPQvU65WaMNWM&sid=02#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
 trojan://WiqtB8V23f@193.168.197.76:49044?security=reality&sni=www.intel.com&fp=chrome&pbk=KbBVrkjHY8QMZqj9p2rLF9XG7c03IUPL5FsUuHe03GM&sid=68&spx=%2f&type=grpc&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%202
 trojan://lpfAiPjB00@193.168.197.76:39425?security=reality&sni=www.amazon.com&fp=chrome&pbk=DoKBudC7Cd1TXpRPWAu7ClkqwEzEPVgfteqs7c0XwXk&sid=8d0e8a871f53&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%aa%20SE%201
