@@ -26,6 +26,9 @@ ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?security=tls&sni=vless.
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%205
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%206
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#🇸🇬SG%20%20ROSE—372
+trojan://635340b47bddf8f41c123dc6f2b5f7ce@13.193.127.185:2511?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://635340b47bddf8f41c123dc6f2b5f7ce@18.183.147.31:2511?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://BxceQaOe@16.162.45.118:4203?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@3.112.27.3:4203?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://a922dfbe65cf53c7bc225fcfeb6cedbc@16.162.192.39:3842?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://a922dfbe65cf53c7bc225fcfeb6cedbc@43.206.93.224:3842?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
