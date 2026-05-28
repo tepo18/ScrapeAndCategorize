@@ -1,17 +1,14 @@
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@154.218.15.198:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇨%20Seychelles%20-%204
 ss://29187857-4a1f-4d1e-88eb-0016771e0dbb@154.218.15.198:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/?ed%3D2560&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇨%20Seychelles%20-%203
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.146.153-0205
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.146.153-0229
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.150.157:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.150.157-0185
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.146.153:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.146.153-0232
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.150.157:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.150.157-0213
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.153.107:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.153.107-0162
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.153.107:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.153.107-0189
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.205.153.107:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.205.153.107-0190
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.223.20.79-0210
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.223.20.79-0218
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.223.20.79-0217
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.223.20.79:990#%F0%9F%87%B8%F0%9F%87%A8SC-154.223.20.79-0237
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.20.79:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.223.20.79-0241
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.62.168-0223
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.62.168-0247
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.63.177-0170
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.63.177:989#%F0%9F%87%B8%F0%9F%87%A8SC-154.90.63.177-0231
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@154.218.15.1:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇨%20Seychelles%20-%201
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@154.218.15.1:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇨%20Seychelles%20-%202
@@ -20,3 +17,4 @@ vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@154.218.15.198:443?security=tls&sni
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@154.218.15.1:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇨%20Seychelles%20-%201
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@154.218.15.1:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇨%20Seychelles%20-%202
 vmess://ewogICAgImFkZCI6ICIwMDFhLkFQLlBPUC5CSUdBSVJQT1JULk5FVCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjAwMWEuQVAuUE9QLkJJR0FJUlBPUlQuTkVUIiwKICAgICJpZCI6ICJlYWQ3MGUyMS0wMjNmLTRjYTEtYTI3Ni02NGZkMzY3OWUyZjYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HuPCfh6hTQy0xNTYuMjUwLjM1LjIzMi0wMDY5IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
+vmess://ewogICAgImFkZCI6ICIwMDFhLkFQLlBPUC5CSUdBSVJQT1JULk5FVCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIjAwMWEuQVAuUE9QLkJJR0FJUlBPUlQuTkVUIiwKICAgICJpZCI6ICJlYWQ3MGUyMS0wMjNmLTRjYTEtYTI3Ni02NGZkMzY3OWUyZjYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HuPCfh6hTQy0xNTYuMjUwLjM1LjIzMi0wMjA2IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
