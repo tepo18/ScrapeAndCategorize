@@ -7,7 +7,7 @@ ss://YWVzLTI1Ni1nY206MzRmSXR5Wnl6Njl1SXJ4a0orY0xSMXBkY2x2RzYyOHB2OCtmelVOVElDMD0
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷FR%20%20ROSE—187
 trojan://Tel%3AArshiacomplus@45.154.96.35:14456?type=ws&security=tls&path=%2Fjdjsjeje&host=oof.acp.us.ci&sni=oof.acp.us.ci&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://Tel%3DArshiacomplus@45.154.96.35:58035?type=xhttp&security=tls&path=%2Ffkcidiekei&host=oof.acp.us.ci&mode=stream-one&sni=oof.acp.us.ci&alpn=h2%2Chttp%2F1.1&fp=firefox&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://Tel%3DArshiacomplus@45.154.96.35:58035?type=xhttp&security=tls&path=/fkcidiekei&sni=oof.acp.us.ci&mode=stream-one&sni=oof.acp.us.ci&alpn=h2,http/1.1&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://Tel:Arshiacomplus@45.154.96.35:14456?type=ws&host=oof.acp.us.ci&path=/jdjsjeje&security=tls&fp=firefox&sni=oof.acp.us.ci&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://es385i68hdp1hexy@31.57.108.93:443?path=/ws&security=none&host=31.57.108.93&type=httpupgrade#👉🆔@freenettir📡🇫🇷®️France©️Paris🅿️ping:36.58ms
 trojan://humanity@104.17.150.76:443?alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
