@@ -1,1 +1,0 @@
-trojan://humanity@185.18.250.245:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=1&%3Bhost=www.calmlunch.com&%3Btype=ws&%3BallowInsecure=1&%3Bsni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20TROJAN%20%7C%20%40v2ray_free_conf%20%231
