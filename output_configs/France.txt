@@ -7,9 +7,6 @@ ss://YWVzLTEyOC1nY206bUJsMWZZaFg4OHhrM0szOUllUHJSbm1zUUR2YjFoNGY@51.159.103.137:
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷FR%20%20ROSE—187
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-4576
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%f0%9f%87%ab%f0%9f%87%b7%20FR%203
-trojan://Tel%3AArshiacomplus@45.154.96.35:14456?type=ws&headerType=none&security=tls&encryption=none&sni=oof.acp.us.ci&fp=chrome&alpn=h2%2Chttp/1.1&path=/jdjsjeje&host=oof.acp.us.ci&insecure=0#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://Tel:Arshiacomplus@45.154.96.35:14456?type=ws&host=oof.acp.us.ci&path=%2Fjdjsjeje&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=oof.acp.us.ci#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://Tel:Arshiacomplus@45.154.96.35:14456?type=ws&host=oof.acp.us.ci&path=/jdjsjeje&security=tls&fp=firefox&sni=oof.acp.us.ci&alpn=h2,http/1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
 trojan://humanity@104.17.121.71:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
@@ -30,11 +27,12 @@ trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path
 trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
-trojan://humanity@188.121.122.144:40443?security=tls&sni=www.ignitelimit.com&insecure=1&allowInsecure=1&type=ws&host=www.ignitelimit.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
 trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@45.130.125.76:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
+trojan://humanity@89.116.46.68:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@89.116.46.8:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&type=ws&allowInsecure=1&sni=www.calmloud.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@v3.dabache.top:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
