@@ -1,0 +1,1 @@
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45553?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Zurich%20%7C%20%5BBL%5D

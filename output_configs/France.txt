@@ -1,6 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MjY3MTY0N2FmMGNmZmEw@38.242.222.183:11201#🇫🇷FR%20%20ROSE—183
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSakdfUGQ1MzRaVkpSTWRPRGpDTk1B@45.92.218.56:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20SS%20%7C%20%40v2ray_free_conf%20%231
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTajJ5dTdxS1BwclVtUEpvT0NnTjZx@163.5.192.18:443#%F0%9F%87%AB%F0%9F%87%B7FR-163.5.192.18-0186
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTajJ5dTdxS1BwclVtUEpvT0NnTjZx@163.5.192.18:443#%F0%9F%87%AB%F0%9F%87%B7FR-163.5.192.18-0230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNWI4NzhjYmI0NmYzZTMz@51.178.114.83:11202#🇫🇷FR%20%20ROSE—184
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20SS%20%7C%20%40mt_proxy%20%231
@@ -8,11 +6,12 @@ ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E@195.154.202.112
 ss://YWVzLTEyOC1nY206bUJsMWZZaFg4OHhrM0szOUllUHJSbm1zUUR2YjFoNGY@51.159.103.137:18290#🇫🇷FR%20%20ROSE—186
 ss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#🇫🇷FR%20%20ROSE—187
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-0180
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-4576
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%f0%9f%87%ab%f0%9f%87%b7%20FR%205
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.41:45619?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&fp=chrome&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.83:45619?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?allowInsecure=0&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7%20%E6%B3%95%E5%9B%BD%20%E5%B7%B4%E9%BB%8EChoopa%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?fp=chrome&sni=www.weavenet.click#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
 trojan://humanity@104.17.121.71:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.17.121.9:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40v2ray1_ng%3A%3AFR
 trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -31,6 +30,7 @@ trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path
 trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@188.114.96.4:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%3E%3E%40outline_vpn%3A%3AFR
+trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@45.130.125.160:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40V2rayNG3%3A%3AFR
 trojan://humanity@45.130.125.69:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@45.130.125.76:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -43,9 +43,6 @@ trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&typ
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://telegram-id-privatevpns@13.39.178.176:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-v2rayvpnchannel@13.39.178.176:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
-trojan://telegram-id-v2rayvpnchannel@13.39.4.77:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
-vmess://ewogICAgImFkZCI6ICIxMDQuMTY2LjEzNS4xMCIsCiAgICAiYWlkIjogNCwKICAgICJob3N0IjogImFoZGFlcGg4LmNvbSIsCiAgICAiaWQiOiAiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6vwn4e3RlItMTA0LjE2Ni4xMzUuMTAtMDA4MyIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxMDQuMTY2LjEzNS4xMCIsCiAgICAiYWlkIjogNCwKICAgICJob3N0IjogImFoZGFlcGg4LmNvbSIsCiAgICAiaWQiOiAiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3dzIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6vwn4e3RlItMTA0LjE2Ni4xMzUuMTAtMDA5OCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxMDQuMTY2LjEzNS4xMCIsCiAgICAiYWlkIjogNCwKICAgICJob3N0IjogImFoZGFlcGg4LmNvbSIsCiAgICAiaWQiOiAiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTEwNC4xNjYuMTM1LjEwLTAyMjAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDQuMTY2LjEzNS4xMCIsCiAgICAiYWlkIjogNCwKICAgICJob3N0IjogImFoZGFlcGg4LmNvbSIsCiAgICAiaWQiOiAiYWJhNTBkZDQtNTQ4NC0zYjA1LWIxNGEtNDY2MWNhZjg2MmQ1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4er8J+Ht0ZSLTEwNC4xNjYuMTM1LjEwLTAyMjYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh6vwn4e3IEZSIDEiLCJhZGQiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJwb3J0IjoyMDUzLCJpZCI6IjJmNDIzNGY5LThmMzMtNGM3Zi05NTJmLTU2NWZmYTVmNWZiNyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoidGxzIiwic25pIjoiIiwiZnAiOm51bGx9
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEzNy43NC4xMTkuMTgiLCAicG9ydCI6ICIyMDUzIiwgImlkIjogIjJmNDIzNGY5LThmMzMtNGM3Zi05NTJmLTU2NWZmYTVmNWZiNyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgInRscyI6ICJ0bHMiLCAic25pIjogIm5vZGUtZnIuY29ubmVjdHN1aXRlLm9yZyIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTRAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGViXHVkODNjXHVkZGY3XHUwMGFlXHVmZTBmRnJhbmNlXHUwMGE5XHVmZTBmUm91YmFpeFx1ZDgzY1x1ZGQ3Zlx1ZmUwZnBpbmc6NzJtcyJ9
