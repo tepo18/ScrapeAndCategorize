@@ -2,8 +2,8 @@ ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.133.63.138:443?security=reality&sni
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&sni=tr.eu-ffast.com&allowInsecure=1&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMllGdnVlNEVndno3UlBTNHlpWENR@62.133.63.21:1080#🇹🇷TR%20%20ROSE—113
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#🇹🇷TR%20%20ROSE—115
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@194.87.39.215:8388#%F0%9F%87%B9%F0%9F%87%B7TR-194.87.39.215-0140
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@194.87.39.215:8388#%F0%9F%87%B9%F0%9F%87%B7TR-194.87.39.215-0187
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYNmJ0YlJ2SkNvM3VUUS0teWFhVDhNdmgwQ2dxaFlUTA==@194.87.39.215:8388#%F0%9F%87%B9%F0%9F%87%B7TR-194.87.39.215-0250
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#🇹🇷TR%20%20ROSE—435
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#🇹🇷TR%20%20ROSE—35
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppRzFuUzlNTWdzMG9FSk05ZzFZVGds@94.131.123.236:5223#🇹🇷TR%20%20ROSE—550
@@ -11,13 +11,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppeGZYQnE2ZGZNUVFGaUV6NlBCY1R5@62.60.233.220:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ@95.164.116.33:443#🇹🇷TR%20%20ROSE—393
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbklGWkhJSUxQZ1F4elRXVVA5Mjk4@62.133.63.21:65262#🇹🇷TR%20%20ROSE—114
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbklGWkhJSUxQZ1F4elRXVVA5Mjk4@h110vpntr.outlinekeys.net:65262#🇹🇷TR%20%20ROSE—112
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#%f0%9f%87%b9%f0%9f%87%b7%20TR%202
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%205
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%203
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%204
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?security=tls&path=%2f#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.133.63.138:443?security=reality&sni=tr.eu-ffast.com&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%202
 vless://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&sni=tr.eu-ffast.com&allowInsecure=1&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%201
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%205
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%203
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%204
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7nwn4e3IFRSIDEiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJzbmkiOm51bGwsImZwIjoiY2hyb21lIn0=
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7nwn4e3IFRSIDIiLCJhZGQiOiI1LjE4OC4xOTAuMjUyIiwicG9ydCI6MjIzMjQsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMSIsInNjeSI6bnVsbCwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6IiIsImFscG4iOm51bGwsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjpudWxsLCJmcCI6bnVsbH0=
