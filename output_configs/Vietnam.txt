@@ -1,3 +1,4 @@
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.18:38388#%E8%B6%8A%E5%8D%97%20-%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20-%20FASTLY%20-%202
+trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?security=tls&sni=www.event-snapshot.click&fp=chrome&type=tcp#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Hanoi%20%7C%20%5BBL%5D
 trojan://DX4wKmVl.CNIjwO5CYf7_qg%2Bf1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&peer=www.event-snapshot.click&security=tls#%F0%9F%87%BB%F0%9F%87%B3%20Vietnam%2C%20Hanoi%20%7C%20%5BBL%5D
 trojan://DX4wKmVl.CNIjwO5CYf7_qg+f1eMN4yt_F@130.94.3.146:443?sni=www.event-snapshot.click&fp=chrome&type=tcp&path=%2f#%f0%9f%87%bb%f0%9f%87%b3%20VN%201
