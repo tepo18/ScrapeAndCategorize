@@ -2,4 +2,6 @@ ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#%F0%9F%87%
 ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.195-0174
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0=@86.106.84.198:13265#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.198-0163
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0=@86.106.84.198:13265#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.198-0175
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.87:45553?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&fp=chrome&alpn=http%252F1.1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Zurich%20%7C%20%5BBL%5D
 trojan://cde2502a-5138-4511-9fe9-9e9df5619aba@185.18.250.252:443?path=/ca-cl&security=tls&insecure=0&host=go.appsflyer.com.r3xxe.eu.cc&type=ws&allowInsecure=0&sni=go.appsflyer.com.r3xxe.eu.cc#🇨🇭CH-🚀@V2Ray_Hub1200
+trojan://humanity@185.18.250.252:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.multiplydose.com#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20TROJAN%20%7C%20%40v2raych%20%231
