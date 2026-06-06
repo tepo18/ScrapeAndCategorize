@@ -14,6 +14,7 @@ trojan://BxceQaOe@43.199.217.71:19465?allowInsecure=1&sni=t.me%252Fripaojiedian#
 trojan://BxceQaOe@54.46.44.219:42710?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://d84665c37878196ecf983cf6910e3b44@16.162.93.34:48402?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://d84665c37878196ecf983cf6910e3b44@18.167.173.1:2511?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://gcuCpQfaiVeDBdWG@211.76.176.98:19128?type=raw&headerType=none&security=tls&sni=yazhou10.dynu.net#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%202
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%204
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%203
