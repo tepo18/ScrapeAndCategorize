@@ -23,6 +23,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkbzFEWi1fUXZrRldYenNqY193OGVUNS1UZVlQNlUzUQ@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE@185.5.38.111:55988#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppaHRVQm5oWDY5amk=@77.83.247.20:443#%F0%9F%87%AB%F0%9F%87%AEFI-77.83.247.20-0214
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppaHRVQm5oWDY5amk=@77.83.247.20:443#%F0%9F%87%AB%F0%9F%87%AEFI-77.83.247.20-0216
+trojan://SoftNetConnect@46.62.201.63:2087?type=xhttp&%3Bsecurity=reality&%3Bpath=/&%3Bmode=auto&%3Bextra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&%3Bsni=www.icloud.com&%3Bfp=chrome&%3BallowInsecure=1&%3Bpbk=MGsu9-MZjoV5ReYAQFYIDoDbC5m4De0QC1i0XhcpWjU&%3Bsid=f7e48a54&%3Bspx=/#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20TROJAN%20%7C%20%40v2ray_free_conf%20%231
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%205
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%208
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%209
