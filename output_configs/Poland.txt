@@ -32,5 +32,4 @@ trojan://humanity@216.24.57.1:443/?type=ws&path=%2Fassignment&security=tls&sni=w
 trojan://humanity@81.255.155.10:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?alpn=http%2f1.1&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%201
-trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0131
 trojan://iGccGWTMHtoXtBhGYK4mogg7iIUhGbcvCf@64.176.65.85:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-64.176.65.85-0146
