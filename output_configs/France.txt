@@ -8,7 +8,15 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWOHN0WEtzY1Vwa04=@144.91.109.71:443#%F0%9F%8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZXZDNFh6QWVta1g=@144.91.109.75:443#%F0%9F%87%AB%F0%9F%87%B7FR-144.91.109.75-0218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZXZDNFh6QWVta1g=@144.91.109.75:443#%F0%9F%87%AB%F0%9F%87%B7FR-144.91.109.75-0222
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-0079
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.42:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.86:48697?sni=gh.01.naiun.bilibili.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%B3%95%E5%9B%BD%2001
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.89:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@155.117.198.90:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.90:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7FR-217.69.2.107-0095
 trojan://YGWIMlg.W1wRWQkRDcKfjZY7sng09aC=Yh@217.69.2.107:443?security=tls&sni=www.weavenet.click#%F0%9F%87%AB%F0%9F%87%B7FR-217.69.2.107-0096
 trojan://humanity@104.16.174.12:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40v2ray1_ng%3A%3AFR
@@ -38,7 +46,6 @@ trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.c
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://telegram-id-directvpn@15.236.237.21:22223?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://telegram-id-directvpn@15.236.237.21:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2raych%20%231
-trojan://telegram-id-v2rayvpnchannel@15.236.237.21:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
+trojan://telegram-id-privatevpns@35.181.235.93:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
+trojan://telegram-id-v2rayvpnchannel@35.181.235.93:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 vmess://eyJhZGQiOiAid3d3LnZwc2xvb2suY29tIiwgImFpZCI6IDAsICJob3N0IjogIndhcGtwMDEuNTIwMTMxNC5jZmQiLCAiaWQiOiAiNDk5M2YxNGUtNWY5Yi00MjQ5LWRjNDMtOTlmNGZkZWE4NGJlIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAicG9ydCI6IDQ0MywgInBzIjogIlx1ZDgzY1x1ZGRlYlx1ZDgzY1x1ZGRmN0ZSLVx1ZDgzZFx1ZGU4MEBWUE5pbmUxIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
