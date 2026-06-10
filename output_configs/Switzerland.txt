@@ -1,8 +1,7 @@
 ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.195-0211
+ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M=@86.106.84.195:13262#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.195-0222
 ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M@86.106.84.195:13262#🇨🇭CH%20%20ROSE—108
-ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0=@86.106.84.198:13265#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.198-0212
+ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0=@86.106.84.198:13265#%F0%9F%87%A8%F0%9F%87%ADCH-86.106.84.198-0223
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0@86.106.84.198:13265#🇨🇭CH%20%20ROSE—86
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.93:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Zurich%20%7C%20%5BBL%5D
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.97:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Zurich%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.44:45553/?type=tcp&security=tls&sni=ch.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Zurich%20%7C%20%5BBL%5D
 trojan://Masir_Sefid@37.156.45.168:443?security=reality&%3Bpbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&%3BheaderType=none&%3Bfp=chrome&%3Bspx=/FQDh1KA6NaPaGpV&%3Btype=tcp&%3Bsni=store.steampowered.com&%3Bsid=d67d2e36#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%7C%20TROJAN%20%7C%20%40vmesskhodam%20%231
-trojan://duaR-NjjdGGLeZ+W6j=3NY46vZW+zyMD1z@89.125.95.152:11300?sni=www.toughapp.click&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%201
