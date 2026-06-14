@@ -1,9 +1,6 @@
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.133.63.138:443?security=reality&sni=tr.eu-ffast.com&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%202
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&sni=tr.eu-ffast.com&allowInsecure=1&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%201
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLUDZGUVZtSmhsWFBndlBocncyZ25J@62.133.63.169:37096#%3E%3E%40shadowproxy66%3A%3ATR
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNUVKWm9qVk1FTnZrRFZGWWxpRXFF@62.133.63.169:37096#%3E%3E%40configV2rayNG%3A%3ATR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZ3ZMWlVmczhzaXZvQjlBN3drWWRt@83.217.9.17:25232#🇹🇷TR%20%20ROSE—151
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#%f0%9f%87%b9%f0%9f%87%b7%20TR%201
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@185.123.101.64:2376#🇹🇷TR%20%20ROSE—91
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.129:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%205
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@103.231.75.74:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%203
