@@ -1,4 +1,3 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20TROJAN%20%7C%20%40vmesskhodam%20%231
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0156
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0158
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh78gQ1ogfCBWTUVTUyB8IEBmcmVldjJyYXlzICMxIiwiYWRkIjoidGltZS5pcyIsInBvcnQiOjQ0MywiaWQiOiJiNTI2OTI2ZC0xNDc0LTRmNDEtOTg1ZS04Yjg3N2NiODQwY2QiLCJ0eXBlIjoiIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidGxzIjoidGxzIiwic25pIjoidGltZS5pcyIsInBhdGgiOiIvIiwiaG9zdCI6InNoczExMS5rZWppeGlhb3FpNjY2LnN0b3JlIn0=
