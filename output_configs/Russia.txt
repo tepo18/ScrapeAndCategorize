@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1nY206Y2ZlNjg1NzI2ZWVhMmM0Yg@185.22.154.212:50129#%3E%3E%40hope_net%3A%3ARU
+trojan://15dde292f853ec5@ip.feywebsite.ir:8443?mode=auto&%3Bpath=/&%3Bsecurity=tls&%3Balpn=h2&%3Bextra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&%3Bhost=us.asukasimp.com&%3Bfp=chrome&%3Btype=xhttp&%3Bsni=us.asukasimp.com#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20TROJAN%20%7C%20%40vmesc%20%231
