@@ -1,6 +1,0 @@
-trojan://SpDMjT%3D8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.56:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
-trojan://SpDMjT%3D8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.56:443?sni=79.108.162.56&peer=79.108.162.56&security=tls#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
-trojan://SpDMjT%3D8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.56:443?type=tcp&security=tls&headerType=none&sni=79.108.162.56&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
-trojan://SpDMjT%3D8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.8:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=tcp&security=tls&headerType=none&sni=&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
-trojan://SpDMjT%3D8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.8:443?sni=79.108.162.8&peer=79.108.162.8&security=tls#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
-trojan://SpDMjT%3D8y4jUQLnwzdfsauMMcLv51NBwEB@79.108.162.8:443?type=tcp&security=tls&headerType=none&sni=79.108.162.8&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
