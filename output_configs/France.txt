@@ -2,6 +2,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1T2FOQkI3ZGxLWEg@155.133.130.93:443#🇫🇷
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-0137
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-0150
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷FR%20%20ROSE—195
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45619/?type=tcp&security=tls&sni=fr.01.naiun.bilibili.com&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -63,4 +64,5 @@ trojan://telegram-id-directvpn@15.188.218.165:22223?security=tls&%3Balpn=http/1.
 trojan://telegram-id-privatevpns@13.39.52.139:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-privatevpns@15.188.249.44:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%232
 trojan://telegram-id-v2rayvpnchannel@13.39.52.139:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlLms5Xlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjE5NC42MC45NS43IiwicG9ydCI6IjU5NTI1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjY2ZmY1ODFmLTk4ZDAtNDNjYy1jZWNiLWE3MjMyZjQxMWM2ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNjZmZjU4MWYtOThkMC00M2NjLWNlY2ItYTcyMzJmNDExYzZkIiwiaG9zdCI6IiIsInRscyI6IiJ9
 vmess://eyJhZGQiOiI1MS44My45Ny4xNjciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjZlN2VmMjFmLTQ3MzYtNDgwZS05M2FhLTFmN2Q1NGYyODA4OSIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcyIsInBvcnQiOjgwLCJwcyI6IvCfh6vwn4e3IEZSIHwgVk1FU1MgfCBAaG9wZV9uZXQgIzEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
