@@ -1,0 +1,5 @@
+trojan://NMp4K%3Df5gD-yP8QgrWR1AS_60GEyw9dclo@79.108.162.90:443?sni=79.108.162.90&peer=79.108.162.90&security=tls#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
+trojan://NMp4K%3Df5gD-yP8QgrWR1AS_60GEyw9dclo@79.108.162.90:443?type=tcp&security=tls&headerType=none&sni=79.108.162.90&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
+trojan://oe1bHeMDztlozduGnno7ojoO6%3DNST_jHIK@79.108.162.57:443?type=tcp&security=tls&headerType=none&sni=79.108.162.57&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
+trojan://oe1bHeMDztlozduGnno7ojoO6%3DNST_jHIK@79.108.162.9:443?sni=79.108.162.9&peer=79.108.162.9&security=tls#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
+trojan://oe1bHeMDztlozduGnno7ojoO6%3DNST_jHIK@79.108.162.9:443?type=tcp&security=tls&headerType=none&sni=79.108.162.9&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B1%20Israel%2C%20Kiryat%20Bialik%20%7C%20%5BBL%5D
