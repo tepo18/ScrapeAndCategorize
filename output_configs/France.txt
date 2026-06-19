@@ -1,8 +1,9 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1T2FOQkI3ZGxLWEg@155.133.130.93:443#🇫🇷FR%20%20ROSE—109
-ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-0114
+ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0=@51.254.128.106:2083#%F0%9F%87%AB%F0%9F%87%B7FR-51.254.128.106-0118
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷FR%20%20ROSE—195
-trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.98:45619?security=tls&sni=fr.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.92:45619?security=tls&sni=fr.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@188.253.12.99:45619?security=tls&sni=fr.01.naiun.bilibili.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%2009%20Op%C3%A9ra%20%7C%20%5BBL%5D
+trojan://hCunaKqdEJDBO+3jCrJUSMevXOw9Q_r4Ey@38.60.136.156:443?security=tls&fp=chrome&type=tcp&path=%2f&allow_insecure=1#%f0%9f%87%ab%f0%9f%87%b7%20FR%201
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.12:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -16,9 +17,6 @@ trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment
 trojan://humanity@104.18.152.229:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayngvpn%3A%3AFR
 trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayng_fast%3A%3AFR
 trojan://humanity@104.18.152.97:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.18.32.37:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=1&type=ws&path=%2Fassignment#%3E%3E%40v2line%3A%3AFR
-trojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@104.19.229.21:443?path=%2Fassignment%3FL=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%3E%3E%40V2rayNG3%3A%3AFR
 trojan://humanity@104.20.42.250:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=ios&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@104.20.6.134:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40prrofile_purple%3A%3AFR
 trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%3E%3E%40FreakConfig%3A%3AFR
@@ -26,9 +24,7 @@ trojan://humanity@141.101.90.101:443?path=%2Fassignment&security=tls&insecure=1&
 trojan://humanity@141.193.213.11:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=1&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=1&sni=www.calmloud.com#%3E%3E%40freeland8%3A%3AFR
 trojan://humanity@141.193.213.21:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=0#%3E%3E%40v2rayngvpn%3A%3AFR
 trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&host=www.ignitelimit.com&fp=chrome&type=ws&sni=www.ignitelimit.com#%3E%3E%40V2rayNG3%3A%3AFR
-trojan://humanity@172.64.147.24:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40FreakConfig%3A%3AFR
-trojan://humanity@172.64.155.209:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%3E%3E%40hope_net%3A%3AFR
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@185.18.250.252:443?allowInsecure=1&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -53,11 +49,9 @@ trojan://humanity@45.130.125.96:443?path=%2Fassignment&security=tls&alpn=http%2F
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@66.81.247.155:443?type=ws&security=tls&path=%2Fassignment&host=www.calmloud.com&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome&allowInsecure=0#%3E%3E%40v2rayngvpn%3A%3AFR
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#%3E%3E%40v2rayNG_Matsuri%3A%3AFR
-trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@sourceforge.net:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmloud.com&path=%2Fassignment&sni=www.calmloud.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@srv1.khatibirepair.ir:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@www.calmlunch.com:443?allowInsecure=1&fp=chrome&host=www.calmlunch.com&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-trojan://telegram-id-directvpn@13.39.52.139:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2raych%20%231
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlLms5Xlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjE5NC42MC45NS43IiwicG9ydCI6IjU5NTI1IiwidHlwZSI6Im5vbmUiLCJpZCI6IjY2ZmY1ODFmLTk4ZDAtNDNjYy1jZWNiLWE3MjMyZjQxMWM2ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNjZmZjU4MWYtOThkMC00M2NjLWNlY2ItYTcyMzJmNDExYzZkIiwiaG9zdCI6IiIsInRscyI6IiJ9
+vmess://eyJhZGQiOiI1MS4yNTQuMTMzLjE1MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZnI1Lm5pZWtvdGluLmRlIiwiaWQiOiJhYzhiY2Y1ZS1iYjU4LTRlOGItYjRlNC01ZmRlYTAxMGE2YzYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiODAiLCJwcyI6IkZSIPCfh6vwn4e3IHwgQFJheWRpa2FseCB8IDIzNDIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJub2RlLWZyLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZjQyMzRmOS04ZjMzLTRjN2YtOTUyZi01NjVmZmE1ZjVmYjciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwNTMiLCJwcyI6IkZSIPCfh6vwn4e3IHwgQFJheWRpa2FseCB8IDIzODkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
