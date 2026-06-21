@@ -1,4 +1,3 @@
-trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&%3Binsecure=0&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp&%3BallowInsecure=0&%3Bsni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BF%20CZ%20%7C%20TROJAN%20%7C%20%40v2rayngvpn_1%20%231
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@46.8.113.142:443?security=tls&sni=ch-2.bexum.fun&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a8%f0%9f%87%bf%20CZ%202
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&sni=ch-2.bexum.fun#%F0%9F%87%A8%F0%9F%87%BFCZ-46.8.113.142-0145
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@ch-2.bexum.fun:443?security=tls&type=tcp&path=%2f&allow_insecure=0#%f0%9f%87%a8%f0%9f%87%bf%20CZ%203
