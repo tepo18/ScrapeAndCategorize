@@ -158,6 +158,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.164
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+136.244.100.113-443+%7C+82.59ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.126.122-0107
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.126.122:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.126.122-0132
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20%40v2ray_youtube%20%231
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1NL-108.181.58.239-0127
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#🇳🇱NL%20%20ROSE—196
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#🇳🇱NL%20%20ROSE—20
@@ -292,6 +293,7 @@ ss://YWVzLTEyOC1nY206WkIxVkcwS0V6WDhBWmYyRG1MbzhGQUFpUkQ1UU1xbmY=@45.82.67.252:1
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0163
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%F0%9F%87%B3%F0%9F%87%B1NL-51.15.23.63-0188
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@51.15.23.63:989#%f0%9f%87%b3%f0%9f%87%b1%20NL%2031
+ss://YXV0bzo=@108.181.58.239:8388#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20SS%20%7C%20%40vmesc%20%231
 ss://a2415a12-3f92-4636-9823-9828d3ceb818@72.56.18.179:443?type=tcp&encryption=none&sni=www.ya.ru&fp=firefox&security=reality&pbk=8xufuXmVTmxmM9SKIN1P6x3CFstZdl1mfSxr_LfOkDQ&sid=2af15d98#🆔freeconfigsplus%20🔒%20VL-TCP-%20🇳🇱%20NL%2090ms
 ss://a5ea9247-79f3-4655-aece-3fb51e1e669e@rezerv6.yunus.guru:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6QIHdF1dvSK8mDPOeWXvGIqJmZ2ySq5fyc7N15h1WFE&security=reality&sid=34256b39b4ebb864&sni=rezerv6.yunus.guru&type=tcp#REALITY|NL🇳🇱
 ss://c7665648-eff9-4317-8978-4ee2fb34f752@188.226.146.164:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=v7s1e040.5qqzdipkj05g8copceva.workers.dev&path=%2F&security=tls&sni=v7s1e040.5qqzdipkj05g8copceva.workers.dev&type=ws#🆔soskeynet%20🔒%20VL-WS-N/A%20🇳🇱%20NL%2083ms
@@ -313,8 +315,6 @@ ss://eb4e2622-e782-4e70-8464-0c975388c8c9@89.105.217.98:7443?security=reality&en
 ss://eca11c16-cf74-4467-9d34-85bd942600a0@78.141.215.62:8080?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
 ss://efe3901e-b309-43f3-843a-f4f871670cf3@154.83.159.46:8443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=LT_0j3zQkaqgtJHvyaG24xz0IfmXUswVCTeC75Qsgjo&security=reality&sid=6f15101ff2cc4887&sni=storage.yandex.net&type=tcp#REALITY|NL🇳🇱
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.18.184.29:8880#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+185.18.184.29-8880+%7C+2.03ms
-trojan://MiTiVPN@45.131.4.118:443?path=/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=linkkon-w.ir&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=linkkon%E2%80%A6%3C/div%3E#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%232
-trojan://MiTiVPN@45.131.4.118:443?path=/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=linkkon-w.ir&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=linkkon-w.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%231
 trojan://c-SRHpnT4DGR3W3W639LbOUKHYR.Ls71kU@144.31.55.10:10295?allowInsecure=1&fp=chrome&sni=www.spotwebs.click#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
