@@ -370,7 +370,8 @@ ss://efe3901e-b309-43f3-843a-f4f871670cf3@154.83.159.46:8443?encryption=none&flo
 ss://f64cab0a-75a4-44f1-b2f6-8ecc6c73c249@72.57.78.226:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K3v40g4aiQoyyIYu8gJ347qCN7ZLFA61GQP_rRQYbG4&security=reality&sid=5a10927f2dc1237d&sni=auto.buycloud.app&type=tcp#REALITY|NL🇳🇱
 ss://fab7bf9cddb945638a04fb01ce6c0fbfOg==@185.18.184.29:8880#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+185.18.184.29-8880+%7C+5.62ms
 trojan://MiTiVPN@45.131.4.118:443?path=%2Fed%3Dmitivpn&security=tls&alpn=htt40NormanV2ray+%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF+3#NL🇳🇱
-trojan://RJvy9tO9DC@fruitloops168.1o0.net:443?type=grpc&security=tls&alpn=h2,http/1.1&fp=firefox&serviceName=/44433/w5F6N6Tj&authority=fruitloops168.1o0.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
+trojan://MiTiVPN@45.131.4.118:443?path=/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=linkkon-w.ir&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=linkkon%E2%80%A6%3C/div%3E#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%232
+trojan://MiTiVPN@45.131.4.118:443?path=/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=linkkon-w.ir&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=linkkon-w.ir#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%231
 trojan://humanity@104.17.131.88:443?fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.18.12.149:443?allowInsecure=1&host=www.multiplydose.com&path=%2Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://humanity@104.19.208.184:443?host=www.multiplydose.com&path=%2F%252Fassignment&sni=www.multiplydose.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ANL

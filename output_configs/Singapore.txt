@@ -10,7 +10,10 @@ ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vles
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%206
 trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.104.177.105-0039
 trojan://16877c70-e7b8-11ec-99f2-1239d0255272@w13.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-139.162.61.193-0038
+trojan://860c3c2c89a1c7515792be1c5295d21e@18.162.41.225:6357?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://860c3c2c89a1c7515792be1c5295d21e@18.167.20.216:29642?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.118.154:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://BxceQaOe@43.199.34.99:51396?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://e0195c73018d597b1c2f0ea89d8676ae@18.162.190.157:17005?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://e0195c73018d597b1c2f0ea89d8676ae@43.198.206.201:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://f64e69c0-e7b7-11ec-ab81-1239d0255272@w11.udpgw.com:443?security=tls#%F0%9F%87%B8%F0%9F%87%ACSG-172.105.120.73-0040

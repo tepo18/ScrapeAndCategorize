@@ -1,2 +1,1 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3U0VzdGRtTGhmLWFGS19HOWVhWUhLVF9ZcFNvdjU4Qg==@ru.moktana.app:51523#%F0%9F%87%B7%F0%9F%87%BARU-45.10.41.129-1708
-trojan://RJvy9tO9DC@ru1.xxee.ru:443?type=grpc&security=tls&alpn=h2,http/1.1&fp=firefox&serviceName=/45581/T97Xm1O0&authority=ru1.xxee.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
