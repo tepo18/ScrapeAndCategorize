@@ -48,6 +48,7 @@ trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?security=tls&sni=
 trojan://fFj7MAGy1VlAWmB_gMBG_27oPYTSHvV6MX@185.137.157.59:443?sni=www.lateralio.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://hxn2jK9Uzezogua0oHuq9Y8viN=UCe.2Jd@185.137.157.254:443?security=tls&sni=www.directorypipeline.click#%F0%9F%87%A9%F0%9F%87%AADE-185.137.157.254-0238
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38.54.13.189#%F0%9F%87%A9%F0%9F%87%AADE-38.54.13.189-0175
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&%3BheaderType=none&%3Btype=tcp&%3Bsni=fra154.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40red2ray%20%231
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?sni=fra154.clientfirewall.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clientfirewall.click#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://telegram-id-privatevpns@63.185.169.158:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231

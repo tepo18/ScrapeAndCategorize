@@ -8,7 +8,6 @@ trojan://16877c70-e7b8-11ec-99f2-1239d0255272@w13.udpgw.com:443?security=tls#%F0
 trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443/?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#%F0%9F%87%B7%F0%9F%87%BA%40FREE2CONFIG%20
 trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv1.hosttbd.ir:10001?security=none&headerType=none&allowInsecure=0&type=tcp&path=/&host=PuLaVPN.Net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://1tMXmaYmJ7PmnTuyaRmXaA@sv4.hosttbd.ir:10004?security=none&host=PuLaVPN.Net&headerType=none&type=tcp#vmesskhodam
-trojan://2238e2f3-1a01-485e-8c22-24b65764c68b@172.64.152.23:443?path=/51.91.253.83&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=gzjx.dpdns.org&%3Btype=ws&%3BallowInsecure=0&%3Bsni=gzjx.dpdns.org#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40v2ray_free_conf%20%231
 trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-14-🇯🇵
 trojan://2274c52572e721086f8bd8f88984643c@153.121.51.29:127?allowInsecure=0&sni=www.nintendogames.net#hamedp71-45-🇯🇵
 trojan://2274c52572e721086f8bd8f88984643c@160.16.124.55:5553?security=tls&sni=www.nintendogames.net#hamedp71-22-🇯🇵
@@ -114,7 +113,6 @@ trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?allowInsecure=0#h
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=130.94.114.217#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=130.94.114.217#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?security=tls&sni=130.94.114.217#🇨🇦[openproxylist.com]
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?sni=130.94.114.217&peer=130.94.114.217&security=tls#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Los%20Angeles%20%7C%20%5BBL%5D
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443?type=raw&headerType=none&security=tls&fp=chrome&sni=130.94.114.217#[🇨🇦]
 trojan://Bt-qzyomC7g37TaHwvPSV0.YrNSxFmlvIP@130.94.107.242:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Nashville%20%7C%20%5BBL%5D
@@ -168,7 +166,6 @@ trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?security=tls&ty
 trojan://LYaEYwjN8LjWTRJdCCTzW7V6gK7atJVu@de-1.hysteria.ltd:9443?type=raw&headerType=none&security=tls&sni=de-1.hysteria.ltd#[🇩🇪]
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#SiNAVM
 trojan://M=vdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click&allowInsecure=1#SiNAVM
-trojan://MITIVPN@104.16.72.70:443?type=ws&host=www.pagess.ir&path=%2Fed%3Dmitivpn&security=tls&fp=chrome&sni=pagess.ir#[🇩🇪]
 trojan://MITIVPN@104.16.72.70:443?type=ws&host=www.pagess.ir&path=%2Fed%3Dmitivpn&security=tls&fp=chrome&sni=pagess.ir#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://MITIVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-6.global.ssl.fastly.net&sni=global.fastly.com&alpn=http%2F1.1%2Ch2&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 trojan://MITIVPN@151.101.110.219:443?type=ws&security=tls&path=%2Fed%3Dmitivpn&host=mitivpn-6.global.ssl.fastly.net&sni=global.fastly.com&fp=chrome&insecure=1&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
@@ -179,7 +176,6 @@ trojan://MiTiVPN@140.248.185.253:443?path=/ed=MiTiVPN&security=tls&alpn=http/1.1
 trojan://MiTiVPN@151.101.1.194:443?allowInsecure=1&alpn=http/1.1&host=mitivpn-s2.global.ssl.fastly.net&path=/ed&sni=global.fastly.com&type=ws#🌊31@oneclickvpnkeys
 trojan://MiTiVPN@151.101.110.219:443?amp%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=1&%3Bhost=mitivpn-77.global.ssl.fastly.net&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=1&%3Bsni=default.ssl.fastly.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40vmesskhodam%20%231
 trojan://MiTiVPN@151.101.110.219:443?path=&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#@vmesskhodam
-trojan://MiTiVPN@151.101.110.219:443?path=/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Bhost=mitivpn-s2.global.ssl.fastly.net&%3Bfp=chrome&%3Btype=ws&%3Bsni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
 trojan://MiTiVPN@151.101.69.172:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=default.ssl.fastly.net#🇺🇸US-🚀@VPNine1
 trojan://MiTiVPN@151.101.69.219:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn-77.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=speedtest.net#🇺🇸US-🚀@VPNine1
 trojan://MiTiVPN@167.82.101.251:443?path=/ed=mitivpn&security=tls&alpn=http/1.1&insecure=1&host=mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#@bored_vpn
@@ -203,8 +199,8 @@ trojan://PQ6rFC2WGc@188.114.97.6:443?path=/?ed=2048&security=tls&insecure=0&host
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-130.94.78.17-0176
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-130.94.78.17-0511
+trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls#🇬🇧[openproxylist.com]
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
-trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇬🇧[openproxylist.com]
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?sni=130.94.78.17&peer=130.94.78.17&security=tls#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?type=raw&headerType=none&security=tls#[🇬🇧]
 trojan://PoSQBShqwNV9wKX4WHxDoLxbvp4eQYnD8v@130.94.78.17:443?type=tcp&headerType=none&security=tls&encryption=none&sni=130.94.78.17&insecure=0#Server
@@ -252,7 +248,7 @@ trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru#%F0%9F
 trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru#%F0%9F%87%A9%F0%9F%87%AADE-2.26.54.174-0206
 trojan://TrojanPass2026%21@2.26.54.174:8448?security=tls&sni=foolsland.ru#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://VGBzLm49%3DM_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=185.126.236.190#%3E%3E%40shadowproxy66%3A%3AAT
-trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&headerType=none&type=tcp&sni=185.126.236.190#🇦🇹[openproxylist.com]
+trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=185.126.236.190#🇦🇹[openproxylist.com]
 trojan://VGBzLm49=M_i02Az30tIeonkQw180t-edg@185.126.236.190:443?type=raw&headerType=none&security=tls&fp=chrome&sni=185.126.236.190#[🇦🇹]
 trojan://VPTFm=oZ++SuNT+jMRqGZqrAnWq-r8KJyY@172.104.237.100:443?security=tls&sni=172.104.237.100&fp=chrome&insecure=1&allowInsecure=1&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
 trojan://VjXsgvA0s4@verarussia1.uspn.io:443?type=ws&path=/trojan&security=tls&fp=chrome&sni=verarussia1.uspn.io#SiNAVM
@@ -450,7 +446,6 @@ trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&hos
 trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.36:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://humanity@104.16.174.36:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.ignitelimit.com#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vmesskhodam%20%231
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@vmesskhodam
 trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@104.16.174.71:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -695,7 +690,7 @@ trojan://k2CQ2JboS7@188.114.97.6:443?path=/%3Fed%3D2048&%3Bsecurity=tls&%3Binsec
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#@v2rayconfigamir
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#hamedp71%3A%3A%F0%9F%87%BF%F0%9F%87%A6
-trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=raw&headerType=none&security=tls&fp=chrome#[🇿🇦]
+trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=raw&headerType=none&security=tls#[🇿🇦]
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🇳🇱#ShineNET%20VPN
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?allowInsecure=1&sni=38.54.13.189#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8
 trojan://lhvfOzkRQqNd9cLDwpryrAkFGgqzlZR9Fi@38.54.13.189:443?security=tls&sni=38.54.13.189#%F0%9F%87%A9%F0%9F%87%AADE-38.54.13.189-0175
@@ -704,6 +699,7 @@ trojan://mitivpn@188.114.97.6:443?path=/720f09dba195249b423f771661162528/workers
 trojan://mitivpn@188.114.97.6:443?path=/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Bhost=de.mitivpn.global.ssl.b5r.ir&%3Bfp=chrome&%3Btype=ws&%3Bsni=b5r.ir#%F0%9F%87%BD%F0%9F%87%BD%20XX%20%7C%20TROJAN%20%7C%20%40vpnfree85%20%231
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=gamingdll.ir&%3Bfp=chrome&%3Btype=ws#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%232
 trojan://mitivpn@27.50.48.49:443?path=/index.html/ed%3Dmitivpn&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=gamingdll.ir&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=gamingdll.ir#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20TROJAN%20%7C%20%40nofiltering2%20%231
+trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&%3BheaderType=none&%3Btype=tcp&%3Bsni=fra154.clientfirewall.click#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40red2ray%20%231
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=fra154.clientfirewall.click#More%20%3A%20%40Qara_atayi%20%7C%7C%20sni-spoof
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fra154.clientfirewall.click#@tootffarangi🍓-4Wifi
 trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fra154.clientfirewall.click#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
@@ -719,6 +715,7 @@ trojan://n-S5Kuz58YgwljisuLEJltip2OWf1ourWz@185.137.157.250:443?sni=fra250.clien
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&headerType=&type=tcp&sni=www.game-bridge.click#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&headerType=&type=tcp&sni=www.game-bridge.click#⚡@V2ray_official
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&headerType=none&type=tcp&sni=www.game-bridge.click#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?security=tls&headerType=none&type=tcp&sni=www.game-bridge.click#🇳🇱[openproxylist.com]
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?sni=www.game-bridge.click#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?sni=www.game-bridge.click#%F0%9F%8C%8A44@NetFlowTools
 trojan://oJRk-2+NoHJ3N4frj_O2.0CzT+WAgdcs7b@144.31.55.35:28126?sni=www.game-bridge.click#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -770,6 +767,7 @@ trojan://telegram-id-privatevpns@13.37.68.185:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@13.38.243.193:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.226.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.39.52.139:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Server
+trojan://telegram-id-privatevpns@15.224.63.38:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-privatevpns@15.236.57.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@18.193.19.215:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@18.197.78.165:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Server
@@ -782,15 +780,14 @@ trojan://telegram-id-privatevpns@35.180.171.33:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@35.181.195.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷#ShineNET%20VPN
 trojan://telegram-id-privatevpns@35.181.29.196:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@35.181.86.50:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
-trojan://telegram-id-privatevpns@35.181.88.108:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-privatevpns@52.29.42.219:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@52.58.146.145:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.180.109.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#SiNAVM
 trojan://telegram-id-privatevpns@63.181.146.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@63.185.169.158:22222?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40privatevpns%20%231
 trojan://telegram-id-v2rayvpnchannel@13.38.243.193:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#🔥Join+Telegram:@Farah_VPN🟣
+trojan://telegram-id-v2rayvpnchannel@15.224.63.38:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 trojan://telegram-id-v2rayvpnchannel@3.126.148.235:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%232
-trojan://telegram-id-v2rayvpnchannel@35.181.88.108:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 trojan://telegram-id-v2rayvpnchannel@52.58.146.145:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 trojan://telegram-id-v2rayvpnchannel@63.185.169.158:22223?security=tls&%3Balpn=http/1.1&%3BheaderType=none&%3Btype=tcp&%3Bsni=trojan.burgerip.co.uk#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20TROJAN%20%7C%20%40v2rayvpnchannel%20%231
 trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click#%E2%9A%9C%EF%B8%8F%F0%9D%97%9D%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB%20%E2%9E%A0%20%40tik7net_vpn%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85-%F0%9F%87%AC%F0%9F%87%A7
