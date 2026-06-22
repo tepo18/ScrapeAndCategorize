@@ -1,1 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@217.138.193.6:812#%F0%9F%87%A6%F0%9F%87%AAAE-217.138.193.6-0231
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Dubai%20%7C%20%5BBL%5D
+trojan://ZfhGKkAmGl.hxRfIUI0LUU.MuK3hkQdxed@38.60.202.163:443?type=tcp&security=tls&headerType=none&sni=38.60.202.163&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A6%F0%9F%87%AA%20United%20Arab%20Emirates%2C%20Dubai%20%7C%20%5BBL%5D
