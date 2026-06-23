@@ -1,0 +1,2 @@
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@185.213.20.110:7001#%f0%9f%87%ae%f0%9f%87%b9%20IT%201
+trojan://MITIVPN@151.101.242.172:80?path=%2Fed%3Dmitivpn&security=none&host=mitivpn--4.global.ssl.fastly.net&type=ws#%3E%3E%40configV2rayNG%3A%3AIT
