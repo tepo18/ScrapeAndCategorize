@@ -14,6 +14,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#🇫🇮%20Finland%20-%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE@185.5.38.111:55988#🇫🇮FI%20%20ROSE—191
 ss://YWVzLTEyOC1nY206dGlqc2prM2l3emM2YjEwYXpiMHk=@77.83.247.206:18284#%F0%9F%87%AB%F0%9F%87%AEFI-77.83.247.206-0211
+trojan://5fmdsvub920phia3@sv3.wwwss-taro.ru:42634?host=cdn.wwwss-taro.ru&path=%2Fsupabase%2Fv1%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%28It%C3%A4-Pasila%29%20%7C%20%5BBL%5D
+trojan://yq8mnsutw5dy8kwd@sv3.wwwss-taro.ru:42634?host=cdn.wwwss-taro.ru&path=%2Fsupabase%2Fv1%2F&security=none&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%28It%C3%A4-Pasila%29%20%7C%20%5BBL%5D
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%205
 vless://01d68a9b-be48-4c7b-b4f9-71b29c4cfaca@95.217.206.161:443?security=tls&sni=api.chandplus.com&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%208
 vless://14e4cf26-44e1-4888-ba87-e5e6ba3a6b0f@65.108.1.249:443?security=tls&sni=cdn.chandplus.com&allowInsecure=1&fp=chrome&type=tcp&packetEncoding=xudp&encryption=none#🇫🇮%20Finland%20-%209
