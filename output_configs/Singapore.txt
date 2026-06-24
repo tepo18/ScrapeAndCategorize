@@ -3,6 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@103.36.91.32:8388#%F0%9F%87%B8%F0%9F%87%ACSG-103.36.91.32-0207
 ss://YWVzLTEyOC1nY206SlZTdXVpYjR5ZHZZOG03dTZqRWxUWWJlUk84eWdKNEhpOElxNzMzQnFBa0Y=@168.138.175.92:9888#%f0%9f%87%b8%f0%9f%87%ac%20SG%202
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@18.138.34.221:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fproxyip%5C%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dss.hhll.qqs.me%3Btls#🇸🇬SG%20%20ROSE—17
+ss://YWVzLTI1Ni1nY206ZGFkYTEyMDM=@47.129.143.46:80#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20SS%20%7C%20%40red2ray%20%231
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%202
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%204
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%203
