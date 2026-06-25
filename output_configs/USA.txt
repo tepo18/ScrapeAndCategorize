@@ -144,6 +144,7 @@ trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.241:443?security=tls&sni
 trojan://MiTiVPN@151.101.1.242:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=www.f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=www.f6r.ir#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://MiTiVPN@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=cdn2-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40prrofile_purple%3A%3AUS
 trojan://MiTiVPN@151.101.193.242:443?path=%2Fusa%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=f6r.ir&fp=chrome&type=ws&allowInsecure=0&sni=f6r.ir#%3E%3E%40configV2rayNG%3A%3AUS
+trojan://MiTiVPN@151.101.56.6:443?path=/de%3Dmitivpn&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=cdn-mitivpn.global.ssl.fastly.net&%3Btype=ws&%3BallowInsecure=0&%3Bsni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40rez1vpn%20%231
 trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.52.243:443?security=tls&%3BheaderType=none&%3Bfp=chrome&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
 trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.52.243:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%3E%3E%40outline_vpn%3A%3AUS
 trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?allowInsecure=0&sni=45.61.52.243#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
