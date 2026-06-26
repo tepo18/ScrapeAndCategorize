@@ -131,7 +131,6 @@ trojan://1973d939-d6fc-3ead-9a46-fcd771c71dd0@zhuanfabj2.yooo.me:3218?security=t
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.23.229.250:443?security=tls&%3Bsni=rc6.freeguard.org&%3Btype=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2ray_collector%20%231
 trojan://333967de4411e1e833244ba4becc20bf@18.163.100.203:49277?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://333967de4411e1e833244ba4becc20bf@18.163.100.203:49277?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://66d339d0-6844-11f1-ba30-1239d0255272@news.microsoft.com:443?path=/howdy&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=uk1.test3.net&%3Btype=ws&%3BallowInsecure=0&%3Bsni=uk1.test3.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40prrofile_purple%20%232
 trojan://8e107680-6844-11f1-a5dc-1239d0255272@news.microsoft.com:443?path=/howdy&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=uk1.test3.net&%3Btype=ws&%3BallowInsecure=0&%3Bsni=uk1.test3.net#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40prrofile_purple%20%231
 trojan://BxceQaOe@16.162.121.169:22657?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://BxceQaOe@18.166.177.233:22657?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
@@ -141,12 +140,11 @@ trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL%2BFc5K@198.52.244.10:443?security=tls&ins
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL%2BFc5K@198.52.244.10:443?type=tcp&security=tls&headerType=none&sni=198.52.244.10&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Redondo%20Beach%20%7C%20%5BBL%5D
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?allowInsecure=0#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
 trojan://GTCCjtvCtuy03-aV1mwF0OkG2q6yL+Fc5K@207.126.167.162:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-207.126.167.162-0155
-trojan://MiTiVPN@151.101.110.219:443?path=/de&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=cdn2-mitivpn.global.ssl.fastly.net&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
 trojan://MiTiVPN@151.101.56.6:443?path=/de%3Dmitivpn&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=cdn-mitivpn.global.ssl.fastly.net&%3Btype=ws&%3BallowInsecure=0&%3Bsni=global.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40rez1vpn%20%231
 trojan://MiTiVPN@199.232.237.245:443?sni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://Mitivpn@151.101.110.219:443?path=%2Fde%3Dmitivpn&security=tls&alpn=http%2F1.1&insecure=0&host=3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://Mitivpn@151.101.56.6:443?path=%2Fde%3Dmitivpn&security=tls&alpn=h2&insecure=0&host=4-4-3-mitivpn.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=ssl.fastly.com#%3E%3E%40configV2rayNG%3A%3AUS
-trojan://Mitivpn@151.101.56.6:443?path=/de%3Dmitivpn&%3Bsecurity=tls&%3Balpn=h2&%3Binsecure=0&%3Bhost=4-4-3-mitivpn.global.ssl.fastly.net&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40outline_ir%20%232
+trojan://Mitivpn@151.101.56.6:443?path=/de%3Dmitivpn&%3Bsecurity=tls&%3Balpn=h2&%3Binsecure=0&%3Bhost=4-4-3-mitivpn.global.ssl.fastly.net&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=ssl.fastly.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
 trojan://O4O8.Ew%2BujFX6GJBQ%3DxQr.heGwux0GYHqk@45.61.52.243:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#%3E%3E%40outline_vpn%3A%3AUS
 trojan://O4O8.Ew+ujFX6GJBQ%3DxQr.heGwux0GYHqk@207.126.167.150:443/?type=tcp&security=tls#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://O4O8.Ew+ujFX6GJBQ=xQr.heGwux0GYHqk@45.61.52.243:443?allowInsecure=0&sni=45.61.52.243#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20V2CROSS.COM
@@ -173,7 +171,6 @@ trojan://humanity@104.19.208.184:443?allowInsecure=0&sni=www.multiplydose.com&ws
 trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%BA%F0%9F%87%B8%20US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@165.215.250.14:443?path=/assignment&%3Bsecurity=tls&%3Bhost=www.ignitelimit.com&%3Bfp=chrome&%3Btype=ws&%3Bsni=www.ignitelimit.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40v2rayng3%20%231
-trojan://humanity@198.202.211.1:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bhost=www.creationlong.org&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.creationlong.org#%F0%9F%87%BA%F0%9F%87%B8%20US%20%7C%20TROJAN%20%7C%20%40vmesc%20%231
 trojan://humanity@45.130.125.96:443?security=tls&type=ws&sni=www.calmloud.com&path=/assignment&host=www.calmloud.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://humanity@8.6.112.0:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
 trojan://humanity@www.calmloud.com:443?security=tls&sni=www.calmloud.com&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fassignment#%f0%9f%87%ba%f0%9f%87%b8%20US%203
