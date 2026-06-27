@@ -1,0 +1,1 @@
+trojan://MITIVPN@94.140.0.100:443?path=/MiTiVPN%3DUsa&%3Bsecurity=tls&%3Balpn=http/1.1&%3Binsecure=0&%3Bhost=95r.ir&%3Bfp=firefox&%3Btype=ws&%3BallowInsecure=0&%3Bsni=95r.ir#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%7C%20TROJAN%20%7C%20%40outline_ir%20%231
