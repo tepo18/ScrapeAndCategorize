@@ -7,7 +7,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfWTlXczRuUll3Mnk4Q3RHTERNWi1IbUV0alNXLXU0Ng@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwTEdDUG5qMldnenhYMUllZFc4eWQ3dHJ3UmxYcWpMYQ@109.122.251.86:20700#🇮🇷IR%20%20ROSE—80
 ss://YWVzLTI1Ni1nY206NjdjZjEzMWUtMjFkMC1kMjU0LWI0NTYtMzhjZGYzNzNlZGFk@93343878961078676381579883502615.international-ixp.com:11305#🇮🇷IR%20%20ROSE—88
 ss://YWVzLTI1Ni1nY206WWpNeE56UXhZV05sTUdSaE56Y3hOMkprWVdJeE5EVmxZV1ZoTjJKag@37.32.13.159:10127#🇮🇷IR%20%20ROSE—89
-ss://YWVzLTI1Ni1nY206d2MvZXFSUHJZam54ZkFKMkpLbmlvN2NHMktvOUs5RGlNd3pvblJqVTNMST0=@103.130.147.40:1122#%F0%9F%87%AE%F0%9F%87%B7IR-103.130.147.40-0226
 trojan://MITIVPN@151.101.110.219:443?path=%2Fed%3Dmitivpn&security=tls&insecure=1&host=mitivpn-6.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com#%40hi_proxy_iran
 trojan://SoftNetConnect@83.228.226.164:8443?security=reality&pbk=h0Lem3eyDGqkye4yAMuxixCMI2EqD1EKdH9Ky0Xetjg&headerType=none&fp=chrome&spx=/&type=tcp&sni=play.google.com&sid=c7#Tel-@NapsterNetvIrani🍊
 trojan://humanity@104.17.121.43:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#%40hi_proxy_iran
