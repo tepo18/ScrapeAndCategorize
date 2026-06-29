@@ -1,0 +1,2 @@
+trojan://BSs5IAVMQdYuykvDsOYZoa6gNPSGBjAbLL@185.126.236.44:443?security=tls&sni=www.mesaly.click&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%a6%f0%9f%87%b9%20AT%201
+trojan://humanity@212.183.88.136:443?sni=www.calmlunch.com#%F0%9F%87%A6%F0%9F%87%B9AT%E5%A5%A5%E5%9C%B0%E5%88%A9
