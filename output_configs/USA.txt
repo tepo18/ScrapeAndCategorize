@@ -166,7 +166,6 @@ trojan://humanity@165.215.250.14:443?allowInsecure=1&sni=www.ignitelimit.com&ws=
 trojan://humanity@www.creationlong.org:443?security=tls&type=ws&path=/assignment#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14%20202.9KB%2Fs
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-38.54.64.247-0165
-trojan://yp82ebxb01vlzo1b@207.180.29.179:443?security=tls&sni=207.180.29.179.cdn-one.org&type=grpc&serviceName=/12699/gYDyLb9UzS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
 trojan://yp82ebxb01vlzo1b@207.180.29.179:443?type=grpc&security=tls&sni=207.180.29.179.cdn-one.org&fp=chrome&serviceName=%2F12699%2FgYDyLb9UzS#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Wilmington%20%7C%20%5BBL%5D
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392&type=tcp&packetEncoding=xudp&encryption=none#🇺🇸%20United%20States%20-%207
 vless://a4a941bd-fe1f-4e2e-81ad-2244e73da639@95.38.210.6:12241?encryption=none&security=none&type=tcp&headerType=none#%E5%8D%90%20USA%20--USA
