@@ -4,3 +4,4 @@ trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%A
 trojan://SoftNetConnect@37.156.44.215:42549?security=tls#%F0%9F%87%A8%F0%9F%87%ADCH-37.156.44.215-0279
 trojan://SoftNetConnect@83.228.251.119:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=/#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Geneva%20%7C%20%5BBL%5D
 trojan://SoftNetConnect@83.228.251.119:42549?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.speedtest.net#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Geneva%20%7C%20%5BBL%5D
+trojan://SoftNetConnect@83.228.251.119:42549?type=tcp&security=tls&sni=www.speedtest.net&alpn=h2,http/1.1,h3&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Geneva%20%7C%20%5BBL%5D
