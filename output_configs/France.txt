@@ -1,13 +1,15 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1T2FOQkI3ZGxLWEg@155.133.130.93:443#🇫🇷FR%20%20ROSE—109
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@51.38.118.42:811#%F0%9F%87%AB%F0%9F%87%B7FR-51.38.118.42-0031
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYUk9UakNLN0FmcUx1OGRQUCtpYjJWLzBDMEoyYnBSeElEZUlNay9pL0k4PQ==@185.84.158.13:19964?type=tcp#%3E%3E%40V2rayNG3%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#%3E%3E%40oneclickvpnkeys%3A%3AFR
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.138.120:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.138.120-0092
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@15.237.138.120:443#%F0%9F%87%AB%F0%9F%87%B7FR-15.237.138.120-0426
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.181.4.41:443#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.4.41-0091
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@35.181.4.41:443#%F0%9F%87%AB%F0%9F%87%B7FR-35.181.4.41-0427
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMTUuMjM3LjEzOC4xMjA6NDQz#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuMTgxLjQuNDE6NDQz#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 ss://YWVzLTI1Ni1nY206RmpHM0lQYm55KzBaWVU0L3AxdlVMUDg0R2NLcEdvWnBXS0FheTE2VmhJdz0@51.254.128.106:2083#🇫🇷FR%20%20ROSE—195
 trojan://4f4d1167-ef14-4304-9bce-0740472503ef@103.177.136.45:41943?allowInsecure=1&sni=az.01.naiun.bilibili.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.168.129-0106
+trojan://Lw_DP4+W.J5K33MD2Jy5zQVuT5n71+=BcD@38.60.168.129:443?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-38.60.168.129-0123
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40ip_cf%3A%3AFR
@@ -76,5 +78,6 @@ trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2F
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://telegram-id-directvpn@13.36.99.124:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷FR-🚀@VPNine1
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGViXHVkODNjXHVkZGY3W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1GUiIsImFkZCI6IjE5NC42MC45NS43IiwicG9ydCI6IjU5NTI1IiwiaWQiOiI2NmZmNTgxZi05OGQwLTQzY2MtY2VjYi1hNzIzMmY0MTFjNmQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiXC82NmZmNTgxZi05OGQwLTQzY2MtY2VjYi1hNzIzMmY0MTFjNmQiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiI1MS4yNTQuMTQyLjE2MiIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6IjM4OGFkZDIwLTkwZTAtNDBiNy1iODkxLTc0ZWQzYjgxN2Q3MSIsImluc2VjdXJlIjoiMCIsIm5ldCI6ImdycGMiLCJwYXRoIjoiYXBpIiwicG9ydCI6IjIwOTYiLCJwcyI6IkZSIPCfh6vwn4e3IHwgQFJheWRpa2FseCB8IDI1OTIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Imd1biIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJkZTUudGFza2Zsb3dodWIub3JnIiwiYWlkIjoiMCIsImFscG4iOiJoMyxoMixodHRwLzEuMSIsImZwIjoiIiwiaG9zdCI6ImRlNS50YXNrZmxvd2h1Yi5vcmciLCJpZCI6IjAxY2NmYTdhLThkZTctNDUxZC1iZDQxLTE5NTdhY2FiYTE1ZiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9yZWFsdGltZSIsInBvcnQiOiIyMDg3IiwicHMiOiJGUiDwn4er8J+HtyB8IEBSYXlkaWthbHggfCAyNjMwIiwic2N5IjoiYXV0byIsInNuaSI6ImRlNS50YXNrZmxvd2h1Yi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
