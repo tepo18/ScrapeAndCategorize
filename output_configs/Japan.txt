@@ -1,5 +1,6 @@
 ss://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto&security=none&fp=chrome&type=ws&path=/vmess/#🇯🇵%20Japan%20-%204
 ss://9e7e9017-ce08-4f50-cc20-2f9bca478072@109.123.231.39:47443?encryption=auto&security=none&fp=chrome&type=tcp#🇯🇵%20Japan%20-%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA1NC4yNTAuMTY1LjE2MDoyMzc3Pw==#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@3.115.100.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fproxyip%5C%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dss.hhll.qqs.me%3Btls#🇯🇵JP%20%20ROSE—15
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@35.72.81.216:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fproxyip%5C%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dss.hhll.qqs.me%3Btls#🇯🇵JP%20%20ROSE—16
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@47.79.37.210:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fproxyip%5C%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dss.hhll.qqs.me%3Btls#🇯🇵JP%20%20ROSE—54
@@ -20,8 +21,10 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#%F0%9F%87%AF%F0%9
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#🇯🇵JP%20%20ROSE—30
 ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&fp=chrome&type=ws&path=/vless/?ed%3D2048&packetEncoding=xudp&encryption=none#🇯🇵%20Japan%20-%202
 ss://dbf7a6e4-d518-4f9b-a55e-27ef892ffac1@45.32.45.45:14760?encryption=auto&security=none&fp=chrome&type=tcp#🇯🇵%20Japan%20-%201
+trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?allowInsecure=1&sni=gj1.sonofthewinds.com#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?sni=gj1.sonofthewinds.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC7
 trojan://BxceQaOe@18.181.219.39:52904?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@52.195.161.184:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://Mitivpn@185.199.110.106:80?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC11
 trojan://Mitivpn@185.199.110.124:80?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
 trojan://Mitivpn@185.199.110.125:80?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
@@ -32,8 +35,7 @@ trojan://Mitivpn@185.199.110.231:80?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%A
 trojan://Mitivpn@185.199.110.254:80?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4
 trojan://Mitivpn@185.199.110.87:80?#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC9
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?security=tls&sni=103.125.216.11&type=tcp&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?sni=103.125.216.11&peer=103.125.216.11&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?type=tcp&security=tls&headerType=none&sni=103.125.216.11&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443/?type=tcp&security=tls&sni=103.125.216.18#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.18-0150
@@ -42,6 +44,8 @@ trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&path
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls&sni=103.125.216.68#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.68-0152
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
+trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
+trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-4067
 trojan://cbed60798db0624ba9d15418f0d0d9a4@18.163.118.4:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://cbed60798db0624ba9d15418f0d0d9a4@95.40.113.209:37973?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
@@ -61,3 +65,4 @@ vmess://ewogICAgImFkZCI6ICIxNDAuODMuNTEuMTYxIiwKICAgICJhaWQiOiAwLAogICAgImhvc3Qi
 vmess://ewogICAgImFkZCI6ICIxNTIuNjkuMjA2LjIwOSIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZmI5MDgxNjAtOTY5Ny00YmZkLWY1YjctZjFmYmM1M2U2MGZhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDEyMTIsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xNTIuNjkuMjA2LjIwOS0wMDIyIiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 vmess://ewogICAgImFkZCI6ICIxNzIuMTExLjE0Ni42NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTcyLjExMS4xNDYuNjQtMDE5NSIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICAgImFkZCI6ICIxNzIuMTExLjE0Ni42NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDgwLAogICAgInBzIjogIvCfh6/wn4e1SlAtMTcyLjExMS4xNDYuNjQtMDE5OCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vmess://ewogICJ2IjogMiwKICAicHMiOiAi5pel5pys56+A6bueIiwKICAiYWRkIjogIjJhMDI6NmVhMDpkMzJmOjpmOGZlOjM0OWIiLAogICJwb3J0IjogMjQyMDIsCiAgImlkIjogImIyMGE3MDQyLTcwZmYtNDM3Ni1hNzlmLWI2OGY5ZWRiNzUxOSIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAiMmEwMjo2ZWEwOmQzMmY6OmY4ZmU6MzQ5YiIsCiAgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5LW5ld3BhYy9mYW5xaWFuZyIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9

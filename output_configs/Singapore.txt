@@ -12,6 +12,7 @@ ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?security=tls&sni=vless.
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%205
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%206
 trojan://BxceQaOe@16.162.192.195:9149?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://BxceQaOe@18.162.152.114:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://Mitivpn@198.54.216.141:80?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A18
 trojan://Mitivpn@198.54.216.142:80?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A15
 trojan://Mitivpn@198.54.216.155:80?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A17
@@ -21,6 +22,8 @@ trojan://Mitivpn@198.54.216.209:80?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0
 trojan://Mitivpn@198.54.216.216:80?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A16
 trojan://Mitivpn@198.54.216.239:80?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A14
 trojan://Mitivpn@198.54.216.89:80?#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A19
+trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.43.143:29642?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.43.143:29642?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://cbed60798db0624ba9d15418f0d0d9a4@95.40.113.209:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://cbed60798db0624ba9d15418f0d0d9a4@95.40.113.209:6357?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%202
