@@ -1,5 +1,6 @@
 ss://05b8c783-7f59-47f9-9923-06a465679f6a@172.111.146.64:80?encryption=auto&security=none&fp=chrome&type=ws&path=/vmess/#🇯🇵%20Japan%20-%204
 ss://9e7e9017-ce08-4f50-cc20-2f9bca478072@109.123.231.39:47443?encryption=auto&security=none&fp=chrome&type=tcp#🇯🇵%20Japan%20-%203
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3OTJlMGJkYi0wMWRiLTQ1MGMtOTRjNC05MjUxNTFlYjM5NmVAc3MuMDQzLm5vZGUtZm9yLWJpZ2FpcnBvcnQud2luOjE5MDAx#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dkA1NC4yNTAuMTY1LjE2MDoyMzc3Pw==#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@3.115.100.16:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fproxyip%5C%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dss.hhll.qqs.me%3Btls#🇯🇵JP%20%20ROSE—15
 ss://YWVzLTEyOC1nY206ZWViNjgyM2MtYjkyNi00ZWEyLTg2NmEtNTU0MmVkZDI2ZTU5@35.72.81.216:443?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bpath%3D%2Fproxyip%5C%3D104.168.132.123%2C172.104.53.198%2C85.121.50.16%2C151.242.125.226%3Fenc%5C%3Daes-128-gcm%3Bmux%3D0%3Bhost%3Dss.hhll.qqs.me%3Btls#🇯🇵JP%20%20ROSE—16
@@ -17,15 +18,19 @@ ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@103.106.228.175:8009#🇯🇵JP%20%20RO
 ss://a0a866bd-8c0c-464c-9b96-c6dafa154419@5.253.41.223:80?security=none&fp=chrome&type=ws&path=/vless/?ed%3D2048&packetEncoding=xudp&encryption=none#🇯🇵%20Japan%20-%202
 ss://dbf7a6e4-d518-4f9b-a55e-27ef892ffac1@45.32.45.45:14760?encryption=auto&security=none&fp=chrome&type=tcp#🇯🇵%20Japan%20-%201
 trojan://825929f4-c702-35ce-9124-00d3f95b8c32@adak.sonofthewinds.com:34470?allowInsecure=1&sni=gj1.sonofthewinds.com#%E6%97%A5%E6%9C%AC%E7%AF%80%E9%BB%9E%E4%B8%A8yoyapai.com%5Cr
+trojan://BxceQaOe@52.194.214.115:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@52.195.161.184:10624?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=0#🇯🇵JP-🚀@VPNine1
+trojan://PI36027154@large-baboon.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?security=tls&sni=103.125.216.11&type=tcp&allow_insecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.11:443?type=tcp&security=tls&headerType=none&sni=103.125.216.11&fp=chrome&insecure=1&allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443/?type=tcp&security=tls&sni=103.125.216.18#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.18-0111
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.18:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
+trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443/?type=tcp&security=tls&sni=103.125.216.68#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-103.125.216.68-0144
-trojan://T9qoEuuxUEa9Dk3KxnTWrs6J8ilng9sCIf@103.125.216.68:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%28Higashishinagawa%29%20%7C%20%5BBL%5D
 trojan://b8494776252056a1b62e77c4ff6a6d61@16.163.138.198:3743?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
 trojan://b8494776252056a1b62e77c4ff6a6d61@18.162.58.236:5701?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 trojan://c09eb137-bf68-4658-84e0-102d94b74168@150.230.217.213:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-150.230.217.213-0178
