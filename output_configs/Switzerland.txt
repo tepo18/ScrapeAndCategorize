@@ -1,3 +1,4 @@
 ss://YWVzLTEyOC1nY206a2Z1emt3ZGc0b3ludjQ5NWF5d2M@86.106.84.195:13262#🇨🇭CH%20%20ROSE—108
 ss://YWVzLTEyOC1nY206cGhpem8wNDZzNG9xc20zM3Nmdm0@86.106.84.198:13265#🇨🇭CH%20%20ROSE—86
-trojan://SoftNetConnect@83.228.231.132:2087?type=grpc&security=reality&authority=185.204.169.129&sni=www.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=tDzuiaElyFXPtFP25CeCKWW5dsdC4055CnqzYcFyfB8&sid=96a17085678b&spx=/#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%2C%20Geneva%20%7C%20%5BBL%5D
+trojan://7ux2hh3vc3ksuwae@195.15.254.9:59618?type=tcp&security=reality&headerType=none&sni=pt.yahoo.com&fp=chrome&insecure=1&allowInsecure=1&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&sid=019dd851&spx=/CluiDjm9mJhHkKt#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://7ux2hh3vc3ksuwae@195.15.254.9:59618?type=tcp&security=reality&headerType=none&sni=pt.yahoo.com&fp=firefox&insecure=1&allowInsecure=1&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&sid=019dd851&spx=%2FCluiDjm9mJhHkKt#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
