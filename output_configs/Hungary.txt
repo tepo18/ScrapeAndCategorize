@@ -1,1 +1,2 @@
+trojan://Greggg0-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&path=/#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Budapest%20%7C%20%5BBL%5D
 trojan://Greggg0-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&path=%2f#%f0%9f%87%ad%f0%9f%87%ba%20HU%201
