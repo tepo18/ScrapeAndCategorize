@@ -2,7 +2,6 @@ ss://43613c34-ea2c-4a8e-9189-7c84c1668990@195.238.240.67:895?security=tls&sni=sp
 ss://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?type=tcp&encryption=none&security=reality&pbk=arLM5x4jH1TT05yUjirGNCSDK9pSscqHQWg3rqdKA3Y&fp=firefox&sni=bitcommand.com&sid=b1459712&spx=%2F#%E2%99%A5%20IRAN%20(ZANBOR)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#🇮🇷IR%20%20ROSE—94
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eE53NWRpWllOM3NycTh1Q2ZtUVI5OHZZYzM5ZWN0NA@xiaomandapple4certificate.ikco.ir.soserverbot.shop:15152#🇮🇷IR-🚀@VPNine1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6SDVWd0t1WnVhYnI4WjMwcGF0cTEvVjhET3JJeC9iSHNzV0FtazFKNTFjPQ==@n4.cover20.ir:19964#%F0%9F%87%AE%F0%9F%87%B7IR-185.84.158.13-0129
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFZ29ScWpsV2puOEI3UXFkclpEWDVQYzQ5ZnYwSmwvcks2NTByaW9MNThZPQ==@n2.cover20.ir:13641?type=tcp#🇮🇷IR-🚀@VPNine1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpfWTlXczRuUll3Mnk4Q3RHTERNWi1IbUV0alNXLXU0Ng@vip8.myspacex.shop:8080#🇮🇷IR%20%20ROSE—65
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplbVVxQUxDVkM4THY0VEdpR0JaYmRZQnNXeUtQSTF6VWpraDhzMlNHcU5nPQ==@e3.cover20.ir:56985#🇮🇷IR-🚀@VPNine1
