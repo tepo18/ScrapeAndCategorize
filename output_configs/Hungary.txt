@@ -1,1 +1,1 @@
-trojan://Hubgarfree2-vpnjantit.com@hu2.vpnjantit.com:4443?sni=hu2.vpnjantit.com&peer=hu2.vpnjantit.com&security=tls#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Budapest%20%7C%20%5BBL%5D
+trojan://Hubgarfree2-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&headerType=none&fp=android&allowinsecure=0&type=tcp&sni=hu2.vpnjantit.com#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%2C%20Budapest%20%7C%20%5BBL%5D
