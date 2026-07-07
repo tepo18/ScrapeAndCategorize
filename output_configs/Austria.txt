@@ -1,1 +1,0 @@
-trojan://4772qEcBPa_NwwwFeTV-mrn6bbQEMAKs@uk4.vpn.partners:443?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=vlgrpc#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
