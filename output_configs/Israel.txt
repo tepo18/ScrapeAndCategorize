@@ -1,0 +1,1 @@
+trojan://F42UEtSEue3xZeeomz/BnvE8zoS4RiuHzNHD+q1MWjg=@64.177.65.95:17813?path=/&security=tls&alpn=h2,http/1.1&insecure=0&host=64.177.65.95&fp=chrome&type=httpupgrade&allowInsecure=0&sni=64.177.65.95#🇮🇱IL-🚀@VPNine1
