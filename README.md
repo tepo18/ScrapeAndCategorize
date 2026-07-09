@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-07-09 23:32:05 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-07-09 23:49:43 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -11,12 +11,12 @@
 | پروتکل | تعداد کل | لینک |
 |---|---|---|
 | Hysteria2 | 26 | [`Hysteria2.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 5101 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 4990 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 1 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
-| Trojan | 798 | [`Trojan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
+| Trojan | 788 | [`Trojan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
 | Tuic | 1 | [`Tuic.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Tuic.txt) |
-| Vless | 2243 | [`Vless.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
-| Vmess | 728 | [`Vmess.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
+| Vless | 2160 | [`Vless.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
+| Vmess | 711 | [`Vmess.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
 
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
