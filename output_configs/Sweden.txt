@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@89.22.234.121:443#🇸🇪SE
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@37.19.222.213:443#🇸🇪SE
 trojan://---------BanV2ray--------@84.234.30.16:26653?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=chrome&spx=/vx5yLH3y04CSOlq&type=grpc&serviceName=/Loginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://---------BanV2ray--------@84.234.30.16:26653?mode=gun&security=reality&pbk=26JUgSVfmjMJCWNELoFDVo5E9Ks6u7WWfdXFGVLLwVk&fp=firefox&spx=%2Fvx5yLH3y04CSOlq&type=grpc&serviceName=%2FLoginmassaageeeee&sni=chi.yahoo.com&sid=f8f4a6a4654b70a0#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://Mitivpn@146.75.116.190:80?allowInsecure=1#%E7%91%9E%E5%85%B8%E4%B8%A8yoyapai.com%5Cr
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6og55Ge5YW4KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLCJhZGQiOiIyMTcuMTQyLjEzOC42MSIsInBvcnQiOiI4MCIsInR5cGUiOiJodHRwIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
