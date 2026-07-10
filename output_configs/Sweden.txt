@@ -1,2 +1,1 @@
 trojan://Mitivpn@146.75.116.190:80?allowInsecure=1#%E7%91%9E%E5%85%B8%E4%B8%A8yoyapai.com%5Cr
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6og55Ge5YW4KG1pYmVpNzcuY29tIOexs+i0neiKgueCueWIhuS6qykiLCJhZGQiOiIyMTcuMTQyLjEzOC42MSIsInBvcnQiOiI4MCIsInR5cGUiOiJodHRwIiwiaWQiOiJhYzFiOTMzZC1hZmZmLTQ0ODctOTNlZi1mNTcxMzBhNTVkZmYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
