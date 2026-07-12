@@ -1,1 +1,2 @@
+trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@trojan-tcp-tls-test.hysteria.ltd:9443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-77.83.198.3-0190
 trojan://CFvS99VcEv82u3XFr36EPbumLPadKXT6@trojan-tcp-tls-test.hysteria.ltd:9443?security=tls#%F0%9F%87%AA%F0%9F%87%AAEE-77.83.198.3-0587
