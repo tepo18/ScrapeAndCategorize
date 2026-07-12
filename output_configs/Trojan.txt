@@ -38,7 +38,7 @@ trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pb
 trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pbk=au0aQ5QVdLNbzMShbL9Anhi5hOPXMNJVBhbkuFP7Sk0&host=%2F%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%40V2WRAY-%3Fed%3D2560&headerType=none&fp=random&type=tcp&sni=apple.com&sid=aabbccdd#%F0%9F%87%AB%F0%9F%87%B7V2WRAY%F0%93%84%82%F0%93%86%83
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449/?type=tcp&security=tls&sni=grape-ataturk-tr.yyuyy.com&fp=chrome#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#Server
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=grape-ataturk-tr.yyuyy.com#🇹🇷[openproxylist.com]
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&headerType=none&type=tcp&sni=grape-ataturk-tr.yyuyy.com#🇹🇷[openproxylist.com]
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#%40hi_proxy_iran
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&sni=grape-ataturk-tr.yyuyy.com#%F0%9F%87%B9%F0%9F%87%B7TR-78.135.73.38-0194
@@ -277,7 +277,7 @@ trojan://XG59623478@renewed-chigger.rooster465.autos:443?allowInsecure=1#hamedp7
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0092
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-193.169.239.76-0094
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#🇳🇱[openproxylist.com]
+trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls#🇳🇱[openproxylist.com]
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%201
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://XG59623478@singular-lark.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
@@ -671,8 +671,8 @@ trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443?type=raw&headerType
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&headerType=none&type=tcp#🇳🇱#ShineNET%20VPN
 trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#%F0%9F%87%BA%F0%9F%87%B8US-149.28.241.235-0097
 trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#🇺🇸[openproxylist.com]
 trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?type=raw&headerType=none&security=tls&sni=149.28.241.235#[🇺🇸]
+trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@45.32.195.168:443?fp=chrome&security=tls&sni=45.32.195.168&type=tcp#🇺🇸[openproxylist.com]
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?type=tcp&security=tls&sni=37.235.49.118#@v2rayconfigamir
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayconfigamir
 trojan://pUF
