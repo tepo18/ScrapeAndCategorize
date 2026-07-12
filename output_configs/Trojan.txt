@@ -40,8 +40,8 @@ trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?allowInsecure=0&sni=grape-a
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&sni=grape-ataturk-tr.yyuyy.com#%F0%9F%9F%A285@v2ray_configs_pools
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?fp=chrome&sni=grape-ataturk-tr.yyuyy.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&headerType=none&type=tcp&sni=grape-ataturk-tr.yyuyy.com#🇹🇷[openproxylist.com]
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=grape-ataturk-tr.yyuyy.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=grape-ataturk-tr.yyuyy.com#🇹🇷[openproxylist.com]
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#%40hi_proxy_iran
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&sni=grape-ataturk-tr.yyuyy.com#%F0%9F%87%B9%F0%9F%87%B7TR-78.135.73.38-0215
@@ -142,6 +142,7 @@ trojan://MITIVPN@162.159.38.62:443?insecure=0&sni=Win-use-Cv-o.Maqror.ir&path=/-
 trojan://MITIVPN@162.159.38.62:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&security=tls&alpn=http%2F1.1&insecure=0&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-use-Cv-o.Maqror.ir#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://MITIVPN@162.159.38.62:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&security=tls&alpn=http%2F1.1&insecure=0&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-use-Cv-o.Maqror.ir#%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84%F0%9F%8C%BA
 trojan://MITIVPN@162.159.38.62:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s-W&security=tls&alpn=http%2F1.1&insecure=0&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&fp=chrome&type=ws&allowInsecure=0&sni=Win-use-Cv-o.Maqror.ir#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://MITIVPN@162.159.38.62:443?security=tls&sni=Win-use-Cv-o.Maqror.ir&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=bvck-oizksj-sWin-usje-C-o.Maqror.ir&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-s-W#🇨🇦[openproxylist.com]
 trojan://MITIVPN@162.159.8.101:443?path=&security=tls&alpn=http/1.1&insecure=0&host=my-usa-ol.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=UsAa-bUs.App-Cloud.ir#@vmesskhodam
 trojan://MITIVPN@170.114.45.6:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&security=tls&alpn=http%2F1.1&insecure=0&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=0&sni=UsAa-bUs.MaQRor.Ir#%3E%3E%40configV2rayNG%3A%3AUS
 trojan://MITIVPN@170.114.45.6:443?type=ws&security=tls&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&host=my-usa-ol.MaQRor.Ir&sni=UsAa-bUs.MaQRor.Ir&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#govid_free_confing%20%7C%204%EF%B8%8F%E2%83%A3`
@@ -258,6 +259,7 @@ trojan://PI36027154@tight-possum.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3
 trojan://PI36027154@tight-possum.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#%F0%9F%87%A6%F0%9F%87%BAAU-87.121.33.208-0181
 trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
+trojan://PI36027154@tight-possum.rooster465.autos:443?security=tls#🇦🇺[openproxylist.com]
 trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#%F0%9F%8E%8D48@v2ray_configs_pools
 trojan://PI36027154@upright-hamster.rooster465.autos:443?allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B1
@@ -727,8 +729,8 @@ trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=
 trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#%F0%9F%87%BA%F0%9F%87%B8US-149.28.241.235-0097
 trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#%F0%9F%87%BA%F0%9F%87%B8US-149.28.241.235-0146
 trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?security=tls&sni=149.28.241.235#🇺🇸[openproxylist.com]
 trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@149.28.241.235:443?type=raw&headerType=none&security=tls&sni=149.28.241.235#[🇺🇸]
+trojan://lcGo9bOwOB8yC7oAAI.TC=rBFs6PfVgCeF@45.32.195.168:443?security=tls&sni=45.32.195.168#🇺🇸[openproxylist.com]
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443/?type=tcp&security=tls&sni=37.235.49.118#@v2rayconfigamir
 trojan://p=Xuu4jK_lJ9rOKw5+7BsW798DZ-01cv4S@37.235.49.118:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#@v2rayconfigamir
 trojan://pUF
