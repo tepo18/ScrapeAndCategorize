@@ -10,6 +10,7 @@ ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?security=tls&sni=vless.
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%205
 ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%206
 trojan://BxceQaOe@18.166.58.225:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
+trojan://BxceQaOe@95.40.110.2:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://CF68213490@logical-koala.rooster465.autos:443?allowInsecure=0&sni=logical-koala.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://CF68213490@logical-koala.rooster465.autos:443?security=tls&sni=logical-koala.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-13.250.16.181-3054
 trojan://CF68213490@saved-tuna.rooster465.autos:443?allowInsecure=0&sni=saved-tuna.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
@@ -18,6 +19,8 @@ trojan://CF68213490@sharp-scorpion.rooster465.autos:443?allowInsecure=0&sni=shar
 trojan://CF68213490@sharp-scorpion.rooster465.autos:443?security=tls&sni=sharp-scorpion.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-18.136.143.231-3057
 trojan://b490740312aedb5f9f6b84c7aebd08c0@16.163.41.104:6357?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.121.106:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.123.154:6357?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
+trojan://b490740312aedb5f9f6b84c7aebd08c0@18.163.123.154:6357?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%202
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%204
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%203
