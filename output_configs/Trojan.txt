@@ -186,7 +186,6 @@ trojan://CF68213490@aware-puma.rooster465.autos:443?security=tls&sni=aware-puma.
 trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3AKR
 trojan://CF68213490@aware-puma.rooster465.autos:443?sni=aware-puma.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://CF68213490@balanced-puma.rooster465.autos:443?allowInsecure=1&sni=balanced-puma.rooster465.autos#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://CF68213490@balanced-puma.rooster465.autos:443?allowInsecure=1&sni=balanced-puma.rooster465.autos#🇺🇸[openproxylist.com]
 trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls&sni=brief-warthog.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-47.129.229.87-0389
 trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls&sni=brief-warthog.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls&sni=brief-warthog.rooster465.autos#🇸🇬[openproxylist.com]
@@ -524,6 +523,7 @@ trojan://CF68213490@sacred-shepherd.rooster465.autos:443?sni=sacred-shepherd.roo
 trojan://CF68213490@sacred-shepherd.rooster465.autos:443?sni=sacred-shepherd.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://CF68213490@sacred-treefrog.rooster465.autos:443?security=tls&sni=sacred-treefrog.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-52.221.218.103-0493
 trojan://CF68213490@sacred-treefrog.rooster465.autos:443?security=tls&sni=sacred-treefrog.rooster465.autos#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+trojan://CF68213490@sacred-treefrog.rooster465.autos:443?security=tls&sni=sacred-treefrog.rooster465.autos#🇸🇬[openproxylist.com]
 trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
 trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://CF68213490@sacred-treefrog.rooster465.autos:443?sni=sacred-treefrog.rooster465.autos&type=tcp&fp=chrome#🔥Join+Telegram:@Farah_VPN🟣
@@ -794,7 +794,6 @@ trojan://OD90375861@fit-calf.rooster465.autos:443?allowInsecure=0&sni=fit-calf.r
 trojan://OD90375861@fit-calf.rooster465.autos:443?allowInsecure=0&sni=fit-calf.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://OD90375861@fit-calf.rooster465.autos:443?allowInsecure=0&sni=fit-calf.rooster465.autos#🇮🇪111793
 trojan://OD90375861@nearby-muskrat.rooster465.autos:443?allowInsecure=1&sni=nearby-muskrat.rooster465.autos#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
-trojan://OD90375861@nearby-muskrat.rooster465.autos:443?allowInsecure=1&sni=nearby-muskrat.rooster465.autos#🇺🇸[openproxylist.com]
 trojan://OD90375861@soskeynets-hermit.rooster465.autos:443?allowInsecure=0&sni=busy-hermit.rooster465.autos#🇩🇪111792
 trojan://OD90375861@soskeynets-tick.rooster465.autos:443?allowInsecure=0&sni=wired-tick.rooster465.autos#🇮🇪111794
 trojan://OD90375861@together-insect.rooster465.autos:443?security=tls&sni=together-insect.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-63.180.59.60-3106
