@@ -4,7 +4,5 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXU3lMNFhUd05zZHY@108.181.121.226:8388#🇪�
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxSXRHOFN1ZVlRY1A@140.174.184.5:8388#🇪🇸ES
 ss://YWVzLTI1Ni1jZmI6R0E5S3plRWd2ZnhOcmdtTQ==@5.188.181.201:9019#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5781
 ss://YWVzLTI1Ni1jZmI6WFB0ekE5c0N1ZzNTUFI0Yw==@5.188.181.201:9025#%F0%9F%87%AA%F0%9F%87%B8ES-5.188.181.201-5782
-trojan://humanity@185.18.250.245:443?allowInsecure=1&sni=www.calmlunch.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AA%F0%9F%87%B8%20%E8%A5%BF%E7%8F%AD%E7%89%99%20V2CROSS.COM
 trojan://trojan@109.234.211.66:8443?security=tls&sni=store.timimi.dpdns.org&fp=chrome&type=ws&path=/&host=store.timimi.dpdns.org#🇪🇸%20Spain%20-%201
 vless://2456f90c-5183-476d-b069-16ae74ce120f@185.251.81.253:2096?security=tls&sni=fast01.0860852.xyz&allowInsecure=1&fp=chrome&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&host=fast01.0860852.xyz&packetEncoding=xudp&encryption=none#🇪🇸%20Spain%20-%202
-vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGVhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1FUyIsImFkZCI6ImZhbWlseS5idWNrZXQueDkua2ZjLTUyMC5jb20iLCJwb3J0IjoiMTAwNDciLCJ0eXBlIjoibm9uZSIsImlkIjoiMWRjNzM1MjktZjAzMC0zYWM1LWFkNjQtZjc2NjZiOWE1MWJjIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiJcLyIsImhvc3QiOiJmYW1pbHkuYnVja2V0Lng5LmtmYy01MjAuY29tIiwidGxzIjoiIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
