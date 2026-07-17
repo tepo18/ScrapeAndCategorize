@@ -1037,7 +1037,6 @@ trojan://NQ26071394@worthy-labrador.rooster465.autos:443?allowInsecure=1&sni=wor
 trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
 trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%A6%F0%9F%87%BA
 trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#🇦🇺112876
-trojan://OD90375861@big-bonefish.rooster465.autos:443?allowInsecure=1&sni=big-bonefish.rooster465.autos#🇦🇺[openproxylist.com]
 trojan://OD90375861@busy-hermit.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://OD90375861@busy-hermit.rooster465.autos:443#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://OD90375861@busy-hermit.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%203
