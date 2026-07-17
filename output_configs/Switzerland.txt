@@ -1,3 +1,2 @@
-trojan://-------BanV2ray------@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:53159?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2f&type=grpc&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%204
-trojan://------BanV2ray-----@bnbnbbnbnbnbnbnbnbnbnbnbnvn.poki-pakipon.ir:19442?security=reality&sni=chi.yahoo.com&fp=chrome&pbk=bJrhMKdMfPjEZ-EUazGR6h-uUDWAFxXG1MZlUVsd3Ak&spx=%2f&type=grpc&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%205
-trojan://7f5rouvmiqm83905@188.213.131.90:59618?security=reality&sni=google.com&fp=chrome&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&sid=e3916e0f2c8b438b&spx=%2f&type=tcp&headerType=none&path=%2f#%f0%9f%87%a8%f0%9f%87%ad%20CH%201
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@146.70.26.156:1080#%3E%3E%40oneclickvpnkeys%3A%3ACH
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@195.242.213.238:1080#%3E%3E%40oneclickvpnkeys%3A%3ACH
