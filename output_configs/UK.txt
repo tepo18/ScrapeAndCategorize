@@ -45,3 +45,4 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#54.%F0%9F%
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0077
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-5970
 vless://12345678-1234-1234-1234-123456789123@77.75.199.61:2096?security=tls&sni=vless.hubp.de&allowInsecure=1&fp=chrome&type=ws&path=/snippets&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇬🇧%20United%20Kingdom%20-%2035
+vmess://eyJ2IjoiMiIsImFkZCI6Imd0bTEua3Rtd2FuLm5ldCIsInBvcnQiOiIxMjg4NiIsImlkIjoiNDk0MWFhOGQtMDdkMi00MDhjLWJlMmMtMTE3ZGViZWNiYTMwIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiYmFpZHUuY29tIiwicGF0aCI6Ii8iLCJ0bHMiOiIiLCJwcyI6IvCfh6zwn4enIFVuaXRlZCBLaW5nZG9tLCBMb25kb24gKENpdHkgb2YgTG9uZG9uKSB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
