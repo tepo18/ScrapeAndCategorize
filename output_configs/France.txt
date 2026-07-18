@@ -1,3 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@156.146.40.84:1080#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@163.172.244.41:1080#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.25.36:1080#%3E%3E%40oneclickvpnkeys%3A%3AFR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.25.44:1080#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -80,6 +81,7 @@ trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassi
 trojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.gossipglove.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@www.ignitelimit.com:443?allowInsecure=1&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://rYuChHcwQZskq9E0zdoR@ip4.vpean2.qzz.io:443?allowInsecure=0&sni=vpn5.rnmcnm.com&ws=1&wspath=%2Fws-79dffb8106db#%F0%9F%87%AB%F0%9F%87%B7%20FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vmess://eyJ2IjoiMiIsInBzIjoiRlIg8J+Hq/Cfh7cgfCBAUmF5ZGlrYWx4IHwgMzg2OCIsImFkZCI6IjRjZG4ubmprcnBsLmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiYTA0NDliMzMtZDdmNi00MmE1LThiZGMtM2I1ZTcyN2VjOWY4IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJob3N0IjoiNGNkbi5uamtycGwuY29tIiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiRlIg8J+Hq/Cfh7cgfCBAUmF5ZGlrYWx4IHwgNDA3NCIsImFkZCI6IjhjZG4ubmprcnBsLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6ImEwNDQ5YjMzLWQ3ZjYtNDJhNS04YmRjLTNiNWU3MjdlYzlmOCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoiOGNkbi5uamtycGwuY29tIiwicGF0aCI6Ii8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiIyY2RuLm5qa3JwbC5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTA0NDliMzMtZDdmNi00MmE1LThiZGMtM2I1ZTcyN2VjOWY4IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiPj5AbWVocm9zYWJvcmFuOjpGUiIsInNjeSI6ImF1dG8iLCJzbmkiOiIyY2RuLm5qa3JwbC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
