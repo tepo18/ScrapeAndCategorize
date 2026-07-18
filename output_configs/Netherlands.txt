@@ -175,7 +175,6 @@ trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls&sni=game-fire
 trojan://KV63147582@game-firefly.rooster465.autos:443?security=tls&sni=game-firefly.rooster465.autos&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%202
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?security=tls&sni=grateful-bedbug.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.85-0505
 trojan://NQ26071394@grateful-bedbug.rooster465.autos:443?sni=grateful-bedbug.rooster465.autos&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%205
-trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?allowInsecure=1&sni=renewed-phoenix.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 trojan://NQ26071394@renewed-phoenix.rooster465.autos:443?sni=renewed-phoenix.rooster465.autos&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%201
 trojan://NQ26071394@thorough-falcon.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://NQ26071394@thorough-falcon.rooster465.autos:443?sni=thorough-falcon.rooster465.autos&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%204
