@@ -35,3 +35,5 @@ trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&typ
 trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0242
 trojan://XG59623478@singular-lark.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2026
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=www.vk.com&allowInsecure=1&type=tcp&headerType=none&fp=edge#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%2C%20Dublin%20%7C%20%5BBL%5D
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452?security=tls&sni=www.vk.com&allowInsecure=1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%AE%F0%9F%87%AA%20Ireland%2C%20Dublin%20%7C%20%5BBL%5D
