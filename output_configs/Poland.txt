@@ -65,7 +65,6 @@ trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=w
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
-trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=qq#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@81.255.155.10:443?security=tls&sni=www.creationlong.org&type=ws&path=%2Fassignment&fp=random#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 trojan://humanity@www.creationlong.org:443?fp=chrome&path=%2Fassignment&type=ws#%3E%3E%40oneclickvpnkeys%3A%3APL

@@ -1,3 +1,5 @@
+trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&fp=edge#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%2C%20Manila%20%7C%20%5BBL%5D
+trojan://3632736327@47.80.107.173:2398?security=tls&sni=flb06181447.tmdsb.org&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%2C%20Manila%20%7C%20%5BBL%5D
 trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=firefox#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%2C%20Manila%20%7C%20%5BBL%5D
 trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=flb06181447.tmdsb.org&fp=qq#%F0%9F%87%B5%F0%9F%87%AD%20Philippines%2C%20Manila%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Xwn4etIFBILTgiLCJhZGQiOiI2MS4yNDUuMTEuNjAiLCJwb3J0Ijo4MCwiaWQiOiJhM2UzYTcxMC03OWY4LTRhZTAtYjgzYy02MDdhYWI0MGQxOTciLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
