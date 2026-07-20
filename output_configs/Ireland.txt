@@ -6,15 +6,19 @@ trojan://NQ26071394@34.242.69.173:443?security=tls&sni=fun-labrador.rooster465.a
 trojan://NQ26071394@34.249.41.208:443?sni=correct-starfish.rooster465.autos&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%205
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.249.41.208-0128
+trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.249.41.208-0147
 trojan://NQ26071394@correct-starfish.rooster465.autos:443?security=tls&sni=correct-starfish.rooster465.autos&fp=chrome&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ae%f0%9f%87%aa%20IE%202
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.69.173-0133
+trojan://NQ26071394@fun-labrador.rooster465.autos:443?security=tls&sni=fun-labrador.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.69.173-0185
 trojan://NQ26071394@fun-labrador.rooster465.autos:443?sni=fun-labrador.rooster465.autos&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2011
 trojan://NQ26071394@funky-opossum.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-108.131.117.154-0129
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?security=tls&sni=funky-opossum.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-108.131.117.154-0144
 trojan://NQ26071394@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster465.autos&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2019
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.255.100.31-0125
+trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&sni=thankful-piranha.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.255.100.31-0133
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%201
 trojan://NQ26071394@tops-marlin.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://NQ26071394@tops-marlin.rooster465.autos:443?sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2012
@@ -23,6 +27,7 @@ trojan://OD90375861@52.212.156.233:443?sni=wired-tick.rooster465.autos&fp=chrome
 trojan://OD90375861@fit-calf.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://OD90375861@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2025
 trojan://OD90375861@wired-tick.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
+trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-52.212.156.233-0131
 trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-52.212.156.233-0140
 trojan://OD90375861@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2022
 trojan://PD07395842@above-rabbit.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AIE
@@ -33,5 +38,6 @@ trojan://PD07395842@endless-crappie.rooster465.autos:443?sni=endless-crappie.roo
 trojan://PD07395842@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%207
 trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#%3E%3E%40outline_vpn%3A%3AIE
 trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0220
+trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0242
 trojan://XG59623478@singular-lark.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://XG59623478@singular-lark.rooster465.autos:443?security=tls&type=tcp&headerType=none&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2026

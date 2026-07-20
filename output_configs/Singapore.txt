@@ -38,17 +38,13 @@ trojan://CF68213490@summary-lemming.rooster465.autos:443?sni=summary-lemming.roo
 trojan://CF68213490@tight-gator.rooster465.autos:443?sni=tight-gator.rooster465.autos&type=tcp&fp=chrome#%3E%3E%40ShadowsocksM%3A%3ASG
 trojan://HW85960347@exciting-cattle.rooster465.autos:443?allowInsecure=0&sni=exciting-cattle.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://HW85960347@informed-alpaca.rooster465.autos:443?allowInsecure=1&sni=informed-alpaca.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
-trojan://HW85960347@lucky-urchin.rooster465.autos:443?allowInsecure=0&sni=lucky-urchin.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://HW85960347@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://HW85960347@optimum-tuna.rooster465.autos:443?allowInsecure=1&sni=optimum-tuna.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
-trojan://HW85960347@renewed-porpoise.rooster465.autos:443?allowInsecure=0&sni=renewed-porpoise.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://HW85960347@social-cod.rooster465.autos:443?allowInsecure=0&sni=social-cod.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://JA96378052@52.74.76.236:443?allowInsecure=1&sni=WangCai.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://JA96378052@curious-ocelot.rooster465.autos:443?allowInsecure=0&sni=curious-ocelot.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://JA96378052@dominant-jaguar.rooster465.autos:443?allowInsecure=1&sni=dominant-jaguar.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://JA96378052@moral-cow.rooster465.autos:443?allowInsecure=1&sni=moral-cow.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://JA96378052@normal-cow.rooster465.autos:443?allowInsecure=0&sni=normal-cow.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
-trojan://JA96378052@precious-stag.rooster465.autos:443?allowInsecure=0&sni=precious-stag.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20SG%E6%96%B0%E5%8A%A0%E5%9D%A1%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://JA96378052@sharing-filly.rooster465.autos:443?allowInsecure=1&sni=sharing-filly.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://JA96378052@trusting-moccasin.rooster465.autos:443?allowInsecure=1&sni=trusting-moccasin.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
 trojan://NQ26071394@able-dane.rooster465.autos:443?allowInsecure=0&sni=able-dane.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
