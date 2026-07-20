@@ -1,1 +1,6 @@
-trojan://NQ26071394@chief-antelope.rooster465.autos:443?sni=chief-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%201
+trojan://KV63147582@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%204
+trojan://NQ26071394@chief-antelope.rooster465.autos:443?sni=chief-antelope.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%206
+trojan://NQ26071394@wanted-marmoset.rooster465.autos:443?sni=wanted-marmoset.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%205
+trojan://OD90375861@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%202
+trojan://PD07395842@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%203
+trojan://PD07395842@selected-bison.rooster465.autos:443?sni=selected-bison.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b1%f0%9f%87%ba%20LU%201

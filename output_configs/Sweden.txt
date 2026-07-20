@@ -1,3 +1,0 @@
-trojan://C0ldgdugd-vpnjantit.com@se1.vpnjantit.com:4443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=se1.vpnjantit.com&fp=android#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
-trojan://C0ldgdugd-vpnjantit.com@se1.vpnjantit.com:4443?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=se1.vpnjantit.com&fp=safari#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%2C%20Stockholm%20%7C%20%5BBL%5D
-trojan://Mitivpn@146.75.116.190:80?#%F0%9F%87%B8%F0%9F%87%AASE%E7%91%9E%E5%85%B8

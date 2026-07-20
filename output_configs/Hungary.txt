@@ -1,1 +1,0 @@
-trojan://C0ldyfh-vpnjantit.com@46.29.142.57:4443?security=tls&sni=hu2.vpnjantit.com&fp=safari&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ad%f0%9f%87%ba%20HU%203
