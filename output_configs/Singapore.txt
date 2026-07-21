@@ -22,6 +22,10 @@ trojan://IQ68037294@pleased-sawfly.rooster465.autos:443?security=tls&sni=pleased
 trojan://IQ68037294@prepared-turkey.rooster465.autos:443?security=tls&sni=prepared-turkey.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG-81.28.13.9-3149
 trojan://IQ68037294@sterling-vervet.rooster465.autos:443#🇸🇬SG-🚀@VPNine1
 trojan://IQ68037294@still-mastodon.rooster465.autos:443?allowInsecure=1&sni=still-mastodon.rooster465.autos#%3E%3E%40v2nodes%3A%3ASG
+trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=android#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://OccIqeORGQwiNkwS@jpbgp.netvigor.cc:19128?security=tls&sni=yazhou10.dynu.net&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=ios#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://adc75aab1739bce97770234a2c4758dc@114.29.239.124:56329?security=tls&sni=singapore-1.edge.artfilters-ai.com&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=firefox#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D
+trojan://adc75aab1739bce97770234a2c4758dc@114.29.239.124:56329?security=tls&sni=singapore-1.edge.artfilters-ai.com&insecure=0&allowInsecure=0&type=tcp&headerType=none&fp=safari#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%2C%20Singapore%20%28Queenstown%20Estate%29%20%7C%20%5BBL%5D
 trojan://adc75aab1739bce97770234a2c4758dc@114.29.239.124:56329?security=tls&sni=singapore-1.edge.artfilters-ai.com&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%b8%f0%9f%87%ac%20SG%205
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.155.166:48738?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://b490740312aedb5f9f6b84c7aebd08c0@18.162.245.180:6357?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
