@@ -23,7 +23,6 @@ trojan://IQ68037294@humane-bird.rooster465.autos:443?security=tls#%F0%9F%87%AB%F
 trojan://NQ26071394@13.38.35.46:443?sni=lucky-marmot.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%209
 trojan://NQ26071394@15.237.250.154:443?security=tls&sni=chief-cricket.rooster465.autos&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2010
 trojan://NQ26071394@35.181.65.111:443?sni=ready-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%204
-trojan://NQ26071394@chief-cricket.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://NQ26071394@chief-cricket.rooster465.autos:443?sni=chief-cricket.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%205
 trojan://NQ26071394@lucky-marmot.rooster465.autos:443?sni=lucky-marmot.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%202
 trojan://NQ26071394@ready-kangaroo.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AFR
