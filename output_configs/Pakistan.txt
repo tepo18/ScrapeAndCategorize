@@ -1,6 +1,0 @@
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&security=tls&sni=149.104.104.58#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2C%20Karachi%20%7C%20%5BBL%5D
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443/?type=tcp&security=tls&sni=149.104.104.58&fp=android#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2C%20Karachi%20%7C%20%5BBL%5D
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?fp=chrome&security=tls&sni=149.104.104.58&type=tcp#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2C%20Karachi%20%7C%20%5BBL%5D
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2C%20Karachi%20%7C%20%5BBL%5D
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&fp=chrome#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2C%20Karachi%20%7C%20%5BBL%5D
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&fp=ios#%F0%9F%87%B5%F0%9F%87%B0%20Pakistan%2C%20Karachi%20%7C%20%5BBL%5D
