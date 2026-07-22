@@ -1,0 +1,5 @@
+trojan://IQ68037294@premium-weevil.rooster465.autos:443?security=tls&sni=premium-weevil.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%202
+trojan://IQ68037294@robust-toucan.rooster465.autos:443?security=tls&sni=robust-toucan.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%201
+trojan://IQ68037294@select-marmoset.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%207
+trojan://IQ68037294@steady-lemming.rooster465.autos:443?sni=steady-lemming.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%206
+trojan://IQ68037294@whole-perch.rooster465.autos:443?sni=whole-perch.rooster465.autos&path=%2f#%f0%9f%87%a9%f0%9f%87%b0%20DK%203
