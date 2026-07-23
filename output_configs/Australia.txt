@@ -35,6 +35,5 @@ trojan://XG59623478@concise-buck.rooster465.autos:443?security=tls&sni=concise-b
 trojan://XG59623478@concise-buck.rooster465.autos:443?sni=concise-buck.rooster465.autos&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%2012
 trojan://XG59623478@stirring-dane.rooster465.autos:443?allowInsecure=1&sni=stirring-dane.rooster465.autos#%3E%3E%40v2nodes%3A%3AAU
 trojan://XG59623478@stirring-dane.rooster465.autos:443?sni=stirring-dane.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%2021
-trojan://rYuChHcwQZskq9E0zdoR@2.56.204.246:443?security=tls&sni=vpn5.rnmcnm.com&allowInsecure=1&type=ws&host=vpn5.rnmcnm.com&path=%2Fws-79dffb8106db#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Huntingwood%20%7C%20%5BBL%5D
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&allowInsecure=1&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%201
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@160.187.111.222:443?security=reality&sni=images-na.ssl-images-amazon.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&packetEncoding=xudp&encryption=none#🇦🇺%20Australia%20-%202

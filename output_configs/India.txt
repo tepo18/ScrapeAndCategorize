@@ -9,8 +9,12 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%F0%9F%87%AE%F0%9F%87%B3%20%E5%8D%B0%E5%BA%A6%20V2CROSS.COM
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXT2lyM2xYQmhNSERjTEZQUWRFWlhQdTM3X3BUUURDWGZt@103.111.114.82:28061#%F0%9F%87%AE%F0%9F%87%B3IN-103.111.114.82-0261
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳IN
-trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&type=tcp#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&type=tcp&fp=android#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&type=tcp&fp=firefox#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?security=tls&type=tcp&fp=ios#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?sni=hyfuuf6.wsone.icu&peer=hyfuuf6.wsone.icu&security=tls&fp=android#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?sni=hyfuuf6.wsone.icu&peer=hyfuuf6.wsone.icu&security=tls&fp=ios#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20New%20Delhi%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?security=tls&sni=tttyder.wsone.icu&type=tcp&fp=android#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20Mumbai%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?security=tls&sni=tttyder.wsone.icu&type=tcp&fp=edge#%F0%9F%87%AE%F0%9F%87%B3%20India%2C%20Mumbai%20%7C%20%5BBL%5D
 vmess://ewogICAgImFkZCI6ICIxNTIuNjcuOC4yMDUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4eu8J+Hs0lOLTE1Mi42Ny44LjIwNS0wMjY4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiBmYWxzZSwKICAgICJzbmkiOiAiMTUyLjY3LjguMjA1Igp9
 vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJUQUJSSVouTkVUIiwiaWQiOiIzOWE4YzM3NC03NmIxLTRlOTAtYWI4NS04NWNkOWE0MmRlZDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE1ODM0IiwicHMiOiJJTiDwn4eu8J+HsyB8IEBSYXlkaWthbHggfCAzNTIyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
