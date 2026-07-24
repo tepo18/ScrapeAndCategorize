@@ -28,7 +28,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqVlBqeU5HZ09BZnY0YjRlOGRVSzY5M2V0MjdhS2tMSnA
 ss://YWVzLTI1Ni1nY206QXFnQndZRGVRQQ==@91.107.141.164:2096#🇩🇪%20Germany%20-%201
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@213.202.208.199:7001#%f0%9f%87%a9%f0%9f%87%aa%20DE%20196
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@185.226.172.8:8008#%f0%9f%87%a9%f0%9f%87%aa%20DE%2039
-trojan://-----------BanV2ray----------@37.156.45.60:376?mode=gun&security=reality&pbk=TbFPp3kXrmos-f7Cfpm21TZcFtAEJwsF_G9CABhIlUc&fp=chrome&spx=/0a7fbfe99dc4e8f&type=grpc&sni=world.yahoo.com:443&sid=a93d9b#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Berlin%20%7C%20%5BBL%5D
 trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@91.107.145.13:443?sni=ger.wafer.fun&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fChGF4VS2wmOOrQCXl1#%f0%9f%87%a9%f0%9f%87%aa%20DE%2057
 trojan://5a4ea216-9597-4df7-a119-02949a3b6b82@ger.wafer.fun:443?sni=ger.wafer.fun&alpn=http%2f1.1&fp=chrome&type=ws&path=%2fChGF4VS2wmOOrQCXl1#%f0%9f%87%a9%f0%9f%87%aa%20DE%2050
 trojan://CF68213490@18.184.4.15:443?security=tls&sni=harmless-lab.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%20100
@@ -137,8 +136,6 @@ trojan://WG39087154@lenient-dory.rooster465.autos:443?fp=chrome#%3E%3E%40oneclic
 trojan://XG59623478@18.195.11.206:443?fp=chrome&sni=enabling-asp.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://XG59623478@enabling-asp.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://ZZ2lZq0e0tYZBxYL0cAjqEcHYbu45dnUlX3RKXTgD5M%3D@91.107.135.249:11059?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE
-trojan://hGGbs2T6hf@mmd.asan9720.ir:8880?mode=auto&path=%2F&security=reality&extra=%7B%0A%20%20%22xPaddingBytes%22%20%3A%20%22100-1000%22%0A%7D&pbk=6f4gYYvBFM7iGf9zfFhUWRMoRTrK4zUl7soYqsEDMHI&fp=chrome&spx=%2FkOxL13CTwtXvSvU&type=xhttp&sni=www.aparat.com&sid=d2e5e6aed56c393b#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D
-trojan://hGGbs2T6hf@mmd.asan9720.ir:8880?mode=auto&path=%2F&security=reality&extra=%7B++%22xPaddingBytes%22+%3A+%22100-1000%22%7D&pbk=6f4gYYvBFM7iGf9zfFhUWRMoRTrK4zUl7soYqsEDMHI&spx=%2FkOxL13CTwtXvSvU&type=xhttp&sni=www.aparat.com&sid=d2e5e6aed56c393b&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D
 trojan://p2QFnWdKPZt0evve7n-C52fTqRndJa5W@rem.dtr.kotokopolb.ru:443?fp=chrome&path=%2Ftrojan-ws&type=ws#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://t1k5znTjT8@sp.cloudv.qzz.io:4433?security=none&type=ws&host=sp.cloudv.qzz.io&path=%2ftrojan#%f0%9f%87%a9%f0%9f%87%aa%20DE%2090
 trojan://zfneB18KGBkbi9IXDaRd4q0Wx1HIZ4pDR8eneJALYkU%3D@91.107.159.216:20691?security=none&headerType=&type=tcp#%3E%3E%40v2rayNG_Matsuri%3A%3ADE

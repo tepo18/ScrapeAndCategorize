@@ -4,14 +4,8 @@ trojan://5fdbc5336f81ee6@ht.configfast.site:59618?security=reality&pbk=lp1cRucvX
 trojan://5fdbc5336f81ee6@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/0UNjo9OgW168Me8&type=tcp&sni=google.com&sid=08c8f4b33c#🌐t.me/iProxyChannel
 trojan://945e95adf7115ef@ht.configfast.site:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/tjjwnHCs6nfZltM&type=tcp&sni=google.com&sid=b2689a#🌐t.me/iProxyChannel
 trojan://945e95adf7115ef@ifo.configfast.site:58900?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/vyIX7baeTQmH2hI&type=tcp&sni=google.com&sid=019dd851#🌐t.me/iProxyChannel
-trojan://CF68213490@harmless-lab.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=harmless-lab.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%207
-trojan://IQ68037294@aware-pika.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=aware-pika.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%201
 trojan://IQ68037294@definite-giraffe.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=definite-giraffe.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%205
-trojan://IQ68037294@moving-wren.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moving-wren.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%206
-trojan://KV63147582@evolving-baboon.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=evolving-baboon.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%2013
 trojan://NQ26071394@ready-kangaroo.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=ready-kangaroo.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%2014
-trojan://NQ26071394@thankful-piranha.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=thankful-piranha.rooster465.autos#%F0%9F%8C%90t.me%2FiProxyChannel%208
-trojan://OD90375861@wired-tick.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90t.me%2FiProxyChannel%2017
 trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#%F0%9F%8C%90t.me%2FiProxyChannel%203
 trojan://YACe4I1LSH@fl4.cr7com1.ir:37102?path=/wa&security=tls&insecure=1&type=ws&allowInsecure=1#🚀t.me/iProxyChannel
 trojan://b5656155c1a536c@ht.configfast.site:59618?security=reality&pbk=lp1cRucvXUqOC1DpCMWnbs_MWGHIB41eiP6JUJuiGCo&headerType=none&fp=chrome&spx=/z4mLYk7x66Y968n&type=tcp&sni=google.com&sid=019dd851#🌐t.me/iProxyChannel
