@@ -218,9 +218,6 @@ ss://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?security=reality&en
 ss://ea484535-0170-4ec8-bb3c-a9dbaa7412d7@89.124.82.95:443?security=reality&encryption=none&pbk=n4TFeuXAigmWJ9sXqnyicRkw3vcXy27ARfvhhsA61kI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=nl4.panel11.ru&sid=0bd0285f0c4f8f05#REALITY|NL🇳🇱
 ss://f7f14ab6-b9fb-4285-ae74-f6913332d30e@51.15.18.50:2053?encryption=none&fp=&pbk=OEKOwbvWeIENbRmu5dsuijAdc4CY6qla_W6_hfaOXS4&security=reality&sid=03e21cb7c1aa955f&sni=www.apple.com&type=tcp#REALITY|NL🇳🇱
 ss://fce1e5b0-d154-4278-a291-5c79f5b1bb24@185.5.75.151:8443?type=tcp&encryption=none&security=none#NL🇳🇱
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:51811?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:51811?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:51811?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=072539711a&fp=ios#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://8240cd21ddf3112d50c4b6e52a70f0ce@185.247.117.209:56431?allowInsecure=0&sni=185.247.117.209.sslip.io#NL🇳🇱
 trojan://8240cd21ddf3112d50c4b6e52a70f0ce@185.247.117.209:56431?sni=185.247.117.209.sslip.io#NL🇳🇱
 trojan://IQ68037294@193.169.239.162:443?sni=distinct-ibex.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2027

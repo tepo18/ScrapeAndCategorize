@@ -9,9 +9,6 @@ ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.180.199.237:443#🇫🇷FR
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.180.255.4:443#🇫🇷FR
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@51.44.170.232:443#🇫🇷FR
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3389#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0082
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:41611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=4f8ae614dd2c&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:41611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=4f8ae614dd2c&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:41611?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=4f8ae614dd2c&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://IQ68037294@13.37.222.178:443?security=tls&sni=correct-pony.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ab%f0%9f%87%b7%20FR%2026
 trojan://IQ68037294@13.39.161.149:443?sni=humane-bird.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%205
 trojan://IQ68037294@13.39.249.40:443?sni=one-quail.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2059
