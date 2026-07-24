@@ -45,7 +45,6 @@ trojan://NQ26071394@funky-opossum.rooster465.autos:443?sni=funky-opossum.rooster
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://NQ26071394@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2019
 trojan://NQ26071394@tops-marlin.rooster465.autos:443?fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3AIE
-trojan://NQ26071394@tops-marlin.rooster465.autos:443?security=tls&sni=tops-marlin.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.255.155.50-0504
 trojan://NQ26071394@tops-marlin.rooster465.autos:443?sni=tops-marlin.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2073
 trojan://OD90375861@18.202.244.191:443?security=tls&sni=fit-calf.rooster465.autos&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ae%f0%9f%87%aa%20IE%2036
 trojan://OD90375861@18.202.244.191:443?sni=fit-calf.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AIE
@@ -65,7 +64,6 @@ trojan://ON38567014@fit-calf.rooster465.autos:443?sni=fit-calf.rooster465.autos&
 trojan://ON38567014@vast-turkey.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://ON38567014@vast-turkey.rooster465.autos:443?sni=vast-turkey.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%20100
 trojan://ON38567014@witty-stallion.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
-trojan://ON38567014@witty-stallion.rooster465.autos:443?security=tls&sni=witty-stallion.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-52.210.154.11-0523
 trojan://ON38567014@witty-stallion.rooster465.autos:443?security=tls&sni=witty-stallion.rooster465.autos&fp=chrome&type=tcp&path=%2f&allow_insecure=1#%f0%9f%87%ae%f0%9f%87%aa%20IE%20111
 trojan://PD07395842@108.131.197.101:443?sni=endless-crappie.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2015
 trojan://PD07395842@18.202.244.191:443?sni=fit-calf.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%20119
@@ -82,4 +80,5 @@ trojan://WG39087154@above-rabbit.rooster465.autos:443?sni=above-rabbit.rooster46
 trojan://WG39087154@endless-crappie.rooster465.autos:443?sni=endless-crappie.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%20108
 trojan://WG39087154@grateful-unicorn.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
 trojan://XG59623478@3.249.67.252:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=singular-lark.rooster465.autos#%3E%3E%40outline_vpn%3A%3AIE
+trojan://XG59623478@3.249.67.252:443?security=tls&sni=singular-lark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.249.67.252-0234
 trojan://XG59623478@singular-lark.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3AIE
