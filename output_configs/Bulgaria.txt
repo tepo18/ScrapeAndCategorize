@@ -8,7 +8,6 @@ ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?security=none&allowI
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.169:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%202
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%205
 ss://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.88.186:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%204
-trojan://1-----------------BanV2ray-----------------1@179.237.74.104:5464?mode=gun&security=reality&pbk=STMSSr7TuNNj8icCvugzrXFg_OCQz7EinmUnSl8__yE&fp=firefox&spx=%2F2c44c7453292bcc&type=grpc&sni=world.yahoo.com%3A443&sid=5849771c39aa01#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.145:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%209
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.145:8880?security=none&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%206
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.149:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇧🇬%20Bulgaria%20-%208
