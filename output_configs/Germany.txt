@@ -21,6 +21,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZTE2NmM1YjM0NjU1NDBm@212.224.125.154:57456#
 ss://YWVzLTI1Ni1nY206QXFnQndZRGVRQQ==@91.107.141.164:2096#🇩🇪%20Germany%20-%201
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@145.239.1.100:8000#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-0047
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@145.239.1.100:6679#%F0%9F%87%A9%F0%9F%87%AADE-145.239.1.100-0048
+trojan://%40V2rayShops@85.234.69.86:710?type=ws&path=%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops%2C%40V2rayShops&host=play.google.com&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Eschborn%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://7e70223b-f331-41d5-9313-02b8d2df2885@kkvlvvq-a.catcat321.com:20031?sni=hk.catxstar.com&allowInsecure=1&type=tcp&fp=edge#%F0%9F%87%B2%F0%9F%87%BE%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%A9%AC%E6%9D%A5%2001
 vless://65a792ae-a8a1-4892-9ca9-305886346f58@57.129.77.72:8080?security=reality&sni=chatgpt.com&fp=chrome&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&sid=b7b70c104ad267b8&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇩🇪%20Germany%20-%202
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@57.129.24.124:443?encryption=auto&security=tls&sni=aveiror.com&fp=chrome&type=ws&path=/linkvws#🇩🇪%20Germany%20-%209
