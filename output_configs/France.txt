@@ -80,7 +80,6 @@ trojan://WG39087154@nearby-cod.rooster465.autos:443?sni=nearby-cod.rooster465.au
 trojan://WG39087154@ready-kangaroo.rooster465.autos:443?sni=ready-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2082
 trojan://WG39087154@tough-pigeon.rooster465.autos:443?sni=tough-pigeon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2063
 trojan://WG39087154@united-bedbug.rooster465.autos:443?sni=united-bedbug.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ab%f0%9f%87%b7%20FR%2034
-trojan://Xpp4J8jfbWRwCFPbFQ0PaugqS8VZLKkm@0101010101010101010101001010101010110010101010101010101010101.poki-pakipon.ir:51405?mode=gun&security=reality&pbk=gKnW_-1RMWzyOOfGRrVYmYrKZlpjSeaYNtqMD3Ti6FM&fp=chrome&type=grpc&serviceName=BanV2ray-------BanV2ray------BanV2ray-------BanV2ray------BanV2ray-------BanV2ray------BanV2ray-------BanV2ray------BanV2ray-------BanV2ray------BanV2ray-------BanV2ray------BanV2ray-------BanV2ray------BanV2ray-------BanV2ray&sni=rd.autos.yahoo.com:443&sid=c6602ca83b10028e#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@104.16.174.117:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.121:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.12:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40ip_cf%3A%3AFR

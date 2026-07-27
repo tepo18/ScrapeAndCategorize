@@ -165,8 +165,10 @@ trojan://WG39087154@sterling-vervet.rooster465.autos:443?sni=sterling-vervet.roo
 trojan://WG39087154@still-mastodon.rooster465.autos:443?sni=still-mastodon.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20151
 trojan://WG39087154@touching-ostrich.rooster465.autos:443?sni=touching-ostrich.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20149
 trojan://WG39087154@whole-grub.rooster465.autos:443?sni=whole-grub.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%2098
+trojan://d1960ba9f0f6353353994fa844cf817b@16.162.91.50:6357?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.163.181.97:48738?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://d1960ba9f0f6353353994fa844cf817b@18.166.29.24:48738?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
+trojan://d1960ba9f0f6353353994fa844cf817b@18.166.67.128:6357?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%202
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.102:443?security=tls&sni=vless.hubp.de&alpn=h3&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%204
 vless://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.48.8:443?security=tls&sni=vless.hubp.de&alpn=h3&allowInsecure=1&fp=chrome&type=ws&path=/snippets/ip%3Dtp50000.kr.proxyip.fgfw.eu.org:50000&host=vless.hubp.de&packetEncoding=xudp&encryption=none#🇸🇬%20Singapore%20-%203
