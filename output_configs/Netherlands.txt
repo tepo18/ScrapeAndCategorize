@@ -257,7 +257,6 @@ trojan://XG59623478@renewed-chigger.rooster465.autos:443?security=tls&insecure=0
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?security=tls&sni=upward-hedgehog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.159-0235
 trojan://XG59623478@upward-hedgehog.rooster465.autos:443?security=tls&sni=upward-hedgehog.rooster465.autos#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.242-0223
-trojan://c206d543-023d-46cc-9d5a-1f0f2fc16323@188.164.248.122:443?allowInsecure=1&sni=space.byu.id.yxls.eu.cc#%E8%8D%B7%E5%85%B0%E4%B8%A8yoyapai.com%5Cr
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@45.131.209.130:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#🇳🇱%20Netherlands%20-%2037
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇳🇱%20Netherlands%20-%2035
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@84.246.85.62:8880?security=none&allowInsecure=1&fp=chrome&type=grpc&packetEncoding=xudp&encryption=none#🇳🇱%20Netherlands%20-%2034
