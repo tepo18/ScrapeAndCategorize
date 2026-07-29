@@ -1,7 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#🇫🇷FR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@15.236.226.166:1010#🇫🇷FR
 ss://Y2hhY2hhMjAtcG9seTEzMDU6cHZnejlwcQ3D3A==@54.36.174.140:443#🇫🇷FR-🚀@VPNine1
-ss://YWVzLTEyOC1nY206YXlkczIzMnNmZnNzZDE@260323.1.0.l3.unclemanco.com:6041?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D2fce243671.download.windowsupdate.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Orl%C3%A9ans%20%7C%20%5BBL%5D
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@15.236.43.191:443#🇫🇷FR
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.180.199.237:443#🇫🇷FR
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.180.255.4:443#🇫🇷FR
@@ -27,4 +26,3 @@ trojan://humanity@104.18.32.47:443?sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87
 trojan://humanity@104.18.8.83:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%3E%3E%40v2rayng_fast%3A%3AFR
 trojan://humanity@104.19.229.21:443?sni=www.gossipglove.com#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
 trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hq/Cfh7cgRlLms5Xlm70obWliZWk3Ny5jb20g57Gz6LSd6IqC54K55YiG5LqrKSIsImFkZCI6IjIwMDE6YmM4OjMyZDc6MjI1OjozIiwicG9ydCI6IjU1MDA5IiwidHlwZSI6Im5vbmUiLCJpZCI6ImNkODBkMGE0LWE4ZWYtNDQ5Mi1iOTU2LWRhODJhNmNlY2FmOSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMHpOVzU2c0YiLCJob3N0IjoiIiwidGxzIjoiIn0=

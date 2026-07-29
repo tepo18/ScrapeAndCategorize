@@ -3,7 +3,6 @@ ss://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?type=tcp&encryption
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIN2RqTnZVTF85UVNOQjV2dm1mb2h0eWtYNUJ2Z3R1Tg@bot.sobhanpor.ir:1080#🇮🇷IR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@212.83.51.81:1080#@IRAN_v2ray1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@us1.levikogjgfdd.ir:1080#@IRAN_v2ray1
-ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz1AOTQuMTgzLjEyNC45NTo4Mj8=#%E4%BC%8A%E6%9C%97%E4%B8%A8yoyapai.com%5Cr
 trojan://521314@millionaire.levikogjgfdd.ir:443?path=/Leviko_v2ray&security=tls&insecure=0&host=tjplay.lxdxo.kdns.fr&type=ws&allowInsecure=0&sni=tjplay.lxdxo.kdns.fr#@IRAN_v2ray1
 vless://43613c34-ea2c-4a8e-9189-7c84c1668990@195.238.240.67:895?security=tls&sni=speedtest.net&allowInsecure=1&fp=chrome&type=ws&path=/&host=speedtest.net&packetEncoding=xudp&encryption=none#🇮🇷%20Iran%20-%201
 vless://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?type=tcp&encryption=none&security=reality&pbk=arLM5x4jH1TT05yUjirGNCSDK9pSscqHQWg3rqdKA3Y&fp=firefox&sni=bitcommand.com&sid=b1459712&spx=%2F#%E2%99%A5%20IRAN%20(ZANBOR)
