@@ -4,6 +4,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIN2RqTnZVTF85UVNOQjV2dm1mb2h0eWtYNUJ2Z3R1Tg@bot.sobhanpor.ir:1080#🇮🇷IR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.156.174.106:1080#@hi_proxy_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.162:443#@Napsternetvirani
+ss://YWVzLTI1Ni1nY206RU1JcnVGbDZuTjM3TERReENJd3N0RzA5aGFDQmt5anZaVmpXSU1PUTBKaz1AOTQuMTgzLjEyNC45NTo4Mj8=#%E4%BC%8A%E6%9C%97%E4%B8%A8yoyapai.com%5Cr
 trojan://BtbprBhwOU@77.110.106.130:24622?sni=www.tesla.com&headerType=none&security=reality&pbk=2dQJDcmjDDemzSnPyHEgNAmxPdFvzJgYB49UH6IMeGI&spx=/&type=tcp&fp=chrome&sid=3d0764e927#@Napsternetvirani
 trojan://reyp4rjFsd@77.110.106.130:12109?security=reality&pbk=jQzz-3qE1T7K4SVT54VtPIbWbW_FUb2LYDLXOHj1Mg4&type=tcp&sid=c3c89c0083186240&spx=/&headerType=none&fp=chrome&sni=www.intel.com#@Napsternetvirani
 trojan://zyPhCCrkGq@77.110.106.130:18612?security=reality&pbk=sM7Bx2YcqQejTTgf4tDSnQcpwy2F8CoPyXR1WXqAhSU&type=tcp&sid=4797b6fe70&spx=/&headerType=none&fp=chrome&sni=aws.amazon.com#@Napsternetvirani
