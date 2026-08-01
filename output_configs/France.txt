@@ -18,10 +18,10 @@ ss://YWVzLTI1Ni1nY206NTgwOTIxMzEtYWVkYS00M2Y5LTlmNjgtNDE0MGZjZWU5ZTkw@45.134.13.
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:3306#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0022
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3306#🇫🇷FR
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:3389#🇫🇷FR
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@54.36.174.181:8119#%F0%9F%87%AB%F0%9F%87%B7FR-54.36.174.181-0224
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0203
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@195.154.200.150:2376#%F0%9F%87%AB%F0%9F%87%B7FR-195.154.200.150-0064
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@149.202.82.172:443#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0210
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443#🇫🇷FR
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@149.202.82.172:6379#%F0%9F%87%AB%F0%9F%87%B7FR-149.202.82.172-0034
 trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40ip_cf%3A%3AFR
 trojan://humanity@104.16.174.37:443?allowInsecure=1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@104.16.174.6:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
@@ -37,8 +37,12 @@ trojan://humanity@104.19.64.105:443?host=www.calmlunch.com&path=%2Fassignment&se
 trojan://humanity@104.26.14.137:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@141.101.90.101:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%3E%3E%40configV2rayNG%3A%3AFR
+trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&alpn=h3%2C+h2%2C+http%2F1.1&type=ws&sni=www.ignitelimit.com&path=%2Fassignment&fragment=3%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@185.75.243.102:443?security=tls&sni=www.ignitelimit.com&alpn=h3%2C+h2%2C+http%2F1.1&type=ws&sni=www.ignitelimit.com&path=%2Fassignment&fragment=3%2C0-1%2Ctlshello%2Cnull&fm=%7B%22tcp%22%3A%5B%7B%22settings%22%3A%7B%22delay%22%3A%220-1%22%2C%22length%22%3A%223%22%2C%22packets%22%3A%22tlshello%22%7D%2C%22type%22%3A%22fragment%22%7D%5D%7D&fp=safari#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%3E%3E%40configV2rayNG%3A%3AFR
 trojan://humanity@198.62.62.23:443/?type=ws&host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+trojan://humanity@2.144.21.150:2000?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com&fp=edge#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+trojan://humanity@2.144.21.150:2000?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com&fp=firefox#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@212.183.88.136:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@216.24.57.7:443?alpn=http%2F1.1&host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AFR
 trojan://humanity@45.130.125.112:443/?type=ws&path=%2Fassignment&security=tls&sni=www.calmlunch.com&fp=chrome#%3E%3E%40ip_cf%3A%3AFR
