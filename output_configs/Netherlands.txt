@@ -230,7 +230,6 @@ ss://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?encryption=none&typ
 ss://e3c56988-5261-400f-b21b-6af5fa6efae1@130.49.185.196:443?security=reality&encryption=none&pbk=4ndg8TcyXMWmnEvthjh9mIWJ9mc85jzy_G9D4D5xGxM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=site.rumedia-cdn.com&sid=808a7e8a2e32c697#REALITY|NL🇳🇱
 ss://eaaa8fbf-b84b-40a9-9e9e-5ad6aa8f8561@dashboard.fizikade.ir:443?type=tcp&encryption=none&path=%2Fnaranv2ray%2Fnaranv2ray%2Fnaranv2ray&headerType=http&security=reality&pbk=Ju82xy3HYihrTt6t1ZVKLAWr3BMi-x-ug7HCUdkVlV0&fp=safari&sni=play.google.com&sid=4469c0&spx=%2Fnaranv2ray#REALITY|NL🇳🇱
 ss://eab915bc-d2df-73d1-47d0-6eb240497055@fn.fifapes.monster:2090?security=none&encryption=none&headerType=none&type=tcp#NL🇳🇱
-trojan://1BARPLkaLl@45.130.22.70:32914?allowInsecure=1&insecure=1&type=tcp&security=tls&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://1BARPLkaLl@45.130.22.70:32914?allowInsecure=1&sni=45.130.22.70#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 trojan://1BARPLkaLl@45.130.22.70:32914?security=tls&sni=45.130.22.70#%F0%9F%87%B3%F0%9F%87%B1NL-45.130.22.70-0202
 trojan://IQ68037294@89.39.70.49:443?sni=eager-louse.rooster465.autos#NL🇳🇱
