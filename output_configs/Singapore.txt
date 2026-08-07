@@ -24,6 +24,7 @@ ss://c952efd5-e3b3-4096-b1ac-dbdda8f68a15@27.50.49.104:443?security=tls&sni=vles
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.4:8080#🇸🇬SG
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.235.122:8080#🇸🇬SG
 trojan://BxceQaOe@16.162.22.218:9149/?type=tcp&security=tls&allowInsecure=1#🇸🇬SG
+trojan://BxceQaOe@43.198.209.68:41421?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://BxceQaOe@95.40.205.94:26704?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://IQ68037294@meet-doe.rooster465.autos:443/?type=tcp&security=tls&sni=meet-doe.rooster465.autos#🇸🇬新加坡
 trojan://IQ68037294@still-mastodon.rooster465.autos:443/?type=tcp&security=tls&sni=still-mastodon.rooster465.autos#🇸🇬新加坡
