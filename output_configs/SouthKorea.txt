@@ -77,6 +77,7 @@ trojan://ND91608427@striking-maggot.rooster465.autos:443?security=tls&sni=striki
 trojan://ND91608427@striking-maggot.rooster465.autos:443?sni=striking-maggot.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%205
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR-43.203.119.20-0178
 trojan://ND91608427@uncommon-feline.rooster465.autos:443?security=tls&sni=uncommon-feline.rooster465.autos&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%2011
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127/?type=tcp&security=tls&allowInsecure=1&fp=android#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127/?type=tcp&security=tls&allowInsecure=1&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127/?type=tcp&security=tls&allowInsecure=1&fp=qq#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
 trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?security=tls&sni=154.90.62.70&allowInsecure=1&type=tcp&headerType=none&fp=android#%F0%9F%87%B0%F0%9F%87%B7%20South%20Korea%2C%20Yongsan-dong%20%7C%20%5BBL%5D
