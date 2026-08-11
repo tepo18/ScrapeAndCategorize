@@ -1,4 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@185.210.217.94:1080#🇧🇪BE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@194.187.251.2:1080#🇧🇪BE
-trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@be-lb-rtt.netzrun.at:5222?security=tls&sni=be-lb-rtt.netzrun.at&fp=firefox#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%2C%20Mont-Saint-Guibert%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://SrELvzRC7y7gMcypgQ8VSSSxzj354XEf@be-lb-rtt.netzrun.at:5222?security=tls&sni=be-lb-rtt.netzrun.at&fp=firefox#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%2C%20Mont-Saint-Guibert%20%7C%20%5BBL%5D
 vmess://eyJhZGQiOiI0Ni4xODMuMTg3LjczIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoid3d3LmJhaWR1LmNvbSIsImlkIjoiOTJhMDQ4ZWMtYTE2MC00OTdlLTgwNjktYzJlOTAyNjI2ZDdhIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6IkJFIPCfh6fwn4eqIHwgQFJheWRpa2FseCB8IDIwNjZFMCIsInNjeSI6ImFlcy0xMjgtZ2NtIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
