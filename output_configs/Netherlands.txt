@@ -90,7 +90,6 @@ ss://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?encryption=none&fp=&pb
 ss://906be882-7f16-47c3-8702-59db2ada9688@2.26.82.237:443?mode=gun&security=reality&encryption=none&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI&type=grpc&serviceName=grpc&sni=speed.cloudflare.com#REALITY|NL🇳🇱
 ss://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.206:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=tcp#REALITY|NL🇳🇱
 ss://9500cf8b-020a-4a70-906c-e14bb5375875@144.31.237.215:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&security=reality&sid=a1b2c4d4a1b2c5d5&sni=www.sciencedirect.com&type=tcp#REALITY|NL🇳🇱
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bWtLZnhuZENaOWMzWUlrQUFtQU5ydGZJL21sR0p3d1Y5L0dkVlRZZ1czTT06SmF6eGlZYzNNYzV0TG4vVGUzVDU5VzZadzRaL0JQdWVwUTBWbFZEL2NaOD1AMTkzLjEyNC4yMDMuMTQ0OjQ0Mw==#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.234-8080+%7C+88.3ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1eU9vVXFCcHdFZXZhR1E3Z014QzBG@62.84.102.28:26923#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+62.84.102.28-26923+%7C+95.66ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a0pRczJSWUhoVmlUWVdhZjFSb2JC@77.246.97.187:7749#🇳🇱NL
@@ -261,6 +260,7 @@ ss://f61025f4-7973-4e3e-883c-a0fe85f0489c@89.125.79.95:443?encryption=none&flow=
 ss://f692629b-3557-488a-9c9b-60775331e423@141.98.6.169:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=fi1-cosmostechnology.ru&type=tcp#REALITY|NL🇳🇱
 ss://f7d78118-f954-40dd-a0de-7fe7245798c7@31.56.222.59:19869?security=&encryption=none&headerType=&type=tcp#NL🇳🇱
 trojan://581e14a5fcc14107b9326cc54f047891@177.3.208.169:443?allowInsecure=0&sni=titandarkness.mooo.com&type=grpc&serviceName=%2F43588%2FG43plZahWW#NL🇳🇱
+trojan://AE62539071@thorough-falcon.rooster465.autos:443?allowInsecure=1#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0
 trojan://ND91608427@89.39.70.180:443?sni=eager-louse.rooster465.autos#NL🇳🇱
 trojan://ND91608427@eager-louse.rooster465.autos:443#NL🇳🇱
 trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#NL🇳🇱

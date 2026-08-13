@@ -20,6 +20,11 @@ trojan://6ec301428255a78a1d826988d86cc87e@16.162.192.182:44229?allowInsecure=1&s
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@160.16.110.77:55682?sni=t11.qifei.app&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2095
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682/?type=tcp&security=tls&allowInsecure=1#🇯🇵JP
 trojan://7d8e6db4-96cc-4710-afc0-619edde2d7a1@t11.qifei.app:55682?sni=t11.qifei.app&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%2051
+trojan://AE62539071@literate-cow.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://AE62539071@main-impala.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://AE62539071@polished-imp.rooster465.autos:443?allowInsecure=1&sni=polished-imp.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://AE62539071@premium-weevil.rooster465.autos:443?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
+trojan://AE62539071@supreme-lobster.rooster465.autos:443?allowInsecure=1&sni=supreme-lobster.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://BxceQaOe@16.162.100.124:4099?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.33.15:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://BxceQaOe@16.162.92.128:9408/?type=tcp&security=tls&sni=t.me/ripaojiedian&allowInsecure=1#日本
