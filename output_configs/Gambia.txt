@@ -1,0 +1,1 @@
+trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@104.21.39.47:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=%2Ftaha3&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL44%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CGM-IT%7CSP-IT
