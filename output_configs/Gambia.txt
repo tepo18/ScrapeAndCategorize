@@ -1,1 +1,0 @@
-trojan://tsuchiya@aa.ccmusic.jp:443?sni=aa.ccmusic.jp&allowInsecure=1&type=tcp&fp=chrome#%E2%9D%93%20%7C%20%40WhiteDNS%20%7C%20OT5%7C1.3MB%2Fs%7CDNSOK%7CGPT-JP%7CGM-JP
