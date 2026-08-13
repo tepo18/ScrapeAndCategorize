@@ -1,4 +1,4 @@
-# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-08-13 04:30:10 +0330)
+# 📊 نتایج استخراج (آخرین به‌روزرسانی: 2026-08-13 06:06:39 +0330)
 
 این فایل به صورت خودکار ایجاد شده است.
 
@@ -11,12 +11,12 @@
 | پروتکل | تعداد کل | لینک |
 |---|---|---|
 | Hysteria2 | 26 | [`Hysteria2.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Hysteria2.txt) |
-| ShadowSocks | 9177 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
+| ShadowSocks | 9214 | [`ShadowSocks.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocks.txt) |
 | ShadowSocksR | 8 | [`ShadowSocksR.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/ShadowSocksR.txt) |
-| Trojan | 1077 | [`Trojan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
+| Trojan | 1193 | [`Trojan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Trojan.txt) |
 | Tuic | 1 | [`Tuic.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Tuic.txt) |
 | Vless | 1991 | [`Vless.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vless.txt) |
-| Vmess | 3908 | [`Vmess.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
+| Vmess | 3948 | [`Vmess.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vmess.txt) |
 
 ## 🌍 فایل‌های کشورها (حاوی کانفیگ)
 
@@ -36,7 +36,7 @@
 | <img src="https://flagcdn.com/w20/bg.png" width="20" alt="Bulgaria flag"> Bulgaria (بلغارستان) | 23 | [`Bulgaria.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Bulgaria.txt) |
 | <img src="https://flagcdn.com/w20/kh.png" width="20" alt="Cambodia flag"> Cambodia (کامبوج) | 2 | [`Cambodia.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Cambodia.txt) |
 | <img src="https://flagcdn.com/w20/ca.png" width="20" alt="Canada flag"> Canada (کانادا) | 445 | [`Canada.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Canada.txt) |
-| <img src="https://flagcdn.com/w20/cl.png" width="20" alt="Chile flag"> Chile (شیلی) | 46 | [`Chile.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Chile.txt) |
+| <img src="https://flagcdn.com/w20/cl.png" width="20" alt="Chile flag"> Chile (شیلی) | 169 | [`Chile.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Chile.txt) |
 | <img src="https://flagcdn.com/w20/cn.png" width="20" alt="China flag"> China (چین) | 49 | [`China.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/China.txt) |
 | <img src="https://flagcdn.com/w20/co.png" width="20" alt="Colombia flag"> Colombia (کلمبیا) | 12 | [`Colombia.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Colombia.txt) |
 | <img src="https://flagcdn.com/w20/cy.png" width="20" alt="Cyprus flag"> Cyprus (قبرس) | 3 | [`Cyprus.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Cyprus.txt) |
@@ -47,8 +47,7 @@
 | <img src="https://flagcdn.com/w20/fi.png" width="20" alt="Finland flag"> Finland (فنلاند) | 40 | [`Finland.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Finland.txt) |
 | <img src="https://flagcdn.com/w20/fr.png" width="20" alt="France flag"> France (فرانسه) | 117 | [`France.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/France.txt) |
 | <img src="https://flagcdn.com/w20/ga.png" width="20" alt="Gabon flag"> Gabon (گابن) | 3 | [`Gabon.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Gabon.txt) |
-| <img src="https://flagcdn.com/w20/gm.png" width="20" alt="Gambia flag"> Gambia (گامبیا) | 1 | [`Gambia.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Gambia.txt) |
-| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag"> Germany (آلمان) | 338 | [`Germany.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt) |
+| <img src="https://flagcdn.com/w20/de.png" width="20" alt="Germany flag"> Germany (آلمان) | 339 | [`Germany.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt) |
 | <img src="https://flagcdn.com/w20/gt.png" width="20" alt="Guatemala flag"> Guatemala (گواتمالا) | 1 | [`Guatemala.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Guatemala.txt) |
 | <img src="https://flagcdn.com/w20/ht.png" width="20" alt="Haiti flag"> Haiti (هائیتی) | 1 | [`Haiti.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Haiti.txt) |
 | <img src="https://flagcdn.com/w20/hu.png" width="20" alt="Hungary flag"> Hungary (مجارستان) | 1 | [`Hungary.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Hungary.txt) |
@@ -57,7 +56,7 @@
 | <img src="https://flagcdn.com/w20/ir.png" width="20" alt="Iran flag"> Iran (ایران) | 105 | [`Iran.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt) |
 | <img src="https://flagcdn.com/w20/ie.png" width="20" alt="Ireland flag"> Ireland (ایرلند) | 17 | [`Ireland.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Ireland.txt) |
 | <img src="https://flagcdn.com/w20/it.png" width="20" alt="Italy flag"> Italy (ایتالیا) | 6 | [`Italy.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Italy.txt) |
-| <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag"> Japan (ژاپن) | 145 | [`Japan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Japan.txt) |
+| <img src="https://flagcdn.com/w20/jp.png" width="20" alt="Japan flag"> Japan (ژاپن) | 146 | [`Japan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Japan.txt) |
 | <img src="https://flagcdn.com/w20/kz.png" width="20" alt="Kazakhstan flag"> Kazakhstan (قزاقستان) | 29 | [`Kazakhstan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Kazakhstan.txt) |
 | <img src="https://flagcdn.com/w20/lv.png" width="20" alt="Latvia flag"> Latvia (لتونی) | 4 | [`Latvia.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Latvia.txt) |
 | <img src="https://flagcdn.com/w20/lt.png" width="20" alt="Lithuania flag"> Lithuania (لیتوانی) | 2 | [`Lithuania.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Lithuania.txt) |
@@ -76,13 +75,13 @@
 | <img src="https://flagcdn.com/w20/py.png" width="20" alt="Paraguay flag"> Paraguay (پاراگوئه) | 1 | [`Paraguay.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Paraguay.txt) |
 | <img src="https://flagcdn.com/w20/pe.png" width="20" alt="Peru flag"> Peru (پرو) | 1 | [`Peru.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Peru.txt) |
 | <img src="https://flagcdn.com/w20/ph.png" width="20" alt="Philippines flag"> Philippines (فیلیپین) | 11 | [`Philippines.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Philippines.txt) |
-| <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag"> Poland (لهستان) | 33 | [`Poland.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Poland.txt) |
+| <img src="https://flagcdn.com/w20/pl.png" width="20" alt="Poland flag"> Poland (لهستان) | 35 | [`Poland.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Poland.txt) |
 | <img src="https://flagcdn.com/w20/ro.png" width="20" alt="Romania flag"> Romania (رومانی) | 7 | [`Romania.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Romania.txt) |
 | <img src="https://flagcdn.com/w20/ru.png" width="20" alt="Russia flag"> Russia (روسیه) | 19 | [`Russia.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Russia.txt) |
 | <img src="https://flagcdn.com/w20/ws.png" width="20" alt="Samoa flag"> Samoa (ساموآ) | 54 | [`Samoa.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Samoa.txt) |
 | <img src="https://flagcdn.com/w20/sa.png" width="20" alt="SaudiArabia flag"> SaudiArabia (عربستان سعودی) | 2 | [`SaudiArabia.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/SaudiArabia.txt) |
 | <img src="https://flagcdn.com/w20/sc.png" width="20" alt="Seychelles flag"> Seychelles (سیشل) | 8 | [`Seychelles.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Seychelles.txt) |
-| <img src="https://flagcdn.com/w20/sg.png" width="20" alt="Singapore flag"> Singapore (سنگاپور) | 61 | [`Singapore.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Singapore.txt) |
+| <img src="https://flagcdn.com/w20/sg.png" width="20" alt="Singapore flag"> Singapore (سنگاپور) | 62 | [`Singapore.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Singapore.txt) |
 | <img src="https://flagcdn.com/w20/si.png" width="20" alt="Slovenia flag"> Slovenia (اسلوونی) | 1 | [`Slovenia.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Slovenia.txt) |
 | <img src="https://flagcdn.com/w20/za.png" width="20" alt="SouthAfrica flag"> SouthAfrica (آفریقای جنوبی) | 6 | [`SouthAfrica.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/SouthAfrica.txt) |
 | <img src="https://flagcdn.com/w20/kr.png" width="20" alt="SouthKorea flag"> SouthKorea (کره جنوبی) | 108 | [`SouthKorea.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/SouthKorea.txt) |
@@ -96,7 +95,7 @@
 | <img src="https://flagcdn.com/w20/tm.png" width="20" alt="Turkmenistan flag"> Turkmenistan (ترکمنستان) | 16 | [`Turkmenistan.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Turkmenistan.txt) |
 | <img src="https://flagcdn.com/w20/ae.png" width="20" alt="UAE flag"> UAE (امارات) | 8 | [`UAE.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/UAE.txt) |
 | <img src="https://flagcdn.com/w20/gb.png" width="20" alt="UK flag"> UK (انگلیس) | 106 | [`UK.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/UK.txt) |
-| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag"> USA (آمریکا) | 512 | [`USA.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/USA.txt) |
+| <img src="https://flagcdn.com/w20/us.png" width="20" alt="USA flag"> USA (آمریکا) | 526 | [`USA.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/USA.txt) |
 | <img src="https://flagcdn.com/w20/ua.png" width="20" alt="Ukraine flag"> Ukraine (اوکراین) | 3 | [`Ukraine.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Ukraine.txt) |
 | <img src="https://flagcdn.com/w20/vn.png" width="20" alt="Vietnam flag"> Vietnam (ویتنام) | 8 | [`Vietnam.txt`](https://raw.githubusercontent.com/tepo18/ScrapeAndCategorize/refs/heads/main/output_configs/Vietnam.txt) |
 
