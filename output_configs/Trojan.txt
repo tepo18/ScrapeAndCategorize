@@ -257,6 +257,7 @@ trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.au
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0104
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0197
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
+trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#🇮🇪[openproxylist.com]
 trojan://AE62539071@54.74.210.220:443?sni=funny-hen.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%202
 trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.128.248-0132
 trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.128.248-0155
@@ -495,7 +496,6 @@ trojan://AE62539071@joint-ewe.rooster465.autos:443?sni=joint-ewe.rooster465.auto
 trojan://AE62539071@kind-stork.rooster465.autos:443#🛗93@oneclickvpnkeys
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0103
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
-trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#🇮🇪[openproxylist.com]
 trojan://AE62539071@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&type=raw&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE1%7C16.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE%7CCL-IE%7CSP-IE
 trojan://AE62539071@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://AE62539071@kind-stork.rooster465.autos:443?type=raw&headerType=none&security=tls#[🇮🇪]
