@@ -1,5 +1,6 @@
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.133.63.138:443?security=reality&sni=tr.eu-ffast.com&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%202
 ss://8377aac9-f3b3-42df-a5ea-9254f37e7b34@62.60.233.30:443?security=reality&sni=tr.eu-ffast.com&allowInsecure=1&fp=chrome&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#🇹🇷%20Turkey%20-%201
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206TzI4RElPQzNjRXJUSFYxTTlsNys2a0hRUExqNnZ5aFhZZXQ1NWcyRW5CND06Skh3OEsySVd5c2JiazVranlPWS9sYXF2SlVVYTk5NEZSVDhwSU02Unl1ND0@3xtr.mamad-imnix.ir:42696?type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NWFiZGIxYy0xY2RmLTQ2MzAtYTMyYi04YWU1NjZiNDhjMDA@tur.fastsoonlink.com:40019#🇹🇷TR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowR0FLMmI5Z2txQmF0dXhpMmNzd21I@83.217.9.17:25232#🇹🇷TR
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dW5uZWwtYXN0cm92cG5fb2ZmaWNpYWxfdHI@tr-1.stunnel.cc:8444#🇹🇷TR
