@@ -1,5 +1,6 @@
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@107.173.127.166:25000?insecure=1&sni=www.apple.com#yandex-99
 hy2://37afff84-34bd-4db6-b24a-7d73d2ed48ce@198.23.130.211:25000?insecure=1&sni=api.push.apple.com#yandex-100
+hy2://5a0f8574-07a5-45d5-84c9-f8b2c2bcd595@141.148.222.181:51000/?insecure=1&sni=cn.cremedelamer.com#ūüáģūüá≥IN
 hy2://5a0f8574-07a5-45d5-84c9-f8b2c2bcd595@141.148.222.181:51000/?insecure=1&sni=cn.cremedelamer.com#🇮🇳IN
 hy2://80747420-96c4-4a2f-83e6-eea4e46beb09@drhystuichdfy.samanidempire.org:20335/?obfs=salamander&obfs-password=U1wBrYQyFm&sni=drhystuichdfy.samanidempire.org&alpn=h3#%F0%9F%87%B8%F0%9F%87%AA-hamedp71%20-%20Hysteria2
 hy2://8864aa9f-7517-4fd5-aef1-32050eb3095d@185.92.220.240:30205?obfs=salamander&obfs-password=GdQ4bgvT8RFwuWi2&insecure=1&sni=net2025.afsharidempire.uk#🇳🇱%20Netherlands%20-%2011
