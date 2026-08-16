@@ -83,6 +83,7 @@ ss://926bc4cd-709e-4e90-8aa7-78db75fbe86b@45.80.111.7:443?encryption=none&type=w
 ss://92929b0d-a473-4ea2-bba5-f651ea263872@91.107.244.55:8080?type=tcp&encryption=none#🆔freeconfigsplus%20🔓%20VL-TCP-N/A%20🇩🇪%20DE%20down
 ss://965f5b8b-b762-4281-bb45-60fb1e346c94@104.16.6.70:8443?mode=packet-up&path=%2Fhome%2Fnovinser%2Fpublic_html%2Fmy%2Fmodules%2Fservers%2Fcdnserver%2Fcdnserver.php&security=tls&alpn=h2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=cdd3.solidesign.uk#DE🇩🇪
 ss://9a1a05d969be45d3e326c6621edf7b31Og==@deapp.jisuyun.top:2053#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+deapp.jisuyun.top-2053+%7C+147.39ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0195
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-10070
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%3E%3E%40V2rayNG3%3A%3ADE
@@ -225,9 +226,11 @@ trojan://FH72359861@epic-iguana.rooster465.autos:443?sni=epic-iguana.rooster465.
 trojan://FH72359861@fond-chipmunk.rooster465.autos:443?sni=fond-chipmunk.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%96%B0%E5%8A%A0%E5%9D%A1%2003
 trojan://FH72359861@good-hound.rooster465.autos:443?sni=good-hound.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E9%9F%A9%E5%9B%BD%2005
 trojan://FH72359861@great-wasp.rooster465.autos:443?sni=great-wasp.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%3Adafei.de%20%E6%97%A5%E6%9C%AC%2005
+trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-3.120.70.66-0125
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-3.120.70.66-1658
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2019
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%204
+trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-35.159.21.7-0131
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-35.159.21.7-0393
 trojan://ND91608427@gr1.levikogjgfdd.ir:443?security=tls&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=gentle-raptor.rooster465.autos#DE🇩🇪
 trojan://ND91608427@next-turkey.rooster465.autos:443#DE🇩🇪
