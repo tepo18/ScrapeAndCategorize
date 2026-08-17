@@ -261,7 +261,6 @@ trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#
 trojan://AE62539071@54.74.159.195:443?fp=chrome&sni=kind-stork.rooster465.autos#⚛️57@oneclickvpnkeys
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0146
 trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-trojan://AE62539071@54.74.159.195:443?security=tls&sni=kind-stork.rooster465.autos#🇮🇪[openproxylist.com]
 trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://AE62539071@54.74.210.220:443?fp=chrome&sni=funny-hen.rooster465.autos#⚛️58@oneclickvpnkeys
 trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.128.248-0151
@@ -536,6 +535,7 @@ trojan://AE62539071@joint-ewe.rooster465.autos:443?sni=joint-ewe.rooster465.auto
 trojan://AE62539071@joint-ewe.rooster465.autos:443?sni=joint-ewe.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-54.74.159.195-0144
 trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+trojan://AE62539071@kind-stork.rooster465.autos:443?security=tls#🇮🇪[openproxylist.com]
 trojan://AE62539071@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%202
 trojan://AE62539071@kind-stork.rooster465.autos:443?sni=kind-stork.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
 trojan://AE62539071@known-albacore.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20209
@@ -1341,6 +1341,7 @@ trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#hamedp71%3A%3
 trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls#🇰🇷[openproxylist.com]
 trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%b0%f0%9f%87%b7%20KR%2082
 trojan://FH72359861@aware-coyote.rooster465.autos:443?security=tls&path=%2f#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=balanced-heron.rooster465.autos#🇮🇪[openproxylist.com]
 trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&sni=balanced-heron.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ae%f0%9f%87%aa%20IE%2026
 trojan://FH72359861@balanced-heron.rooster465.autos:443?security=tls&sni=balanced-heron.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%AA
 trojan://FH72359861@balanced-heron.rooster465.autos:443?sni=balanced-heron.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE4%7C5.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE%7CCL-IE%7CSP-IE
