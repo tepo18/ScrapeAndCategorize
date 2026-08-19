@@ -4,7 +4,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDeHRjWmFPU0ZZaUpubG95VFpKMHoy@promo9v.bystri
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZUUZtakthYW1TclBxVnkxanRYRVg0@212.192.14.226:41968#🇷🇺RU
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsdmUzaTNhcUotenhkM2dBNkc3UE5B@176.124.218.95:1080#🇷🇺RU
 ss://YWVzLTI1Ni1nY206MjAyN2U4MzAzOTlkOGQwOA@195.58.48.19:10910#🇷🇺RU
-ss://YWVzLTI1Ni1nY206NmIzOWFlMzIzNGRmZDY4Yg@45.140.169.123:20801#%F0%9F%87%B7%F0%9F%87%BA%20RU%E4%BF%84%E7%BD%97%E6%96%AF%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 ss://YWVzLTI1Ni1nY206ODFhMjA0MjkxNjVkZjg3ZQ@195.133.23.200:10190#🇷🇺RU
 ss://YWVzLTI1Ni1nY206ZDk5YzQyMjE5OWU2MmI2Yg@176.32.34.152:10910#🇷🇺RU
-trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?security=tls&sni=ru-5b7331.atlanta-games.com&alpn=h2&fp=chrome&type=grpc&serviceName=ajv&path=%2f&allow_insecure=0#%f0%9f%87%b7%f0%9f%87%ba%20RU%201
+trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@176.108.242.191:443?security=tls&sni=ru-5b7331.atlanta-games.com&alpn=h2&fp=edge&type=grpc&serviceName=ajv&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%203
+trojan://HaZLUMP__fVySm7WzxFcnk7Nm8-f1CCK@ru-5b7331.atlanta-games.com:443?alpn=h2&fp=chrome&type=grpc&serviceName=ajv&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%201
+vmess://eyJhZGQiOiJhZG1pbi5hcnpvbmhvc3QuaXIiLCJ2IjoyLCJwb3J0IjoiMjA4NiIsImlkIjoiN2Q5M2U5OTItNDhjZi00MmQ0LTg0ZjgtNzU3NjhlODE1YTRjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0IjoiYWRtaW4uYXJ6b25ob3N0LmlyIiwidGxzIjoiIiwicGF0aCI6Ii8iLCJwcyI6IlJVIPCfh7fwn4e6IHwgQFJheWRpa2FseCB8IDAwRkE4OSJ9
