@@ -75,6 +75,7 @@ ss://9a1a05d969be45d3e326c6621edf7b31Og==@deapp.jisuyun.top:2053#DE%F0%9F%87%A9%
 ss://9a1a05d969be45d3e326c6621edf7b31Og==@deapp.jisuyun.top:2053#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+deapp.jisuyun.top-2053+%7C+115.47ms
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YU1WQ0J2eHVyY3VLNG9Cd2JUeURkaGRiYm44YTRzTkhwTXJKVmZnbVZ0TT0=@78.47.35.178:50667#DE%F0%9F%87%A9%F0%9F%87%AA+%7C+78.47.35.178-50667+%7C+91.82ms
 ss://Warpi-Free-Vpn-In-GooglePlay@91.98.153.140:443?type=tcp&encryption=none&flow=#DE🇩🇪
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0103
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#%F0%9F%87%A9%F0%9F%87%AADE-209.46.102.22-0135
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc@209.46.102.22:8388#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-10070
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#%3E%3E%40V2rayNG3%3A%3ADE
@@ -218,9 +219,11 @@ trojan://FH72359861@epic-iguana.rooster465.autos:443?allowInsecure=1#DE🇩🇪
 trojan://FH72359861@epic-iguana.rooster465.autos:443?security=tls&type=tcp&path=%2f&allow_insecure=0#%f0%9f%87%a9%f0%9f%87%aa%20DE%203
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443#DE🇩🇪
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443?allowInsecure=0#DE🇩🇪
+trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls#%F0%9F%87%A9%F0%9F%87%AADE-3.120.70.66-0126
 trojan://FH72359861@renewed-porpoise.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2013
 trojan://FH72359861@summary-lemming.rooster465.autos:443#DE🇩🇪
 trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2029
+trojan://FH72359861@summary-lemming.rooster465.autos:443?security=tls&sni=summary-lemming.rooster465.autos#%F0%9F%87%A9%F0%9F%87%AADE-35.159.21.7-0123
 trojan://FH72359861@up-dinosaur.rooster465.autos:443?sni=up-dinosaur.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2043
 trojan://G8FdRSHGSptCiLyyaBZIeKcd@94.130.141.81:29839?path=/ws&security=none&host=94.130.141.81&type=ws#🇩🇪DE-🚀@VPNine1
 trojan://ND91608427@gr1.levikogjgfdd.ir:443?security=tls&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&sni=gentle-raptor.rooster465.autos#DE🇩🇪
