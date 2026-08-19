@@ -115,6 +115,7 @@ trojan://PQ05174892@lenient-grubworm.rooster465.autos:443?sni=lenient-grubworm.r
 trojan://PQ05174892@on-airedale.rooster465.autos:443?sni=on-airedale.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20174
 trojan://PQ05174892@pleased-albacore.rooster465.autos:443?security=tls&sni=pleased-albacore.rooster465.autos&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%2056
 trojan://PQ05174892@pleased-raptor.rooster465.autos:443?sni=pleased-raptor.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%2058
+trojan://PQ05174892@pro-mako.rooster465.autos:443?sni=pro-mako.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%40WhiteDNS%20%7C%20SG19%7C1.8MB%2Fs%7CDNSOK%7CGPT-SG
 trojan://PQ05174892@rich-mule.rooster465.autos:443?sni=rich-mule.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%2088
 trojan://PQ05174892@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%2010
 trojan://PQ05174892@sharing-filly.rooster465.autos:443?sni=sharing-filly.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%b8%f0%9f%87%ac%20SG%20134
