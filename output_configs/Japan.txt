@@ -295,6 +295,7 @@ trojan://HC04361579@accepted-starling.rooster465.autos:443?security=tls&sni=acce
 trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.176.141-0445
 trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20223
 trojan://HC04361579@exact-sawfish.rooster465.autos:443/?type=tcp&security=tls&sni=exact-sawfish.rooster465.autos#日本
+trojan://HC04361579@exact-sawfish.rooster465.autos:443?allowInsecure=0&sni=exact-sawfish.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.248.184.74-1001
 trojan://HC04361579@exact-sawfish.rooster465.autos:443?security=tls&sni=exact-sawfish.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20794
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?allowInsecure=1&sni=legible-ocelot.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
@@ -463,6 +464,7 @@ trojan://PQ05174892@witty-duckling.rooster465.autos:443?sni=witty-duckling.roost
 trojan://fg20mtCFHy@172.105.197.232:5710?allowInsecure=1&sni=jpcaw.southbyte.xyz#%F0%9F%87%AF%F0%9F%87%B5_JP_%E6%97%A5%E6%9C%AC
 trojan://humanity@104.16.174.44:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.18.152.219:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://humanity@104.18.152.225:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@104.18.152.97:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AF%F0%9F%87%B5%20JP%E6%97%A5%E6%9C%AC%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 vmess://ewogICAgImFkZCI6ICIxNDAuODMuNTcuMjAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzZy4xMTE2MDMyMS5kZTUubmV0IiwKICAgICJpZCI6ICIxZjAxZTM4OS1mYmNiLTQ5NGMtZTQ2YS0yMTBlYzM2MzI5YzIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogMTMxMTgsCiAgICAicHMiOiAi8J+Hr/Cfh7VKUC0xNDAuODMuNTcuMjAtMDU2NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
 vmess://ewogICJ2IjogMiwKICAicHMiOiAi8J+Hr/Cfh7UgSlDml6XmnKzkuKgiLAogICJhZGQiOiAiMjAwMTpiYzg6MzJkNzoyMjU6OjMiLAogICJwb3J0IjogNTUwMDksCiAgImlkIjogImNkODBkMGE0LWE4ZWYtNDQ5Mi1iOTU2LWRhODJhNmNlY2FmOSIsCiAgImFpZCI6IDAsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogIndzIiwKICAidHlwZSI6IG51bGwsCiAgImhvc3QiOiAiMjAwMTpiYzg6MzJkNzoyMjU6OjMiLAogICJwYXRoIjogIi8wek5XNTZzRiIsCiAgInRscyI6IGZhbHNlLAogICJzbmkiOiAiIgp9
