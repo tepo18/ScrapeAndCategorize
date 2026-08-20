@@ -1,2 +1,0 @@
-ss://423b1d79-08c4-403f-9d5e-c541f791b55f@5.253.28.189:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&security=reality&sid=e53048e82bb20077&sni=asia.cendora.ru&type=tcp#1879.%20%F0%9F%87%AE%F0%9F%87%B1%20Israel
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@5.253.28.189:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eaRNeC8fccrx0nBNvBpAXZgK4m4FxfnQ-t0W7NOM7mU&security=reality&sid=e53048e82bb20077&sni=asia.cendora.ru&type=tcp#1879.%20%F0%9F%87%AE%F0%9F%87%B1%20Israel
