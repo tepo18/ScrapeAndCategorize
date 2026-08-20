@@ -1,4 +1,4 @@
-ss://2022-blake3-chacha20-poly1305:4cuK1uo09SOhjsm02WOLQY1i4uozWLuipTgFW6s0N1c%3D@137.131.249.25:59319#%F0%9F%87%A7%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20BR1%7C1.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-BR%7CGM-BR%7CCL-BR%7CSP-BR
+ss://2022-blake3-chacha20-poly1305:4cuK1uo09SOhjsm02WOLQY1i4uozWLuipTgFW6s0N1c%3D@137.131.249.25:59319#%F0%9F%87%A7%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20BR2%7C1.3MB%2Fs%7CGPT%E2%81%BA-BR%7CGM-BR%7CCL-BR%7CSP-BR
 ss://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:18443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=disagreedebut.net&type=raw#479.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 ss://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=disagreedebut.net&type=raw#1252.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil
 ss://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.250.33:18443?encryption=none&flow=xtls-rprx-vision&fp=firefox&security=tls&sni=disagreedebut.net&type=raw#721.%20%F0%9F%87%A7%F0%9F%87%B7%20Brazil

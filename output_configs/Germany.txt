@@ -239,7 +239,6 @@ trojan://PQ05174892@many-cricket.rooster465.autos:443?sni=many-cricket.rooster46
 trojan://PQ05174892@rapid-firefly.rooster465.autos:443?sni=rapid-firefly.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2027
 trojan://PQ05174892@usable-dogfish.rooster465.autos:443?fp=chrome#DE🇩🇪
 trojan://PQ05174892@usable-dogfish.rooster465.autos:443?security=tls&path=%2f#%f0%9f%87%a9%f0%9f%87%aa%20DE%2012
-trojan://b0c94dd5-0c4c-6e1e-7ecf-84c386f7c748@aged-silence-8d7d.tahaggs.workers.dev:443?sni=aged-silence-8d7d.tahaggs.workers.dev&type=ws&path=%2Ftaha3&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE60%7C3.0MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-DE%7CSP-IT
 trojan://bptHV5U91mWneB61rRKhCQ8f@87.121.218.169:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=87.121.218.169#%3E%3E%40configV2rayNG%3A%3ADE
 trojan://fg20mtCFHy@209.38.240.27:5859?allowInsecure=1&sni=uyped.southbyte.xyz#%3E%3E%40v2nodes%3A%3ADE
 trojan://humanity@104.18.152.97:443?security=tls&sni=www.ignitelimit.com&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%87%A8%F0%9F%87%A6146738%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_Mhysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#%F0%9F%87%A9%F0%9F%87%AA146739%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M👈
