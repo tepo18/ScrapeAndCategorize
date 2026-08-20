@@ -13,7 +13,6 @@ ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.55.84:443#🇵🇱PL
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.71.221:443#🇵🇱PL
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#🇵🇱PL
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@92.118.205.211:5600#🇵🇱PL
-trojan://6ec301428255a78a1d826988d86cc87e@2c.fast9988.com:50887?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%B5%F0%9F%87%B1%20%E6%B3%A2%E5%85%B0%20V2CROSS.COM
 trojan://AE62539071@game-firefly.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3APL
 trojan://AE62539071@relative-locust.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.132-0243
 trojan://AE62539071@tolerant-mosquito.rooster465.autos:443?security=tls&sni=tolerant-mosquito.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.89-0239
