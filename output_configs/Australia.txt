@@ -20,6 +20,7 @@ trojan://AE62539071@darling-mutt.rooster465.autos:443?sni=darling-mutt.rooster46
 trojan://AE62539071@humorous-llama.rooster465.autos:443?sni=humorous-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20%7C%20%40WhiteDNS%20%7C%20AU45%7C1.0MB%2Fs%7CGPT%E2%81%BA-AU%7CGM-AU%7CCL-AU%7CSP-AU
 trojan://AE62539071@humorous-llama.rooster465.autos:443?sni=humorous-llama.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20%7C%20%40WhiteDNS%20%7C%20AU50%7C1018KB%2Fs%7CGPT%E2%81%BA-AU%7CCL-AU%7CSP-AU
 trojan://AE62539071@humorous-llama.rooster465.autos:443?sni=humorous-llama.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%2011
+trojan://AE62539071@together-dingo.rooster465.autos:443?allowInsecure=1#%F0%9F%87%A6%F0%9F%87%BA_AU_%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
 trojan://AE62539071@together-dingo.rooster465.autos:443?sni=together-dingo.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%203
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?security=tls&sni=wanted-marmoset.rooster465.autos&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%201
 trojan://AE62539071@wanted-marmoset.rooster465.autos:443?sni=wanted-marmoset.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A6%F0%9F%87%BA%20%7C%20%40WhiteDNS%20%7C%20AU13%7C1.3MB%2Fs%7CGPT%E2%81%BA-AU%7CGM-AU%7CCL-AU%7CSP-AU
