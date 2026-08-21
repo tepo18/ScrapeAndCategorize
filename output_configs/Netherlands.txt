@@ -266,7 +266,6 @@ trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%
 trojan://FH72359861@pro-crane.rooster465.autos:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-89.39.70.120-0284
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#%3E%3E%40oneclickvpnkeys%3A%3ANL
 trojan://FH72359861@renewed-chigger.rooster465.autos:443#NL🇳🇱
-trojan://FH72359861@whole-woodcock.rooster465.autos:443?sni=whole-woodcock.rooster465.autos&allowInsecure=1&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL188%7C777KB%2Fs%7CGPT-NL
 trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=thorough-falcon.rooster465.autos#NL🇳🇱
 trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#NL🇳🇱
 trojan://PQ05174892@powerful-squid.rooster465.autos:443?fp=chrome#🆔soskeynet%20🔓%20TR--N/A%20🇳🇱%20NL%20224ms
