@@ -2382,6 +2382,7 @@ trojan://HC04361579@accepted-starling.rooster465.autos:443?sni=accepted-starling
 trojan://HC04361579@accepted-starling.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=accepted-starling.rooster465.autos#[🇯🇵]
 trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.199.176.141-0206
 trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos#🇯🇵[openproxylist.com]
 trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20302
 trojan://HC04361579@driven-doberman.rooster465.autos:443?sni=driven-doberman.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP400%7C1.3MB%2Fs%7CGPT%E2%81%BA-JP%7CCL-JP%7CSP-JP
@@ -2404,6 +2405,7 @@ trojan://HC04361579@exact-sawfish.rooster465.autos:443?sni=exact-sawfish.rooster
 trojan://HC04361579@exact-sawfish.rooster465.autos:443?sni=exact-sawfish.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?security=tls&sni=legible-ocelot.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-52.195.208.128-0198
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?security=tls&sni=legible-ocelot.rooster465.autos#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://HC04361579@legible-ocelot.rooster465.autos:443?security=tls&sni=legible-ocelot.rooster465.autos#🇯🇵[openproxylist.com]
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?security=tls&sni=legible-ocelot.rooster465.autos&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20308
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?sni=legible-ocelot.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://HC04361579@legible-ocelot.rooster465.autos:443?sni=legible-ocelot.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
