@@ -662,7 +662,6 @@ trojan://PQ05174892@13.159.17.90:443?security=tls&insecure=0&host=v2rayNplus--v2
 trojan://PQ05174892@13.192.168.51:443/?type=tcp&security=tls&sni=learning-leopard.rooster465.autos&fp=chrome#T.me/Vpn_Mafia
 trojan://PQ05174892@18.199.174.201:443?sni=casual-quail.rooster465.autos&type=tcp&fp=chrome#DE🇩🇪
 trojan://PQ05174892@185.14.47.101:443?sni=ideal-robin.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-trojan://PQ05174892@185.14.47.101:443?type=tcp&security=tls&sni=ideal-robin.rooster465.autos#🇭🇰[openproxylist.com]
 trojan://PQ05174892@185.14.47.222:443?sni=well-marmot.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://PQ05174892@185.14.47.228:443?sni=wealthy-loon.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 trojan://PQ05174892@185.14.47.72:443?sni=glad-roughy.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
