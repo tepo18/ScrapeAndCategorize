@@ -285,7 +285,6 @@ trojan://FH72359861@modern-bedbug.rooster465.autos:443#🍥95@oneclickvpnkeys
 trojan://FH72359861@national-stingray.rooster465.autos:443?security=tls&sni=national-stingray.rooster465.autos&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%2010
 trojan://FH72359861@natural-swan.rooster465.autos:443?sni=natural-swan.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%2025
 trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls#US
-trojan://FH72359861@neutral-quail.rooster465.autos:443?security=tls&sni=neutral-quail.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#US
 trojan://FH72359861@neutral-quail.rooster465.autos:443?sni=neutral-quail.rooster465.autos&allowInsecure=1&type=tcp#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://FH72359861@neutral-quail.rooster465.autos:443?sni=neutral-quail.rooster465.autos&type=tcp&fp=chrome#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://FH72359861@neutral-quail.rooster465.autos:443?sni=neutral-quail.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2028
@@ -743,6 +742,7 @@ trojan://mitivpn@45.205.0.6:443?path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTi
 trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@prrofile_purple
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E4%B8%A8yoyapai.com%5Cr
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0095
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=raw&headerType=none&security=tls&sni=russiapower.accesscam.org#[🇪🇪]
