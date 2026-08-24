@@ -199,6 +199,7 @@ trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?sni=pretty-mollusk.roost
 trojan://EQ30679154@sharing-chipmunk.rooster465.autos:443?sni=sharing-chipmunk.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%209
 trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2031
 trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
+trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp&path=/#US
 trojan://EQ30679154@striking-cheetah.rooster465.autos:443?sni=striking-cheetah.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%2022
 trojan://EQ30679154@sure-bengal.rooster465.autos:443?sni=sure-bengal.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2018
 trojan://EQ30679154@thorough-falcon.rooster465.autos:443?sni=thorough-falcon.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%b3%f0%9f%87%b1%20NL%2011
@@ -675,6 +676,7 @@ trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443/?ty
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443/?type=tcp&security=tls&sni=tr-latvia1.unlimited-access.ru&alpn=http/1.1&allowInsecure=1&fp=chrome#拉脱维亚
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#%F0%9F%87%B1%F0%9F%87%BBLV-85.159.228.177-0162
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?security=tls&sni=tr-latvia1.unlimited-access.ru#🇱🇻[openproxylist.com]
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-latvia1.unlimited-access.ru:443?type=raw&headerType=none&security=tls&sni=tr-latvia1.unlimited-access.ru#[🇱🇻]
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH9%7C20.5MB%2Fs%7CGPT%E2%81%BA-CH%7CCL-CH%7CSP-CH
 trojan://l6R5znJSPJ@179.237.75.190:16350?type=tcp&security=reality&headerType=http&path=/5747463414152474635353366347474334&host=rd.autos.yahoo.com:41636&sni=rd.autos.yahoo.com:40069&fp=chrome&insecure=1&allowInsecure=1&pbk=o3oWckXNBDaHDXgqRVLPje6P1r9DRSeCuYtStxCiXz8&spx=/#@EVAY_VPN
@@ -691,9 +693,9 @@ trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxM
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E4%B8%A8yoyapai.com%5Cr
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0096
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=raw&headerType=none&security=tls&sni=russiapower.accesscam.org#[🇪🇪]
 trojan://origin@content-provider26.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider5.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BDtrojan://Sp3eDVp@content-provider24.cdn-delivery.akamaicd.com:443#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0trojan://origin@51.77.71.134:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】
 trojan://pUF
