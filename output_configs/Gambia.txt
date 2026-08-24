@@ -1,0 +1,1 @@
+trojan://Telegram_healer_config@188.114.97.6:443?sni=bjsa2ygfitzjtho8ucze29xf2m2q9c.g3fiajpf0erm9k3x6ww-yegzl2.workers.dev&type=ws&path=%2Ftr%2FJ6IJuAAWkqyiEt8UkeRnVdLlkLIGukLr%3Fed%3D2560&alpn=http%2F1.1&fp=unsafe#%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20DE57%7C24.9MB%2Fs%7CGPT%E2%81%BA-DE%7CGM-SA%7CSP-IT
