@@ -11,9 +11,10 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.241:443#🇯🇵JP
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@103.236.66.4:40001#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1nY206QnV0dGVyZmx5MTIzQHF3ZTk1Mjc@103.236.66.4:40002#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?security=tls&sni=vpn-node.internal&allowInsecure=1&alpn=http%2F1.1&type=ws&path=%2FxVpnTrojanWsSvc7f3a&host=vpn-node.internal&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
+trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?allowInsecure=1&alpn=http/1.1&host=vpn-node.internal&insecure=1&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&type=ws#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
 trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?security=tls&sni=vpn-node.internal&allowInsecure=1&alpn=http%2F1.1&type=ws&path=%2FxVpnTrojanWsSvc7f3a&host=vpn-node.internal&fp=firefox#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
-trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?security=tls&sni=vpn-node.internal&alpn=http%2F1.1&insecure=1&allowInsecure=1&type=ws&host=vpn-node.internal&path=%2FxVpnTrojanWsSvc7f3a#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
+trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?security=tls&sni=vpn-node.internal&allowInsecure=1&alpn=http%2F1.1&type=ws&path=%2FxVpnTrojanWsSvc7f3a&host=vpn-node.internal&fp=safari#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
+trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?security=tls&sni=vpn-node.internal&allowInsecure=1&fp=chrome&alpn=http/1.1&type=ws&path=/xVpnTrojanWsSvc7f3a&host=vpn-node.internal#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shibuya%20City%20%7C%20%5BBL%5D
 trojan://7f0dcf73-bc93-4038-b683-c4728f06e7d7@trojannmfan5.ripwallllc.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-104.238.160.138-0196
 trojan://7f0dcf73-bc93-4038-b683-c4728f06e7d7@trojannmfan5.ripwallllc.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-104.238.160.138-0210
 trojan://AE62539071@13.113.89.229:443?security=tls&sni=coherent-newt.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-13.113.89.229-0164

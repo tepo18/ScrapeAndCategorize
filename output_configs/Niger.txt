@@ -1,2 +1,2 @@
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20051/?type=tcp&security=tls&sni=ng.catxstar.com&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%2C%20Lagos%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@45.67.201.210:20103/?type=tcp&security=tls&sni=ng.catxstar.com&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%2C%20Lagos%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20051/?type=tcp&security=tls&sni=ng.catxstar.com&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%2C%20Lagos%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20103/?type=tcp&security=tls&sni=ng.catxstar.com&allowInsecure=1#%F0%9F%87%B3%F0%9F%87%AC%20Nigeria%2C%20Lagos%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
