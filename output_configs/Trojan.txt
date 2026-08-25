@@ -28,6 +28,7 @@ trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?allowIns
 trojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&alpn=http/1.1&host=cdir-0203.wlfvip.com&type=ws&sni=cdir-0203.wlfvip.com#%40ho3ino00%F0%9F%A4%A3+%D8%A2%D8%AE%D9%88%D9%86%D8%AF%DB%8C+%D8%AF%D8%B1+%D8%AC%D8%B2%D8%A7%DB%8C%D8%B1+%D8%A7%D8%B3%DA%A9%D8%A7%D9%86%D8%AF%DB%8C%D9%86%D8%A7%D9%88%DB%8C
 trojan://347ca311-8fc2-499c-8fe1-bd0ecb50f1b3@5.34.222.4:43074?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=iepl.jpz2.cat.bilibili.com&note=@FreeOnlineVPN#🇯🇵
 trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#GB
+trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?allowInsecure=1#🇬🇧[openproxylist.com]
 trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?security=tls#GB
 trojan://3b9deff947c74dde@kuso153.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇺🇸]
 trojan://3c4e10af98c30972@23.247.137.64:443?mode=gun&security=tls&fp=chrome&type=grpc&serviceName=db&sni=n2.gladns.com#🔥Join+Telegram:@Farah_VPN🟣
@@ -60,10 +61,13 @@ trojan://5a2c16f9@777.ai7777777.xyz:443?security=tls&sni=snippets.kkii.eu.org&ty
 trojan://5a2c16f9@one.cf.cdn.hyli.xyz:443?path=%2F&security=tls&host=snippets.kkii.eu.org&type=ws&sni=snippets.kkii.eu.org#🇸🇬#ShineNET%20VPN
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@45.90.216.147:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%203
 trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?security=reality&sni=cloud.mail.ru&fp=firefox&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&sid=8c3785d47c2017ec&spx=%2f&type=tcp&path=%2f#%f0%9f%87%b7%f0%9f%87%ba%20RU%202
+trojan://5e19b3c8-c1dc-4163-95e2-895319c15d6c@ru.techdatacloud.org:8443?type=tcp&security=reality&pbk=jaZRUO7x7awSXNBlvKp3nXdm2gBEsEgmNbbYs7RRQlw&fp=chrome&sni=cloud.mail.ru&sid=8c3785d47c2017ec&spx=/#🇷🇺[openproxylist.com]
 trojan://5e89314202a8405f@kuso30.pacemakere.com:101?allowInsecure=1#GB
+trojan://5e89314202a8405f@kuso30.pacemakere.com:101?allowInsecure=1#🇬🇧[openproxylist.com]
 trojan://5e89314202a8405f@kuso30.pacemakere.com:101?security=tls#GB
 trojan://5e89314202a8405f@kuso30.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇺🇸]
 trojan://63db084a-e2ce-46db-9dd6-d4ed2c3d2663@sg01.freeflyingcloud.xyz:35702?sni=sg01.freeflyingcloud.xyz#🔥Join+Telegram:@Farah_VPN🟣
+trojan://6519a715da174466@jcnp178.pacemakere.com:101?allowInsecure=1#🇯🇵[openproxylist.com]
 trojan://6519a715da174466@jcnp178.pacemakere.com:101?type=raw&headerType=none&security=tls#[🇯🇵]
 trojan://662c065f-0495-4598-9a95-2e2fcb38b7b1@57.180.10.65:42423/?type=ws&host=vpn-node.internal&path=/xVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&alpn=http/1.1&allowInsecure=1#泰国
 trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=/6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#🩵+@Azarakhsh_Proxy+🩷
@@ -89,6 +93,7 @@ trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@mfa.gov.ua:443?path=%2F&security=t
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@saas.sin.fan:443?type=ws&host=_acme&path=/?ed=2560&security=tls&sni=_acme#SiNAVM
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443?path=/?ed=2560&security=tls&fp=chrome&type=ws&sni=_acme&allowInsecure=1#SiNAVM
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@sub.danfeng.eu.org:443?type=ws&host=_acme&path=/?ed=2560&security=tls&sni=_acme#SiNAVM
+trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?allowInsecure=1#🇹🇼[openproxylist.com]
 trojan://88b3dd32347d4ffa@wti11.pacemakere.com:20062?type=raw&headerType=none&security=tls#[🇹🇼]
 trojan://8bS8vVC5CQ2GsckhMh8IT1jv@193.124.46.65:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=193.124.46.65#@leviconfigs🪐-13
 trojan://8ccc5a61-b4f5-4fe4-a394-65890d8f044b@space.byu.id.yxls.eu.cc:443?security=tls&sni=space.byu.id.yxls.eu.cc&allowInsecure=1&type=ws&path=%2Fsg-orcl&fp=safari#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
@@ -563,9 +568,9 @@ trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=h
 trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.sony.com&sid=f304442cc982#@prrofile_purple
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AA%E7%88%B1%E6%B2%99%E5%B0%BC%E4%BA%9A%E4%B8%A8yoyapai.com%5Cr
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#%F0%9F%87%AA%F0%9F%87%AAEE-109.206.241.10-0129
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?security=tls&sni=russiapower.accesscam.org#🇪🇪[openproxylist.com]
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org&fp=chrome&type=tcp&path=%2f#%f0%9f%87%aa%f0%9f%87%aa%20EE%202
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?sni=russiapower.accesscam.org&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?type=raw&headerType=none&security=tls&sni=russiapower.accesscam.org#[🇪🇪]
