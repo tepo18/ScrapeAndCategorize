@@ -162,7 +162,6 @@ trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#%F
 trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#🇯🇵[openproxylist.com]
 trojan://BxceQaOe@95.40.27.43:32434?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A13%7C%40ripaojiedian
 trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%206
-trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#US
 trojan://EQ30679154@44.251.158.80:443?sni=obliging-louse.rooster465.autos&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%2011
 trojan://EQ30679154@57.180.56.235:443?security=tls&sni=gentle-perch.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.56.235-0244
 trojan://EQ30679154@assuring-werewolf.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#新加坡-09
@@ -173,7 +172,6 @@ trojan://EQ30679154@obliging-louse.rooster465.autos:443?sni=obliging-louse.roost
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.164-0186
 trojan://EQ30679154@pretty-mollusk.rooster465.autos:443?security=tls#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.164-0206
 trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%ba%f0%9f%87%b8%20US%205
-trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&fp=chrome&type=tcp&path=/#US
 trojan://EQ30679154@sincere-gelding.rooster465.autos:443?sni=sincere-gelding.rooster465.autos&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://EQ30679154@thorough-falcon.rooster465.autos:443#NL🇳🇱
 trojan://EQ30679154@thorough-foxhound.rooster465.autos:443/?type=tcp&security=tls&fp=chrome#韩国-06
