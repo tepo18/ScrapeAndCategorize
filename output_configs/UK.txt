@@ -94,7 +94,7 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧GB
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-216
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0094
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-5314
-trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20041/?type=tcp&security=tls&sni=de.catxstar.com&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://7e70223b-f331-41d5-9313-02b8d2df2885@d3.catcat321.com:20003/?type=tcp&security=tls&sni=de.catxstar.com&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 trojan://humanity@104.18.23.63:443?sni=www.ignitelimit.com#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 trojan://humanity@176.97.66.175:443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20V2CROSS.COM
 vmess://eyJ2IjoiMiIsInBzIjoiR0Ig8J+HrPCfh6cgfCBAUmF5ZGlrYWx4IHwgMDUyQzZFIiwiYWRkIjoiZnJlZWRvbS52aXBnc210ZWFtLmluZm8iLCJwb3J0IjoxNzM1NiwiaWQiOiJmOTVjYjVhZS0xYjA2LTRhNTctYWJhMC0zMGFmZTEyZDIzZWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiIiLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIiLCJuYW1lIjoiR0Ig8J+HrPCfh6cgfCBAUmF5ZGlrYWx4IHwgMDUyQzZFIn0=
