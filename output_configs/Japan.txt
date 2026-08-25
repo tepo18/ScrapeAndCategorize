@@ -35,6 +35,7 @@ trojan://AE62539071@54.64.255.224:443?security=tls&sni=maximum-elk.rooster465.au
 trojan://AE62539071@54.95.128.248:443?security=tls&sni=engaged-ram.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-54.95.128.248-0238
 trojan://AE62539071@57.181.88.104:443?security=tls&sni=climbing-frog.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.181.88.104-0246
 trojan://BxceQaOe@13.214.209.40:3878?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
+trojan://BxceQaOe@95.40.27.43:16691?allowInsecure=1&sni=t.me%252Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
 trojan://EQ30679154@57.180.56.235:443?security=tls&sni=gentle-perch.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP-57.180.56.235-0244
 trojan://EQ30679154@humorous-snake.rooster465.autos:443/?type=tcp&security=tls&sni=humorous-snake.rooster465.autos&fp=chrome#日本
 trojan://HC04361579@exact-sawfish.rooster465.autos:443/?type=tcp&security=tls&sni=exact-sawfish.rooster465.autos#日本
