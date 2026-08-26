@@ -179,7 +179,6 @@ trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.
 trojan://ND91608427@202.78.163.248:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.248-0256
 trojan://ND91608427@44.246.163.102:443?fp=chrome&sni=fleet-bonefish.rooster465.autos#%3E%3E%40oneclickvpnkeys%3A%3AUS
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0168
-trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#US
 trojan://ND91608427@44.246.163.102:443?security=tls&sni=fleet-bonefish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://ND91608427@44.246.163.102:443?sni=fleet-bonefish.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://ND91608427@44.246.163.102:443?type=raw&headerType=none&security=tls&sni=fleet-bonefish.rooster465.autos#[🇺🇸]
@@ -189,7 +188,6 @@ trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=disc
 trojan://ND91608427@discrete-basilisk.rooster465.autos:443?security=tls&sni=discrete-basilisk.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.148-0260
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=1&sni=fleet-bonefish.rooster465.autos#%3E%3E%40v2nodes%3A%3AUS
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#%F0%9F%87%BA%F0%9F%87%B8US-44.246.163.102-0162
-trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#US
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?security=tls&sni=fleet-bonefish.rooster465.autos#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?sni=fleet-bonefish.rooster465.autos&fp=chrome&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%B8
 trojan://ND91608427@relaxed-gull.rooster465.autos:443?security=tls&sni=relaxed-gull.rooster465.autos#%F0%9F%87%B5%F0%9F%87%B1PL-202.78.163.248-0210
