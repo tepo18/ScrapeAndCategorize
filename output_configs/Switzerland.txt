@@ -1,5 +1,2 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@146.70.26.156:1080#🇨🇭CH
 ss://YWVzLTEyOC1nY206bHZ4dWoxMXg4c2ZndDlndDZtamY@86.106.84.196:13263#🇨🇭CH
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@45.95.232.189:443?sni=tr-switzerlandgopota.unlimited-access.ru&allowInsecure=1&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH38%7C35.3MB%2Fs%7CGPT%E2%81%BA-CH
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@45.95.232.189:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH44%7C28.4MB%2Fs%7CGPT%E2%81%BA-CH
-trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-switzerlandgopota.unlimited-access.ru:443?sni=tr-switzerlandgopota.unlimited-access.ru&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%AD%20%7C%20%40WhiteDNS%20%7C%20CH41%7C30.6MB%2Fs%7CGPT%E2%81%BA-CH
