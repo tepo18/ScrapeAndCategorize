@@ -2,7 +2,6 @@ ss://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?type=tcp&encryption
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#@IRAN_V2RAY1🌟
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#@free_conf_iran
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@ca4.levikogjgfdd.ir:8388#@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.223:8080#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20114
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Z0tMMjAzQ3NKcmdndHg5M2NERnc2V1Zsd1hIS2c3eU9PcXBtTkZEM0RGZz0@Istanbul.morteza1388m1122.ir:54985#@IRAN_V2RAY1
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@am11.levikogjgfdd.ir:8388#@IRAN_V2RAY1
 trojan://humanity@2.144.21.112:40443?allowInsecure=0&sni=www.ignitelimit.com&ws=1&wspath=%2Fassignment#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
