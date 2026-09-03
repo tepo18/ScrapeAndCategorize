@@ -218,7 +218,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.49:80
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.57:443#%f0%9f%87%b3%f0%9f%87%b1%20NL%2047
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.7:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2061
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#%f0%9f%87%b3%f0%9f%87%b1%20NL%2027
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL655%7C7.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20NL670%7C7.2MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-NL
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0082
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL-109.201.152.181-0129
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#%f0%9f%87%b3%f0%9f%87%b1%20NL%203
@@ -263,13 +263,14 @@ trojan://NQ26071394@89.39.70.143:443?security=tls&insecure=0&headerType=none&fp=
 trojan://NQ26071394@89.39.70.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grateful-bedbug.rooster465.autos#NL🇳🇱
 trojan://PQ05174892@89.39.70.64:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=actual-aardvark.rooster465.autos#NL🇳🇱
 trojan://a2dc172b-cd95-45a5-a999-3f7e8d1a1eab@tr03.kaochangonline.online:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-37.1.220.158-0040
+trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@213.182.199.137:443?allowInsecure=1&alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-trojan://humanity@213.182.199.137:443?alpn=http%2F1.1&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=edge#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-trojan://humanity@213.182.199.137:443?alpn=http/1.1&host=www.pleadcourt.org&path=/assignment&security=tls&sni=www.pleadcourt.org&type=ws&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 vmess://ewogICAgImFkZCI6ICI1Mi4yMzIuNjYuMTUyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMjE4ZTUxYS0yNThmLTQzZDItOGNlMy1jODg3MjYxMWJmMjgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC01Mi4yMzIuNjYuMTUyLTAwMzAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://ewogICAgImFkZCI6ICI1Mi4yMzIuNjYuMTUyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJkMjE4ZTUxYS0yNThmLTQzZDItOGNlMy1jODg3MjYxMWJmMjgiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hs/Cfh7FOTC01Mi4yMzIuNjYuMTUyLTAxOTMiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
 vmess://eyJ2IjoiMiIsInBzIjoiTkwg8J+Hs/Cfh7EgfCBAUmF5ZGlrYWx4IHwgMkM2QzhBIiwiYWRkIjoiYXBqaGRnZ3l4LmNvbSIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiNWY3MmYxODAtYjIxYi00YjdhLTg0ODQtMjQwNzU5MDEyNjA0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii81ZjcyZjE4MC1iMjFiLTRiN2EtODQ4NC0yNDA3NTkwOTY3ODUiLCJob3N0IjoiYXBqaGRnZ3l4LmNvbSIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
