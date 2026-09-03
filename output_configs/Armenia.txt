@@ -1,3 +1,1 @@
-trojan://M7v%25w11Se%2A@35.246.185.109:443?allowInsecure=1&security=tls&sni=dggg.wsone.icu&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://M7v%25w11Se%2A@35.246.185.109:443?allowInsecure=1&security=tls&sni=dggg.wsone.icu&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vmess://eyJhZGQiOiIxODUuMjA0LjE3MS45NSIsImFpZCI6IjAiLCJhbHBuIjoiaDIsaHR0cC8xLjEiLCJmcCI6ImNocm9tZSIsImhvc3QiOiIiLCJpZCI6ImU3ZTE5NDdkLWE4NzUtNGJlNS1iZDUzLTc5YzVhMTgzNzExNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMTgxOSIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgRnJhbmtmdXJ0IGFtIE1haW4gfCBbQkxdIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
