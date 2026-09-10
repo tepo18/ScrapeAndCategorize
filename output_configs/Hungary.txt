@@ -1,1 +1,2 @@
+trojan://C0ldyfh-vpnjantit.com@hu2.vpnjantit.com:4443?security=tls&sni=hu2.vpnjantit.com&fp=safari&type=tcp&headerType=none&path=%2f&allow_insecure=0#%f0%9f%87%ad%f0%9f%87%ba%20HU%201
 trojan://humanity@185.225.68.232:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#HU
