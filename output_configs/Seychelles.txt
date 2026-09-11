@@ -1,4 +1,4 @@
 trojan://humanity@45.130.125.126:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SC
 trojan://humanity@45.130.125.18:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SC
-trojan://humanity@45.130.125.75:443?host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com&type=ws#SC
+trojan://humanity@45.130.125.75:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SC
 trojan://humanity@45.130.125.76:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&alpn=http/1.1&fp=chrome#SC
