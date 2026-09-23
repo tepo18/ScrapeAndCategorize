@@ -1,2 +1,1 @@
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@86.106.119.23:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=gr.freeguard.org#🇦🇹AT-🚀@VPNine1
 trojan://humanity@46.102.156.144:2053?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#AT
