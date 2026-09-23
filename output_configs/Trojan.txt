@@ -30,6 +30,7 @@ trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@104.18.41.190:443?sni=nat11.outsid
 trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@104.18.41.190:443?sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?allowInsecure=1&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3#CA
 trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?allowInsecure=1&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://3c6d1933-b22a-484b-ac8a-63e24f5fba75@jp3.998998.best:443?security=tls&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=/w4e5yh0p945y3#SiNAVM
 trojan://44e660b0ee21cf3ac66aee2c08af85d2@160.16.107.37:3169?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4ea1d07c-41c2-42b5-954d-414fee051856@df.xiguajiasu.xyz:46002#🔥Join+Telegram:@Farah_VPN🟣
 trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga#%F0%9F%87%AF%F0%9F%87%B5JP-132.226.5.246-0154
