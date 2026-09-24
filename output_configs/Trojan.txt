@@ -262,6 +262,7 @@ trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host
 trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#@v2ray313
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumerOot.coM.&fp=chrome&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
+trojan://humanity@188.42.145.180:443?security=tls&sni=www.volumeroot.com&fp=chrome&alpn=http/1.1&type=ws&host=www.volumeroot.com&path=/assignment#SiNAVM
 trojan://humanity@191.96.94.226:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#DE
 trojan://humanity@193.233.87.41:8443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#US
 trojan://humanity@193.239.160.134:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#BG
