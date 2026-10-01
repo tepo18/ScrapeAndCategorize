@@ -1,5 +1,3 @@
-trojan://Trojan%4082164024@th1.zestapp778.com:443?type=tcp&security=tls&sni=th1.zestapp778.com&fp=chrome#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2C%20Samut%20Songkhram%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@th1.zestapp778.com:443?type=tcp&security=tls&sni=th1.zestapp778.com&fp=safari#%F0%9F%87%B9%F0%9F%87%AD%20Thailand%2C%20Samut%20Songkhram%20%7C%20%5BBL%5D
 trojan://Trojan@82164024@th1.zestapp778.com:443?security=tls&sni=th1.zestapp778.com#%F0%9F%87%B9%F0%9F%87%ADTH-157.85.105.82-0603
 vmess://eyJhZGQiOiIxMTguMTkzLjU3LjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkNDZiZjQ5Mi00NWY0LTRjMzMtODJkMS1lYTJhMWNiNTRlYjYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZDQ2YmY0OTIiLCJwb3J0IjoiNDk2NjciLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDEyRTcyQiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmV0Ijoibm9uZSIsInBhdGgiOiIiLCJwb3J0IjoiMzc1MTUiLCJwcyI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
