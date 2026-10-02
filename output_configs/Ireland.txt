@@ -1,3 +1,4 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#%3E%3E%40configV2rayNG%3A%3AIE
-trojan://Trojan@82164024@ie.tronsg.com:443?sni=ie.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE14%7C7.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
+trojan://Trojan@82164024@ie.tronsg.com:443?sni=ie.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE16%7C6.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
+trojan://Trojan@82164024@ie.tronsg.com:443?sni=ie.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE14%7C15.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
 vmess://eyJhZGQiOiI4NS4xNTkuMjI5LjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IklFIPCfh67wn4eqIHwgQFJheWRpa2FseCB8IEI3QjFCNiJ9
