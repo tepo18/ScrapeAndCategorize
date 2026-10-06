@@ -1,11 +1,8 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZkduS2dQOGs4RUhGdXZq@20.107.219.181:443#%f0%9f%87%ae%f0%9f%87%aa%20IE%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppbXEwdkxpa2JPeDRUSFpQ@20.107.193.38:443#%3E%3E%40configV2rayNG%3A%3AIE
+trojan://Trojan@82164024@3.255.76.207:443?sni=ie.tronsg.com&allowInsecure=1&type=tcp#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE29%7C1022KB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
+trojan://Trojan@82164024@3.255.76.207:443?sni=ie.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE26%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
 trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&path=/#IE
-trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE31%7C6.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
 trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-3.253.106.233-0249
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE36%7C2.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE38%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#%F0%9F%87%AE%F0%9F%87%AAIE-34.242.77.118-0238
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE27%7C18.5MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20IE29%7C15.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-IE
 vmess://eyJhZGQiOiI4NS4xNTkuMjI5LjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYWZlNTc1NTctZGYyNC00M2U1LTljZWEtNWQyYWNjMmNhZDA4IiwibmV0IjoiZ3JwYyIsInBhdGgiOiIiLCJwb3J0IjoiODQ0MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJwcyI6IklFIPCfh67wn4eqIHwgQFJheWRpa2FseCB8IEI3QjFCNiJ9
