@@ -1,0 +1,4 @@
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@193.23.199.32:443?security=tls&sni=de.zhabulik.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@193.23.199.32:443?security=tls&sni=de.zhabulik.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&sni=pl.zhabulik.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@pl.zhabulik.ru:443?security=tls&sni=pl.zhabulik.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
