@@ -1,1 +1,0 @@
-wireguard://%2BKVuOwKeQApZWIGptQi2tY1dZLVjonuIMlLwQYz%2FJmE%3D@de-wireguard.metaworkcloud.ir:7080?address=20.0.3.182%2F32&presharedkey=&reserved=0%2C0%2C0&publickey=ctf7F9p3pUsYd4%2F8RK1QXJRs0kmLqJnaXD79XARvgSc%3D&mtu=1280#%F0%9F%87%AE%F0%9F%87%B7188052%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
