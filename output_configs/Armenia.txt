@@ -1,4 +1,0 @@
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@91.92.43.240:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20II%29%20%7C%20%5BBL%5D
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?security=tls&sni=ger1.fytpn.com&fp=firefox&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20II%29%20%7C%20%5BBL%5D
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger1.fytpn.com:443?type=tcp&security=tls&sni=&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20II%29%20%7C%20%5BBL%5D
-trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
