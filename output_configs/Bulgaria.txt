@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#BG
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?security=tls#%F0%9F%87%A7%F0%9F%87%ACBG-93.152.223.201-2241
 trojan://gHncxmRjWEJ7apX5XuXsHw4kGexMH_gU@ger2.fytpn.com:443?type=tcp&security=tls&sni=ger2.fytpn.com&fp=chrome#🇧🇬BG-🚀@VPNine1
