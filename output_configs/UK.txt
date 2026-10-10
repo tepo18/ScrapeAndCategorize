@@ -76,12 +76,10 @@ ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:80#%F0%9F%87%AC%F0
 ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:80#%F0%9F%87%AC%F0%9F%87%A7GB-149.102.132.184-0196
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0068
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0108
-trojan://Trojan%4082164024@18.168.148.212:443?security=tls&fp=chrome&sni=gb.tronsg.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@18.168.148.212:443?security=tls&sni=gb.tronsg.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
+trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&sni=gb.tronsg.com#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&sni=gb.tronsg.com#%F0%9F%87%AC%F0%9F%87%A7GB-18.168.148.212-0128
 trojan://Trojan%4082164024@gb.tronsg.com:443?security=tls&sni=gb.tronsg.com#%F0%9F%87%AC%F0%9F%87%A7GB-18.168.148.212-2119
-trojan://Trojan%4082164024@gb.tronsg.com:443?type=tcp&security=tls&sni=gb.tronsg.com&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20London%20%7C%20%5BBL%5D
 trojan://Trojan@82164024@18.168.148.212:443?sni=gb.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%AC%F0%9F%87%A7%20%7C%20%40WhiteDNS%20%7C%20GB80%7C1.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-GB
 trojan://humanity@213.1.145.50:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&host=www.calmlunch.com#GB
 vmess://ewogICAgImFkZCI6ICIxODYuMTkwLjIxMS42NyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInBhaG9iYWMub3JnIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh6zwn4enR0ItMTg2LjE5MC4yMTEuNjctMDE4MiIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
