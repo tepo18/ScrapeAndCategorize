@@ -1,1 +1,1 @@
-trojan://humanity@192.145.30.27:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#🇧🇬BG-🚀@VPNine1
+trojan://humanity@193.239.160.134:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#BG
