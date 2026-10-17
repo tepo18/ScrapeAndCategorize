@@ -1,0 +1,2 @@
+trojan://-VbTw-xqE7XYmEsoZTE7ShJoYLCjdBMQ@ger8.fytpn.com:443?type=tcp&security=tls&sni=ger1.fytpn.com&fp=chrome#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
+trojan://-VbTw-xqE7XYmEsoZTE7ShJoYLCjdBMQ@ger8.fytpn.com:443?type=tcp&security=tls&sni=ger1.fytpn.com&fp=firefox#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
