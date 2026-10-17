@@ -18,9 +18,7 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%F0%9F%87%A8%F0%9F%
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0094
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.41.190:443?security=tls&sni=nat11.outsidemyheart.space&type=ws&host=nat11.outsidemyheart.space&path=%2Fw4e5yh0p945y3%3Fed%3D2560#CA
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@uk8.998998.best:443?host=server41.9966338.xyz&path=%2Fangles&sni=server41.9966338.xyz&type=ws#CA
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@152.53.80.195:443?security=tls&fp=firefox&sni=abr2.freeguard.org&peer=abr2.freeguard.org#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D
 trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com#%F0%9F%87%A8%F0%9F%87%A6CA-155.138.138.2-5332
-trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40WhiteDNS%20%7C%20CA94%7C2.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CA
 trojan://av7fquzvuc99xcs9@172.67.140.126:2087?path=/@BlueKnight_net--@BlueKnight_net--@BlueKnight_net&security=tls&alpn=h2&insecure=0&host=uwu.dianaw.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=uwu.dianaw.cc.cd#CA
 trojan://e309e031-991e-4656-9934-44d10deb8fd8@nimm.mpd.cc.cd:2053?security=tls&sni=nimm.mpd.cc.cd&type=ws&path=/0962&Host=nimm.mpd.cc.cd#CA
 trojan://humanity@104.16.122.175:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#CA
@@ -50,8 +48,8 @@ trojan://humanity@172.64.150.28:443?allowInsecure=1&insecure=1&security=tls&sni=
 trojan://humanity@172.67.118.45:443?type=ws&sni=www.volumeroot.com&fp=chrome&alpn=http%2F1.1&path=%2Fassignment&host=www.volumeroot.com#CA
 trojan://humanity@172.67.217.240:443?security=tls&sni=www.calmlunch.com&fp=unsafe&type=ws&host=www.calmlunch.com&path=%2Fassignment#CA
 trojan://humanity@172.67.231.254:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#CA
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-147
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=null&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-253
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-146
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=null&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-251
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-10
 trojan://humanity@www.hcaptcha.com:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#CA
 vmess://ewogICAgImFkZCI6ICIxNS4yMzUuNTAuMTcyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTE1LjIzNS41MC4xNzItMTY0NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
