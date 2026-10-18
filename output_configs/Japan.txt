@@ -15,9 +15,6 @@ ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%F0%9F%87%AF%F
 ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#%F0%9F%87%AF%F0%9F%87%B5JP-154.36.158.197-0426
 ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388#%F0%9F%87%AF%F0%9F%87%B5JP-191.223.221.53-0104
 ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388#%F0%9F%87%AF%F0%9F%87%B5JP-191.223.221.53-0240
-trojan://HOrViv@209.248.32.116:28106?type=tcp&sni=download.windowsupdate.com&allowInsecure=1&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%7C%20%5BBL%5D
-trojan://HOrViv@209.248.32.116:28106?type=tcp&sni=download.windowsupdate.com&allowInsecure=1&security=tls&fp=edge#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%7C%20%5BBL%5D
-trojan://HOrViv@209.248.32.116:28106?type=tcp&sni=download.windowsupdate.com&allowInsecure=1&security=tls&fp=qq#%F0%9F%87%AF%F0%9F%87%B5%20Japan%2C%20Shinagawa%20%7C%20%5BBL%5D
 trojan://Trojan@82164024@jp.tronsg.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-108.61.186.37-5103
 trojan://Trojan@82164024@jp.tronsg.com:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-108.61.186.37-5450
 trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?sni=45.32.52.173&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20%7C%20%40WhiteDNS%20%7C%20JP141%7C1.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-JP
