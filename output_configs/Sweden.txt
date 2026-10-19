@@ -1,5 +1,6 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCWXpOOGp3Z0xRaXlnYUxicnJBU0pwZVFtVmg2THI0cQ==@185.156.108.135:188#%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%40WhiteDNS%20%7C%20SE22%7C4.9MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-SE
 ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#%F0%9F%87%B8%F0%9F%87%AASE-70.34.212.124-0130
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#%F0%9F%87%B8%F0%9F%87%AASE-70.34.212.124-0231
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw==@70.34.212.124:8388#%F0%9F%87%B8%F0%9F%87%AASE-70.34.212.124-0186
 trojan://humanity@192.145.30.27:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#SE
 trojan://humanity@51.20.202.203:443?cs=real_firefox_cipherSuites&path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#SE
 trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#SE
