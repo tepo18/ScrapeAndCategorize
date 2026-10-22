@@ -24,6 +24,7 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.95:443#%F0%9F%87%A8%F0%9F%
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0077
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0146
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@172.64.144.82:443?sni=server41.9966338.xyz&type=ws&host=server41.9966338.xyz&path=%2Fangles#CA
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40WhiteDNS%20%7C%20CA175%7C542KB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CA
 trojan://humanity@104.16.122.175:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#CA
 trojan://humanity@104.16.6.70:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#CA
 trojan://humanity@104.16.71.213:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA

@@ -6,13 +6,10 @@ ss://YWVzLTI1Ni1jZmI6RkFkVXZNSlVxNXZEZ0tFcQ==@217.30.10.44:9006#%f0%9f%87%b5%f0%
 ss://YWVzLTI1Ni1jZmI6UzJ6RHl5UGNtWk4yaDhFQw==@217.30.10.44:9076#%f0%9f%87%b5%f0%9f%87%b1%20PL%204
 ss://YWVzLTI1Ni1jZmI6cnBnYk5uVTlyRERVNGFXWg@217.30.10.18:9094#🇵🇱PL
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.182:443?sni=pl1.dedushka.top&type=tcp&fp=chrome#PL
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?sni=31.133.0.186&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL64%7C17.8MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-PL
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?sni=pl2.dedushka.top&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL66%7C6.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-PL
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@31.133.0.186:443?sni=31.133.0.186&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL59%7C4.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-PL
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1PL-31.133.0.182-0181
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?security=tls&sni=pl1.dedushka.top&fp=chrome&type=tcp&headerType=none&path=%2f#%f0%9f%87%b5%f0%9f%87%b1%20PL%203
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?security=tls&sni=pl2.dedushka.top#%F0%9F%87%B5%F0%9F%87%B1PL-31.133.0.186-0169
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?sni=pl2.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL65%7C6.4MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-PL
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl2.dedushka.top:443?sni=pl2.dedushka.top&type=tcp&fp=chrome#%F0%9F%87%B5%F0%9F%87%B1%20%7C%20%40WhiteDNS%20%7C%20PL70%7C6.3MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-PL
 trojan://humanity@148.253.212.42:443?path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#PL
 vmess://eyJ2IjoiMiIsInBzIjoiUEwg8J+HtfCfh7EgfCBAUmF5ZGlrYWx4IHwgNEI4RDFCIiwiYWRkIjoiODIuNDAuNjIuMTkxIiwicG9ydCI6IjM1ODIzIiwiaWQiOiI2YWRmZjAxMC04MmI2LTRiYjItYWM5MC05ZjY2ZDNjNDI4MzYiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6Imh0dHBzOi8vd3d3LnNwZWVkdGVzdC5uZXQifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiUEwg8J+HtfCfh7EgfCBAUmF5ZGlrYWx4IHwgNTUyMkQyIiwiYWRkIjoiOTEuMjI0Ljc1LjU2IiwicG9ydCI6IjUwNjY1IiwiaWQiOiJATml0cm9fU2t5Ym90IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsInRscyI6IiIsImFscG4iOiIiLCJwYXRoIjoiLyIsImhvc3QiOiJwbGF5LWFwcHMtZmVhdHVyZXMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIn0=
