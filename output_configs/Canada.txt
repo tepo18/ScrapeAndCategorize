@@ -2,6 +2,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#%3E%3E%40oneclic
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#%3E%3E%40oneclickvpnkeys%3A%3ACA
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0094
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%F0%9F%87%A8%F0%9F%87%A6CA-149.22.95.183-0103
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#CA
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.95.183:443#CA
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@134.195.196.231:8090#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.231-0028
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@134.195.196.231:8090#%F0%9F%87%A8%F0%9F%87%A6CA-134.195.196.231-0035
@@ -18,6 +19,8 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6CA-137.184.174.93-0131
 trojan://9d033eb1-22c7-4ae9-9d59-783e40c8eec3@www.visa.com.sg:8443?sni=au5.yang-1989.xyz&type=ws&path=%2Fiw8i&host=au5.yang-1989.xyz#CA
 trojan://Trojan@82164024@ca.tronsg.com:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-155.138.138.2-4786
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40WhiteDNS%20%7C%20CA153%7C3.1MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CA
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20%7C%20%40WhiteDNS%20%7C%20CA157%7C2.9MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-CA
 trojan://bpb-trojan@104.21.26.36:443?sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&fp=chrome#CA
 trojan://bpb-trojan@172.67.135.88:443?sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&fp=chrome#CA
 trojan://bpb-trojan@vless.herogoing.top:443?sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&fp=chrome#CA
@@ -48,7 +51,7 @@ trojan://humanity@172.67.217.240:443?security=tls&sni=www.calmlunch.com&fp=unsaf
 trojan://humanity@172.67.231.254:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#CA
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-54
 trojan://humanity@188.114.96.3:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#CA
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=null&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-302
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=null&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-304
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-56
 trojan://humanity@chat.openai.com:443?path=/assignment&security=tls&alpn=h2&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#CA
 vmess://ewogICAgImFkZCI6ICIxNS4yMzUuNTAuMTcyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiYmFyYWRpaGEuY29tIiwKICAgICJpZCI6ICIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvbGlua3Z3cyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4eo8J+HpkNBLTE1LjIzNS41MC4xNzItMTY0NSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
@@ -76,7 +79,7 @@ vmess://eyJ2IjoiMiIsImFkZCI6IjEwNC4yNi4wLjU2IiwicG9ydCI6MjA4NiwiaWQiOiJlOWUzY2Mx
 vmess://eyJ2IjoiMiIsImFkZCI6Im5vZGVqcy5vcmciLCJwb3J0IjoiNDQzIiwiaWQiOiI2Yjg4MGIwNy1lOTUyLTRjMGItYjRhMy02YzlhYzRjZjlkM2YiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiaGRmeTFjMS5jcGlmb3JwZXJzaWEudWsiLCJwYXRoIjoiL1F2dHZQZERYWElsU2RaTXFudXhHIiwidGxzIjoidGxzIiwic25pIjoiaGRmeTFjMS5jcGlmb3JwZXJzaWEudWsiLCJhbHBuIjoiIiwiZnAiOiIiLCJwcyI6IkNBIPCfh6jwn4emIHwgQFJheWRpa2FseCB8IDMxQUY3NCJ9
 vmess://eyJ2IjoiMiIsImFkZCI6InJ1c3NpYS5jb20iLCJwb3J0IjoiMjA5NSIsInR5cGUiOiJub25lIiwiaWQiOiJiN2M1NjE3MC1lZGI0LTRjNGEtYmI2NC1lZDVlZjQwYjg3MzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwiaG9zdCI6InNzc3ViLnYyLjAwMS5zc3JzdWIuY29tIiwidGxzIjoiIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCBBQzAzMzMifQ==
 vmess://eyJ2IjoiMiIsImFkZCI6InJ1c3NpYS5jb20iLCJwb3J0IjoiODA4MCIsInR5cGUiOiJub25lIiwiaWQiOiJiN2M1NjE3MC1lZGI0LTRjNGEtYmI2NC1lZDVlZjQwYjg3MzkiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92My9kb3dubG9hZC5nZXRGaWxlIiwiaG9zdCI6InNzc3ViLnYyLjAwMS5zc3JzdWIuY29tIiwidGxzIjoiIiwicHMiOiJDQSDwn4eo8J+HpiB8IEBSYXlkaWthbHggfCAxNTdBRTkifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgfCBAV2hpdGVETlMgfCBDQTc2fDQuOU1CL3N8RE5TT0t8R1BU4oG6LUNBIiwiYWRkIjoid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwicG9ydCI6IjQ0MyIsImlkIjoiODBiZTJkZWItM2IyNy00Nzc1LTliZDEtN2YyYTJiOWMyNjFiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJ3d3cud2luZG93c21zaWRvd25sb2Fkcy5jb20iLCJwYXRoIjoiL3RydXRoIiwiaG9zdCI6Ind3dy53aW5kb3dzbXNpZG93bmxvYWRzLmNvbSJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh6YgfCBAV2hpdGVETlMgfCBDQTE0OXw1LjFNQi9zfEROU09LfEdQVOKBui1DQSIsImFkZCI6Ind3dy53aW5kb3dzbXNpZG93bmxvYWRzLmNvbSIsInBvcnQiOiI0NDMiLCJpZCI6IjgwYmUyZGViLTNiMjctNDc3NS05YmQxLTdmMmEyYjljMjYxYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoid3d3LndpbmRvd3Ntc2lkb3dubG9hZHMuY29tIiwicGF0aCI6Ii90cnV0aCIsImhvc3QiOiJ3d3cud2luZG93c21zaWRvd25sb2Fkcy5jb20ifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgM0EyQUZCIiwiYWRkIjoiMTA0LjIxLjIyNC4yNDAiLCJwb3J0Ijo4MCwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsImlkIjoiNzAyMjk4MmYtZGE0Yy00OGM5LWM2NjAtYjIzMTVhYmRjZjdlIiwic25pIjoiIiwiaG9zdCI6ImEucHJhcHQxLmlyIiwicGF0aCI6Ii8/ZWQ9MjA0OCZUZWxlZ3JhbfCfh6jwn4ezIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgM0FBNzRFIiwiYWRkIjoiMTM0LjEyMi40MS4xNjAiLCJwb3J0IjozMzg5LCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQ0Eg8J+HqPCfh6YgfCBAUmF5ZGlrYWx4IHwgM0RBRENFIiwiYWRkIjoiMTA0LjE5LjQ3LjE4NiIsInBvcnQiOiI4MDgwIiwidHlwZSI6Im5vbmUiLCJpZCI6ImI1NTFhYTIyLTIyYWYtMTFlZS1iOGQ4LWYyM2M5MzJlYjY4ZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvP2VkPTIwNDgmVGVsZWdyYW3wn4eo8J+HsyBAV2FuZ0NhaTIiLCJob3N0Ijoib2lpY3R3Lnl5ZHNpaS5jb20iLCJ0bHMiOiIifQ==
