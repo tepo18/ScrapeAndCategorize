@@ -1,5 +1,5 @@
-trojan://humanity@45.130.125.126:443?security=tls&type=ws&host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com#SC
-trojan://humanity@45.130.125.160:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇸🇨SC-🚀@VPNine1
+trojan://humanity@45.130.125.112:443?allowInsecure=0&fp=firefox&insecure=0&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#SC
+trojan://humanity@45.130.125.160:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&Host=www.calmlunch.com#SC
 trojan://humanity@45.130.125.190:443?sni=www.calmlunch.com&allowInsecure=1&type=ws&path=/assignment&host=www.calmlunch.com#SC
 trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#SC
-trojan://humanity@45.130.125.75:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#SC
+trojan://humanity@45.130.125.76:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&alpn=http%2F1.1#SC
