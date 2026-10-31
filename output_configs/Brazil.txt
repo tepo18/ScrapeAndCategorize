@@ -1,6 +1,4 @@
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&allowInsecure=1&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20BR9%7C1.7MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-BR
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&type=tcp&fp=chrome#%F0%9F%87%A7%F0%9F%87%B7%20%7C%20%40WhiteDNS%20%7C%20BR8%7C2.0MB%2Fs%7CDNSOK%7CGPT%E2%81%BA-BR
-trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?sni=br001.zestapp778.com&type=tcp&fp=chrome#BR
+trojan://5t6i121em5lkmsmk@br001.zestapp778.com:39533?type=tcp&security=tls&fp=chrome&sni=br001.zestapp778.com#BR
 vmess://eyJ2IjoiMiIsInBzIjoiQlIg8J+Hp/Cfh7cgfCBAUmF5ZGlrYWx4IHwgNkY3MkNDIiwiYWRkIjoiNzguMTExLjEwMi4yMzIiLCJwb3J0IjozMzg5LCJpZCI6IjljMDUwYTg2LWQ2MTItNDhmMS1lYzMyLWU1NzNkZjA4YTFiNyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6Imh0dHAiLCJ0bHMiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiQlIg8J+Hp/Cfh7cgfCBAUmF5ZGlrYWx4IHwgNzZERTZGIiwiYWRkIjoiMTcyLjIzMy4xNC4xNyIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJyYXciLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9
 vmess://eyJhZGQiOiI4OS4zOS4xNjEuMTU3IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImFrc2FpLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmFtZSI6IkJSIPCfh6fwn4e3IHwgQFJheWRpa2FseCB8IDgxNDhBMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rdndzIiwicG9ydCI6NDQzLCJwcyI6IkJSIPCfh6fwn4e3IHwgQFJheWRpa2FseCB8IDgxNDhBMSIsInNjeSI6ImF1dG8iLCJzbmkiOiJha3NhaS5vcmciLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
