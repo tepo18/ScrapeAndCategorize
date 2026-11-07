@@ -426,6 +426,8 @@ trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&insec
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.110.184:50887?security=tls&sni=www.nintendogames.net&type=tcp#hamedvpns
 trojan://6ec301428255a78a1d826988d86cc87e@95.40.43.135:50887?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.nintendogames.net#@leviconfigs🪐-27
 trojan://7bpe9s002exll38s@199.68.156.121:2087?path=%2Fwss&security=tls&alpn=http%2F1.1&insecure=0&host=nexoshop.netvia.ir&fp=firefox&type=ws&allowInsecure=0&sni=nexoshop.netvia.ir#US
+trojan://7bpe9s002exll38s@199.68.156.121:2087?path=/wss&security=tls&alpn=http/1.1&insecure=0&host=nexoshop.netvia.ir&fp=firefox&type=ws&allowInsecure=0&sni=nexoshop.netvia.ir#SiNAVM
+trojan://7bpe9s002exll38s@199.68.156.250:2087?allowInsecure=1&alpn=http/1.1&fp=chrome&host=nexoshop.netvia.ir&path=/wss&security=tls&sni=nexoshop.netvia.ir&type=ws#SiNAVM
 trojan://7bpe9s002exll38s@199.68.156.250:2087?allowInsecure=1&alpn=http/1.1&fp=chrome&host=nexoshop.netvia.ir&path=/wss&security=tls&sni=nexoshop.netvia.ir&type=ws#US
 trojan://7e9facb8-b5e1-4a00-8295-2bf6e2e60a70@de01.node.qixi.best:443?path=/download&security=tls&insecure=0&host=de01.node.qixi.best&fp=chrome&type=ws&allowInsecure=0&sni=de01.node.qixi.best#@vmesskhodam
 trojan://86iqp87craz2l9zo@angelvpn.angelmh.cv:1633?security=reality&pbk=u3QgazUHzHjIpDdERKjAimr_01RRQdXuK9kMt5MsWzU&headerType=none&fp=chrome&spx=/8af81bdb180d0ed&type=tcp&sni=okamii1.ir&sid=9f091b0ff8330d0b#@ange1Vpn⚡️کانال
