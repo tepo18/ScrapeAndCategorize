@@ -1,5 +1,5 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0216
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0225
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.63.30.142-0203
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@45.63.30.142:443?security=tls&sni=connectwithemployerstohireyouridealteam.com&path=%2f#%f0%9f%87%a6%f0%9f%87%ba%20AU%201
 trojan://5t6i121em5lkmsmk@au001.zestapp778.com:54374?type=tcp&security=tls&fp=chrome&sni=au001.zestapp778.com#AU
 trojan://Trojan@82164024@45.32.241.180:443?security=tls&sni=au.tronsg.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.32.241.180-0568
 trojan://Trojan@82164024@au.tronsg.com:443?security=tls&sni=au.tronsg.com#%F0%9F%87%A6%F0%9F%87%BAAU-45.32.241.180-0569
