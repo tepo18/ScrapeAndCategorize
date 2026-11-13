@@ -10,6 +10,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080#IRAN_V2PING@
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@193.151.160.9:19999#@IRAN_V2RAY1🎖️
 ss://YWVzLTI1Ni1nY206Y0NNSmdKVEEzQkE0ODlZVVlyRnE3WEhYU2lTcFdsTGE@46.17.47.58:18443#@IRAN_V2RAY1
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dGZ2c0xic1hWOVBkTm14UEE0emFXcjdFT2V6TGp2M2RYZWpRcTJZNXNYQT0=@dlc.deltapc.digital:36542#%F0%9F%87%AE%F0%9F%87%B7IR-178.239.150.72-2953
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.171:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.discoverfreshgraduatejobsstartyourprofessionaljourney.com#@IRAN_V2RAY1
 vless://739b8e9b-f1da-449a-8bfe-bf7b102b7751@iran.zanbor.de:443?type=tcp&encryption=none&security=reality&pbk=arLM5x4jH1TT05yUjirGNCSDK9pSscqHQWg3rqdKA3Y&fp=firefox&sni=bitcommand.com&sid=b1459712&spx=%2F#%E2%99%A5%20IRAN%20(ZANBOR)
 vless://99bfccdb-c4ac-4add-e42c-cc7172970dab@91.107.129.24:2052?path=%2F%40hashmakvpn+%F0%9F%87%A9%F0%9F%87%AA&security=none&encryption=none&type=ws#%40ConfigV2RayNG+%F0%9F%87%A9%F0%9F%87%AAvless://e25f83e8-cdaf-46d8-beb0-01a5e57b2ef2@91.107.129.24:2095?path=%2F%40hashmakvpn+%F0%9F%87%A9%F0%9F%87%AA&security=none&encryption=none&host=bmi.ir&type=ws#%40ConfigV2RayNG+%F0%9F%87%A9%F0%9F%87%AA
