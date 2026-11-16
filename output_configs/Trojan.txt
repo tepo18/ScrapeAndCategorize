@@ -333,7 +333,6 @@ trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru#@prrofile_purple
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443/?type=tcp&security=tls&sni=rs.nebulaguard.org&alpn=h2,http/1.1&fp=chrome#تو
 trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?alpn=h2,http/1.1&fp=chrome&sni=rs.nebulaguard.org#⚕️64@oneclickvpnkeys
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@38.180.101.235:5443?security=tls&sni=rs.nebulaguard.org&alpn=h2,http/1.1&type=tcp&headerType=none#SiNAVM
 trojan://Z5lvhmLqSc@173.234.15.84:48994/?type=tcp&security=tls&sni=m.microsoft.com&allowInsecure=1#🇸🇬
 trojan://a967a0bdb0a9aee1d9581130a2dcd19a@ja304.magiclampcloud.cn:59443?allowInsecure=1&sni=ja304.magiclampcloud.cn&type=tcp#Server
 trojan://auto@129.146.254.39:443?path=/@Azarakhsh_Proxy?ed=2560&security=tls&alpn=http/1.1&host=tg.cmliussss.us.kg&fp=chrome&type=ws&sni=tg.cmliussss.us.kg#🩵+@Azarakhsh_Proxy+🩷
