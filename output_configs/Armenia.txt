@@ -1,3 +1,0 @@
-trojan://XnjwEJbEbqBt8bjlrKZPwg@8.6.112.0:443?alpn=h3&host=cf.lunex-vpn.xyz&path=%2FLunex&security=tls&sni=cf.lunex-vpn.xyz&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://XnjwEJbEbqBt8bjlrKZPwg@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&type=ws&host=cf.lunex-vpn.xyz&path=/Lunex&fp=chrome&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://XnjwEJbEbqBt8bjlrKZPwg@8.6.112.0:443?security=tls&sni=cf.lunex-vpn.xyz&type=ws&host=cf.lunex-vpn.xyz&path=/Lunex&fp=chrome&alpn=h3,#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
